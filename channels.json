@@ -10,7 +10,7 @@
       "name": "RedUno Scz",
       "url": "https://live.eu-north-1b.cf.dmcdn.net/sec2(WKuCJkxie7NlwKi5Kmx7Hi44RgLhjiM4g82vdJY5lavh-0nQbaHtSdtNjN6GWGo9Xlegi7cBQW2bfwlkDRa8P-9jzOPwDKSZX62nmWMJY8tS_G5q1C9WmB_4uXe00CmX)/dm/3/x9n2qyk/d/live-480.m3u8",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "Bolivision",
@@ -22,55 +22,55 @@
       "name": "Unitel Lpz",
       "url": "https://www.dailymotion.com/cdn/live/video/x7vsfua.m3u8?sec=kX5awpkTo3AxCLJMcbyEokyh7p5GNmORb3gwYAjOIF-ttb6KCO1n2j_CSDZs4A5DUSgso3AcdZ07v1B6vXjpEe990WMDSoQJEhR6FRLd1BtNB90S7pdOuA9R_8LqaKMS&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "Unitel Scz",
       "url": "https://www.dailymotion.com/cdn/live/video/x7vsezg.m3u8?sec=Zz0M10WNl98py-x8jDpmliYE7707PpaaHIGATOqaqDUeHFAK17QgvFcAxKBzVy8c_OLG_So3PQTHI205WF58CqcRtywOf4nYPhQ2a9ZMXGJWDXZmQJ-cZ2MLWbfTFkTh&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "Unitel Cbba",
       "url": "https://www.dailymotion.com/cdn/live/video/x7y922d.m3u8?sec=YK_QoystHtb83UgUqVjm7IWTypNHDccsAmt8gxI1wsGg6bMQCtqeuulgeOydwLknOLi9MhlDWbTNMtCk7swwNeLQATtEcqmaEVcvKKFNYLGuSclXgfK2B7Q8ffL7DCFB&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "CVT 18",
       "url": "https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "F10",
       "url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "RTP",
       "url": "https://rtp.noxun.net/hls/stream.m3u8",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "PAT",
       "url": "https://www.redpat.tv/proxylpz/index.m3u8",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "PAT Scz",
       "url": "https://w8.redpat.tv:8000/play/110/68998468.m3u8",
       "icon": "",
-      "is_live": false
+      "is_live": true
     },
 	{
       "name": "UpeaTv",
       "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
       "icon": "",
-      "is_live": false
+      "is_live": true
     }
   ]
 }
