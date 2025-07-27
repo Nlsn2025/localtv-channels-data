@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "name": "Red Uno",
+      "url": "https://example.com/reduno.m3u8",
+      "icon": "https://example.com/reduno.png",
+      "is_live": true
+    },
+    {
+      "name": "Unitel",
+      "url": "https://example.com/unitel.m3u8",
+      "icon": "https://example.com/unitel.png",
+      "is_live": false
+    }
+  ]
+}
