@@ -59,18 +59,6 @@
       "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
       "icon": "",
       "is_live": true
-    },
-	{
-      "name": "PAT Lpz",
-      "url": "https://www.redpat.tv/proxylpz/index.m3u8NotWorking",
-      "icon": "",
-      "is_live": false
-    },
-	{
-      "name": "PAT Scz",
-      "url": "https://w8.redpat.tv:8000/play/110/68998468NotWorking.m3u8",
-      "icon": "",
-      "is_live": false
     }
   ]
 }
