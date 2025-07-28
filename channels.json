@@ -64,6 +64,12 @@
 		  "url":"https://www.dailymotion.com/cdn/live/video/x84eirw.m3u8?sec=Nrqkd_V62I0FxRMBCcLm0pVVNualSQ7lxhBX5ZO_M2Er0Tj57b4t0-FfrJGBH3piKCI78qUnQaghFazixHraf_LeyMGcigD7fiNVQfQpqsfXPSXpW9pTOk4mC2UurkXL&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
 		"icon": "",
 		  "is_live":true
-	  }
+	  },
+	{
+      "name": "TvUniversitaria",
+      "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+      "icon": "",
+      "is_live": true
+    }
   ]
 }
