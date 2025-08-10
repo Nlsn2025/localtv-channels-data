@@ -32,7 +32,8 @@
       "name": "Unitel Lpz",
       "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(Za0NcS3ci_-DepZ6BIByQOyrAhDp5ZoXD3Zsbks7WnhLg9bzybqe5Q5d8A-MA8n_HXOsunesJIbTiJHnALehj_1S8HBV0TKBvOlOsbYOzW37SGXNDndyoGWflsvFY-05)/cloud/3/x7vsezg/d/live-480.m3u8",
       "icon": "https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg",
-      "is_live": true
+      "is_live": true,
+		"useCustomResolver":true
     },
 	{
       "name": "Unitel ScZ",
