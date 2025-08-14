@@ -36,7 +36,7 @@
 		"url":"https://www.dailymotion.com/cdn/live/video/x7vsezg.m3u8?sec=ljeM4eXu-kj0bIe7WZ1Vckz-RD3AonNPa8g3cUDZ3TDWgOzyOvFsvpm4GqMv5QHskLjJzCSgbPapHwGvG6tuAu5qPjDqaLjN-LutG_iY_L-cBxQXemdsg-BN9a6KtSlh&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
 		"icon": "https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg",
       "is_live": true,
-		"useCustomResolver":true
+		"useCustomResolver":false
     },
 	{
       "name": "Unitel ScZ",
