@@ -85,6 +85,11 @@
      "icon": "",
      "is_live":true
     },	  
+	{"name":"SeoTv 1",
+     "url":"https://seo.tv.bo/hls/SEO-TV1.m3u8",
+     "icon": "",
+     "is_live":true
+    },
     {"name":"ATB",
      "url":"https://www.dailymotion.com/cdn/live/video/x84eirw.m3u8?sec=Nrqkd_V62I0FxRMBCcLm0pVVNualSQ7lxhBX5ZO_M2Er0Tj57b4t0-FfrJGBH3piKCI78qUnQaghFazixHraf_LeyMGcigD7fiNVQfQpqsfXPSXpW9pTOk4mC2UurkXL&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
      "icon": "https://www.atb.com.bo/wp-content/uploads/2025/05/cropped-icono-atb-web.png",
