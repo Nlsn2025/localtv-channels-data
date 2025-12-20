@@ -77,17 +77,26 @@
     {"name":"SeoTv movies",
      "url":"https://fb.tv.bo/hls/SEOTVPELISHD.m3u8",
      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-     "is_live":true
+     "is_live":true,
+	 "additionalHeaders": {
+       "Referer": "https://fb.tv.bo"      
+     }
     },	  
 	{"name":"SeoTv tv off",
      "url":"https://seo.tv.bo/hls/TVOFF.m3u8",		
      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-     "is_live":true
+     "is_live":true,
+	 "additionalHeaders": {
+        "Referer": "https://fb.tv.bo"      
+     }
     },	  
 	{"name":"SeoTv.1",
      "url":"https://fb.tv.bo/hls/SEOTVSD.m3u8",
      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-     "is_live":true
+     "is_live":true,
+	 "additionalHeaders": {
+       "Referer": "https://fb.tv.bo"      
+     }
     },
 	{"name":"Gigavision",
      "url":"https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
