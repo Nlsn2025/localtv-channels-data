@@ -129,7 +129,8 @@
    {"name":"BoliviaTv 7.1",
      "url":"https://live2.eu-north-1b.cf.dmcdn.net/sec2(07UqCC3JWiSE1Pg7S9xbOf2dbBNpNy-1xAQjSVD-h8RlQsLQZtwAO15-YXoFHEI_BYwJFi_Lqk5Io2WLOz_L_adtLUp2zhjTpQyPsKEPEJvZXvtj9K_onIwJV7yx8w2R)/cloud/3/x9nzqpo/d/live-480.m3u",
      "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
-     "is_live":true	
+     "is_live":true,
+	   "useCustomResolver":true
     },	  
 
     {"name":"ATB",
