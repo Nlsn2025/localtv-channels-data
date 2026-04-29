@@ -116,7 +116,7 @@
      "is_live":true,
 	 "additionalHeaders": {
 	   "Host": "seo.tv.bo",
-       "Referer": "https://seo.tv.bo"      
+       "Referer": "https://seo.tv.bo/"      
      }
     },
 	{"name":"Gigavision",
