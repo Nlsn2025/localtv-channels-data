@@ -2,21 +2,21 @@
   "channels": [
     {
       "name": "RedUno Lpz",
-      "url": "https://www.dailymotion.com/player/metadata/video/xa0fwio?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(gzMUuqiQeWWzNmtoxcW7suhSjLhPFnwvJeYEPxxVYBjhn6R1MIpMG3drTUvXRYV2tZGp97tYJ56kMXmGVbAT8bF3lsNyPUxNuqnRglbaI8JcebyOQqgvwF1n-BzTSLUz)/cloud/3/xa0fwio/d/live-380.m3u8",
       "icon": "https://www.clipartmax.com/png/middle/121-1214648_red-uno-bolivia-2016-red-uno-de-bolivia.png",
       "is_live": true,
       "useCustomResolver": true
     },
     {
       "name": "RedUno. Scz1",
-      "url": "https://www.dailymotion.com/player/metadata/video/x9n2qyk?legacy=true&embedder=https%3A%2F%2Fwww.reduno.com.bo&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1j22bqis4db3d363e6e",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "useCustomResolver": true,
       "is_live": true
     },
     {
       "name": "Bolivision",
-      "url": "https://d135ohnuotzzyo.cloudfront.net/index_2.m3u8",
+      "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
       "icon": "https://pbs.twimg.com/profile_images/1899192344672403456/pEz5uQ5L_400x400.jpg",
       "is_live": true
     },
