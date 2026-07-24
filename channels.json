@@ -2,16 +2,17 @@
   "channels": [
     {
       "name": "RedUno Lpz",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(vxXHHWxmYhiqO-YOnfwstQKaUaR6vTimOI6vO_qYos8KPEbfuAJMJYZpaxj6XJiMZhu3lvnYe0ik-1d_wlMXVflL0NxaMVBzKbooE8hZ0M51b89-dG3sK383jBS2hP05)/cloud/3/xa0fwio/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(atHM5sJgvGANHY-KZYEgf-zuUKZJ1g3tLzDcg0_TmheVwAK_VRInSBmAt_JVUxXbQEpTkLqU9hSu7ynx3hbDgQ4hwaGc836TgUSyOe3oBfFxLcgrekwMZ5V6_94VyfDT)/cloud/3/xa0fwio/d/live-380.m3u8",
       "icon": "https://www.clipartmax.com/png/middle/121-1214648_red-uno-bolivia-2016-red-uno-de-bolivia.png",
       "is_live": true,
-      "useCustomResolver": true
+      "useCustomResolver": false
     },
     {
       "name": "RedUno. Scz1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(SAY7Es8uI6lj2NXg_F6I29T7RqCiM1Ib55m3Ze3fNi8COlUDVmtNCsp3_a01NHIO3denc9fVSWj2wDkhVLGPSMd5Jh1mtkOJcFC7DJNYFZCXy4UpiPzndEAHUawg8nvS)/cloud/3/xarufnm/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
+      "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
-      "useCustomResolver": true,
+      "useCustomResolver": false,
       "is_live": true
     },
     {
