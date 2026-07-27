@@ -11,11 +11,11 @@
     },
     {
       "name": "RedUno. Scz1",
-      "url":"https://cdndirector.dailymotion.com/cdn/live/video/xarufnm.m3u8?sec=s67oi8g_nGiqgJB5IfyONBnPtMB-hJyloAPKdFVdi78GkwZcuPCq0CKmGQ1sRcDyLweq7XMLj9l-80TGg5JMa5Y9wjSmJruy60uInWYRJmI&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597",
+      "url":"https://live2.eu-north-1a.cf.dmcdn.net/sec2(0qu1Nu2MN3AcmlS7GtuPufuldWQhK2PU2pzyD2f3NCVlHXNou4mfFX0pez6YyqUZJWiSzCPYCYX09eeWunaulerNUeNz5cfsvEu-GFpBBYnLY-FxWxMIE9J9nfxJjvbn)/cloud/3/xarufnm/d/live-380.m3u8#cell=lcf2-eu-north-1a",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
-      "useCustomResolver": true,
+      "useCustomResolver": false,
       "is_live": true
     },
     {
