@@ -20,9 +20,7 @@
     },
     {
       "name": "RedUno Cbba",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(VUWE8a2ZblAHP6fqXHCPe_Aas3sGSYhWNJSSWNI3vQFDM2RF7M_AbiTTtW96tHjp8G8wPCnrGhQwZCnKF7H50j2VhxwRXRnoLMjsMFWnuk9uVEj99Wqqflrfgs2-0R2l)/cloud/3/xarufnm/d/live-720.m3u8#cell=lcf2-eu-north-1b",
-      "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
-      "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(tCikA5BM4RexiGS9VYtgXqr5dPK7a639PlZ9WeoaUMIcuwUypJZ7w5PGsyTx3SCkBj5wa-Mkd7Sgpmero61I8iOxIgtsWWQwOZGt38gU4l0W1G2WT8VwKR51MvxjpWgT)/cloud/3/xa0qka8/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "useCustomResolver": false,
       "is_live": true
@@ -143,7 +141,7 @@
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(9WQ90q0N24FWibBkTQavOR-xZFbC7zf8kwnrENd5DIijZfxWScQFljgQTclX5_GxuGfHWW7bouep40_a1JIwV1f6Bwf3ogNzS3wTBioIeFea06Uul4x5g0W3C-2MXMOo)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(9WQ90q0N24FWibBkTQavOR-xZFbC7zf8kwnrENd5DIijZfxWScQFljgQTclX5_GxuGfHWW7bouep40_a1JIwV1f6Bwf3ogNzS3wTBioIeFea06Uul4x5g0W3C-2MXMOo)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "useCustomResolver": true
@@ -174,7 +172,13 @@
     },
     {
       "name": "RedAdvenir",
-      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w692158326.m3u8",
+      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w482662508.m3u8",
+      "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
+      "is_live": true
+    },
+    {
+      "name": "Canal15 Teleor",
+      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w482662508.m3u8",
       "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
       "is_live": true
     },
