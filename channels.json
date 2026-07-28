@@ -156,6 +156,13 @@
       "url": "https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8",
       "icon": "https://www.agendaminera.com/wp-content/uploads/2024/06/agenda-minera-AMITEL-tv-logo-2024.png",
       "is_live": true
+    },
+    {
+      "name": "RadioFides",
+      "type":"twitch",
+      "username":"arteezy",
+      "username2":"radiofidesbolivia",
+      "is_live": true
     }
   ]
 }
