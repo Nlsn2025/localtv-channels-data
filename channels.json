@@ -178,10 +178,18 @@
     },
     {
       "name": "Canal15 Teleor",
-      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w482662508.m3u8",
-      "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
+      "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w401877230.m3u8",
+      "icon": "https://i.imgur.com/w8CB2On.jpeg",
       "is_live": true
     },
+	{
+      "name": "AsContenidos 87.7 FM",
+      "url": "https://master.tucableip.com/ascontenido/mono.m3u8",
+      "icon": "https://ascontenidos.com.bo/wp-content/uploads/2026/07/LOGO-BLANCO-WEB.png",
+      "is_live": true
+    },
+	
+	
     {
       "name": "RadioFides",
       "type": "twitch",
