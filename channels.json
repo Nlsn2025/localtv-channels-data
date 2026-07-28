@@ -20,7 +20,7 @@
     },
     {
       "name": "RedUno Cbba",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(tCikA5BM4RexiGS9VYtgXqr5dPK7a639PlZ9WeoaUMIcuwUypJZ7w5PGsyTx3SCkBj5wa-Mkd7Sgpmero61I8iOxIgtsWWQwOZGt38gU4l0W1G2WT8VwKR51MvxjpWgT)/cloud/3/xa0qka8/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(81Wss1SZLe2sBUrXiCXR1JlFk3AxzS4xTiGUh_q8LxcXpCDTuUe6MGqNOS54zLmWHBEo1klaiedBj5KNB1ytfs5MI0vzelrxT5O0JtTkyFw2SE50PVRnnpuFDHS_Y1gV)/cloud/3/xa0qka8/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "useCustomResolver": false,
       "is_live": true
@@ -172,24 +172,40 @@
     },
     {
       "name": "RedAdvenir",
-      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w482662508.m3u8",
+      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w418049430.m3u8",
       "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
       "is_live": true
     },
     {
       "name": "Canal15 Teleor",
-      "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w401877230.m3u8",
+      "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w1180948427.m3u8",
       "icon": "https://i.imgur.com/w8CB2On.jpeg",
       "is_live": true
     },
-	{
+    {
       "name": "AsContenidos 87.7 FM",
       "url": "https://master.tucableip.com/ascontenido/mono.m3u8",
       "icon": "https://ascontenidos.com.bo/wp-content/uploads/2026/07/LOGO-BLANCO-WEB.png",
       "is_live": true
     },
-	
-	
+    {
+      "name": "AudioKiss ",
+      "url": "https://master.tucableip.com/audiokisstv/tracks-v1a1/mono.ts.m3u8",
+      "icon": "https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png",
+      "is_live": true
+    },
+    {
+      "name": "SeoTv.Musica",
+      "url": "https://seo.tv.bo/live.php?ch=musica_SD",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": true
+    },
+    {
+      "name": "SeoTv.Abya.Yala.tv",
+      "url": "https://seo.tv.bo/live.php?ch=abyayala_SD",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": true
+    },
     {
       "name": "RadioFides",
       "type": "twitch",
