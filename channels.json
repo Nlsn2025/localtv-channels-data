@@ -134,14 +134,14 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(R-h6G1dnq8fP1l5gS73vH5xKyR1i5ZVN4ycYbC8GqTTZRe1R1Red_w_rz3XcVaV3PaPUc10hJPsfAZOGc_7vCdUwPSA1IJymQLfu_M7vfmWSEFpZGIBI7wQYhx4mPhK8)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(ZQxom9qgbS9aO7VXXrERbFxIidkVTj8S-3WaXPZzbvRc8arQYmaYk1uNZa6tNQJuxso5Xu2CuIqARM0BPj8fDKX3WkI0fqetT5NlzFO797O0Dp9lSG3ieWM-7ijtVEYX)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "useCustomResolver": true
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(9WQ90q0N24FWibBkTQavOR-xZFbC7zf8kwnrENd5DIijZfxWScQFljgQTclX5_GxuGfHWW7bouep40_a1JIwV1f6Bwf3ogNzS3wTBioIeFea06Uul4x5g0W3C-2MXMOo)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(fkD1f00hShGGPa9kTKod4Qo3cj89wLvdHEHUZpiawyqmIDcGTZ_2284grgaZroeq01uixfiBKq-KP6ZF_sE-pFsVVKy5yayst2hoxG_g5Bq3ieZBj9l8CSZdMJeyo5Mx)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "useCustomResolver": true
@@ -172,14 +172,13 @@
     },
     {
       "name": "VosTv",
-      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w414499024.m3u8",
+      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w2007430467.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
       "is_live": true
     },
-    
     {
       "name": "Canal15 Teleor",
-      "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w1346495382.m3u8",
+      "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w1035486592.m3u8",
       "icon": "https://i.imgur.com/w8CB2On.jpeg",
       "is_live": true
     },
@@ -204,9 +203,9 @@
         "Referer": "https://seo.tv.bo"
       }
     },
-	{
+    {
       "name": "RedAdvenir",
-      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w1190486733.m3u8",
+      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w1111391007.m3u8",
       "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
       "is_live": true
     },
@@ -219,18 +218,18 @@
         "Referer": "https://seo.tv.bo"
       }
     },
-     {
-       "name": "Redd TV Bolivia",
-       "type": "youtube",
-       "username": "reddtvbolivia",
-       "is_live": true
-     } ,
-     {
-       "name": "test",
-       "type": "youtube",
-       "username": "FenixWarcraft",
-       "is_live": true
-     } ,
+    {
+      "name": "Redd TV Bolivia",
+      "type": "youtube",
+      "username": "reddtvbolivia",
+      "is_live": true
+    },
+    {
+      "name": "test",
+      "type": "youtube",
+      "username": "FenixWarcraft",
+      "is_live": true
+    },
     {
       "name": "RadioFides",
       "type": "twitch",
