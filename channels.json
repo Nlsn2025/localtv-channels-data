@@ -218,6 +218,12 @@
         "Referer": "https://seo.tv.bo"
       }
     },
+     {
+       "name": "Redd TV Bolivia",
+       "type": "youtube",
+       "username": "reddtvbolivia",
+       "is_live": true
+     } ,
     {
       "name": "RadioFides",
       "type": "twitch",
