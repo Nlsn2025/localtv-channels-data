@@ -224,6 +224,12 @@
        "username": "reddtvbolivia",
        "is_live": true
      } ,
+     {
+       "name": "test",
+       "type": "youtube",
+       "username": "FenixWarcraft",
+       "is_live": true
+     } ,
     {
       "name": "RadioFides",
       "type": "twitch",
