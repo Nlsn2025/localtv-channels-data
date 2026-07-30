@@ -223,17 +223,10 @@
       "is_live": true
     },
     {
-      "name": "test",
-      "type": "youtube",
-      "username": "FenixWarcraft",
-      "is_live": true
-    },
-    {
-      "name": "RadioFides",
-      "type": "twitch",
-      "username": "arteezy",
-      "username2": "radiofidesbolivia",
-      "is_live": true
-    }
+    "name": "Radio Fides1",
+    "type": "facebook",
+    "url": "https://www.facebook.com/RadioFidesBolivia",    
+    "is_live": true
+}
   ]
 }
