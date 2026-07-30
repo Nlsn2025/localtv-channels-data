@@ -229,6 +229,13 @@
     "url3":"https://www.facebook.com/RadioFidesBolivia/videos/1362993561935040/",  
     "url2": "https://www.facebook.com/RadioFidesBolivia",    
     "is_live": true
-}
+},
+    
+    {
+    "name": "Radio Fides2 twitch",
+    "type": "twitch",
+      "url":"https://www.twitch.tv/radiofidesbolivia",    
+    "is_live": true   
+      }
   ]
 }
