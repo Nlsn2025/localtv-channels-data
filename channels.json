@@ -215,34 +215,6 @@
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       }
-    },
-    {
-      "name": "Redd TV Bolivia",
-      "type": "youtube",
-      "url": "https://www.youtube.com/@reddtvbolivia",
-      "is_live": true
-    },
-    {
-    "name": "Radio Fides1",
-    "type": "facebook",
-      "url":"https://www.facebook.com/RadioFidesBolivia/live",
-    "url3":"https://www.facebook.com/RadioFidesBolivia/videos/1362993561935040/",  
-    "url2": "https://www.facebook.com/RadioFidesBolivia",    
-    "is_live": true
-},
-    
-    {
-    "name": "Radio Fides2 twitch",
-    "type": "twitch",
-      "url":"https://www.twitch.tv/radiofidesbolivia",    
-    "is_live": true   
-      },
-    
-    {
-    "name": "Red DTV",
-    "type": "youtube",
-    "url": "https://www.youtube.com/@reddtvbolivia/live",    
-    "is_live": true   
-      }
+    }    
   ]
 }
