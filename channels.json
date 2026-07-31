@@ -11,7 +11,7 @@
     },
     {
       "name": "RedUno. Scz1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(VUWE8a2ZblAHP6fqXHCPe_Aas3sGSYhWNJSSWNI3vQFDM2RF7M_AbiTTtW96tHjp8G8wPCnrGhQwZCnKF7H50j2VhxwRXRnoLMjsMFWnuk9uVEj99Wqqflrfgs2-0R2l)/cloud/3/xarufnm/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(-ASVETWUdb5UILHiXUhwiR2O9XUavvH-eLP-JpWDdggE76qIdNgpDSCf3A50Bh1gFOSyhDETS2o1h0P0iHLXjWgaAVw8yk9xDKe4R-m1dGxHrlYmLxNSNsdmaOvR9rue)/cloud/3/xarufnm/d/live-380.m3u8",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
@@ -20,7 +20,7 @@
     },
     {
       "name": "RedUno Cbba",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(81Wss1SZLe2sBUrXiCXR1JlFk3AxzS4xTiGUh_q8LxcXpCDTuUe6MGqNOS54zLmWHBEo1klaiedBj5KNB1ytfs5MI0vzelrxT5O0JtTkyFw2SE50PVRnnpuFDHS_Y1gV)/cloud/3/xa0qka8/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(TaEotvzg8mSHyuuuUJE_-Jy-pmwyvi_taJRIETb2plmgy8vE8_Szwr4yt1TJbhjz4C1Ne1w6Kk2C5BktThHwYw1CNAPeF8tvmlWO9JenaufOkONoN02F-qLK4kU2RlHZ)/cloud/3/xa0qka8/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "useCustomResolver": false,
       "is_live": true
@@ -134,13 +134,13 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(ZQxom9qgbS9aO7VXXrERbFxIidkVTj8S-3WaXPZzbvRc8arQYmaYk1uNZa6tNQJuxso5Xu2CuIqARM0BPj8fDKX3WkI0fqetT5NlzFO797O0Dp9lSG3ieWM-7ijtVEYX)/cloud/3/x9ny70y/d/live-480.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(1KxFxk7KGFHZcOtyMuu1xvnU6M0d7WG_rB1ruvNy4LLKLqNEnWGmHKftDR6qKFzAnO8Twe3e8hyWm6ORNaPvvZbQciyV52r-8C2ZVBmNiZmPg6gBIdJytNHQScCBbYO9)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
-      "is_live": true      
+      "is_live": true
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(fkD1f00hShGGPa9kTKod4Qo3cj89wLvdHEHUZpiawyqmIDcGTZ_2284grgaZroeq01uixfiBKq-KP6ZF_sE-pFsVVKy5yayst2hoxG_g5Bq3ieZBj9l8CSZdMJeyo5Mx)/cloud/3/x9nzqpo/d/live-480.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(hOjgHrzUgWlEMyP3800Yv1Wrz8MjG1fFt5GoYwIzIvjcCMNhuIF-Wt72Iuiw_WFSVqFr6vOdGoWdx5j2_vqh8KrTcsiBlYDFjx7XCwi0KAxawbnvMzADgIKIXuQFLjjh)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
@@ -170,13 +170,13 @@
     },
     {
       "name": "VosTv",
-      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w2007430467.m3u8",
+      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w970582070.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
       "is_live": true
     },
     {
       "name": "Canal15 Teleor",
-      "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w1035486592.m3u8",
+      "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w1690122760.m3u8",
       "icon": "https://i.imgur.com/w8CB2On.jpeg",
       "is_live": true
     },
@@ -187,7 +187,7 @@
       "is_live": true
     },
     {
-      "name": "AudioKiss ",
+      "name": "AudioKiss",
       "url": "https://master.tucableip.com/audiokisstv/tracks-v1a1/mono.ts.m3u8",
       "icon": "https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png",
       "is_live": true
@@ -203,7 +203,7 @@
     },
     {
       "name": "RedAdvenir",
-      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w1111391007.m3u8",
+      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w1836150403.m3u8",
       "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
       "is_live": true
     },
@@ -215,6 +215,6 @@
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       }
-    }    
+    }
   ]
 }
