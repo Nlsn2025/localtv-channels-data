@@ -236,6 +236,13 @@
     "type": "twitch",
       "url":"https://www.twitch.tv/radiofidesbolivia",    
     "is_live": true   
+      },
+    
+    {
+    "name": "Red DTV",
+    "type": "youtube",
+      "url":"https://www.youtube.com/@reddtvbolivia/streams",    
+    "is_live": true   
       }
   ]
 }
