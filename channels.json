@@ -241,7 +241,7 @@
     {
     "name": "Red DTV",
     "type": "youtube",
-      "https://www.youtube.com/@reddtvbolivia/live",    
+    "url": "https://www.youtube.com/@reddtvbolivia/live",    
     "is_live": true   
       }
   ]
