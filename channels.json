@@ -3,7 +3,7 @@
     {
       "name": "RedUno Lpz",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(FiEXFqJMgifmUxl9jpKFss0CHNUeM0wyZrmvq6TKTa5kA1lOJjPvUb6rjV2m1CATwtl3175MslrlyiXyRSvaFiezgsFfuv6XWJRazgdoPVwniVz7Zj37OHH_cgYwoqCb)/cloud/3/xa0fwio/d/live-480.m3u8",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(G-en-HFHVxaQP3JJsNmGGsoAJiU6_8eW5OGtCn72QzXSN1IOB7MEgHq-EqDC7RREslY8VKMreCN0nelwodbdr3YYWEL1AA5HPwJ7L4AervLrUOb6lNbUoeGsmeBZvWgs)/cloud/3/xa0fwio/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(e8IUoSmVIqv2VcjpbXzLC2X3EW5QPL24JUvFDOXGWxCRgYDdEUSKoYeVd85XyrS8P-naaj0uPI1qFmQoNY1XBNS6d02gxD1NCjFS-yCRDJn8qvgjQWyRrjqiBzVji7Qp)/cloud/3/xa0fwio/d/live-380.m3u8",
       "url2": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(atHM5sJgvGANHY-KZYEgf-zuUKZJ1g3tLzDcg0_TmheVwAK_VRInSBmAt_JVUxXbQEpTkLqU9hSu7ynx3hbDgQ4hwaGc836TgUSyOe3oBfFxLcgrekwMZ5V6_94VyfDT)/cloud/3/xa0fwio/d/live-380.m3u8",
       "icon": "https://www.clipartmax.com/png/middle/121-1214648_red-uno-bolivia-2016-red-uno-de-bolivia.png",
       "is_live": true,
@@ -11,7 +11,7 @@
     },
     {
       "name": "RedUno. Scz1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(70epOZ3oHDlROQ4M3jrYt_EN2kEiHIVE0ZM8LJd1TMFV_Yeb6Cq_fYfA0jZm9DXRJ_uqia4nhJ1YRlNPaSoD3WasZMrBn_fTxeOaeHfFunUcoYKm6lNQXXGrQ-hhHWdG)/cloud/3/xarufnm/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(sclMRO4W7dFlxHp025X9_1mUDQ75RA2oVXVyMEm-Zp4cyc7VyYkak1KgXi60e04tCwo-pu5msrIMBhTqgx6poS-gwX4idh1zIyGgNz2FmRpWjCylSp4H2ms5dtvYlhqr)/cloud/3/xarufnm/d/live-380.m3u8",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
@@ -20,7 +20,7 @@
     },
     {
       "name": "RedUno Cbba",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(pFXNxqnDJoFBugjEeKBcmpm46nXgwermvUWS-3m3ydC4eHhvcnfcmkc_afHbMYaTKwkg_W7WMc1Peq3pY1hACBXl7fib2QN4EDnRUMMygOR90JfzL7fuJfLPFWB_Issp)/cloud/3/xa0qka8/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(V-EvS5RypTuhiq88P-PMsZUOysk-e8rBMCdrxi9qFpC4pzX9_QWdzH4uvxQIsWGFELtW9WGHLOZzJhPKiVUZhWg7-VTLellpLcu5YMRVqGbNir_4DCQ3_laO0iCQG00j)/cloud/3/xa0qka8/d/live-380.m3u8",
       "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "useCustomResolver": false,
       "is_live": true
@@ -170,7 +170,7 @@
     },
     {
       "name": "VosTv",
-      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1862463502.m3u8",
+      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w574201512.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
       "is_live": true
     },
@@ -203,7 +203,7 @@
     },
     {
       "name": "RedAdvenir",
-      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w1082675811.m3u8",
+      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w1665599804.m3u8",
       "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
       "is_live": true
     },
