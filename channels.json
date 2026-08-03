@@ -127,20 +127,32 @@
       }
     },
     {
-      "name": "Gigavision",
+      "name": "Gigavision Lpz",
       "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
       "icon": "https://i.pinimg.com/564x/59/39/c8/5939c868b85165d4f836eda3337c9e80.jpg",
       "is_live": true
     },
     {
+      "name": "Gigavision Scz",
+      "url": "https://tv.bitstreaming.net:3348/multi_live/play_720.m3u8",
+      "icon": "https://i.pinimg.com/564x/59/39/c8/5939c868b85165d4f836eda3337c9e80.jpg",
+      "is_live": true
+    },
+    {
+      "name": "PalenqueTv",
+      "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+      "icon": "https://www.lyngsat.com/logo/tv/pp/palenque-tv-bo.png",
+      "is_live": true
+    },
+    {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(I8ThZMZLemEzA7PJMsYcgC6DeguP-S-4elLaG5T6dRDjFjohr4YfLUZ7xBFafYaoyy7iCGzSAgA6wCeTJiQdQYOkjRSpt8xsV_LrZ8yQpdEws_VJB_4M6PyI6e7PhGXH)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(aisQf1MUqjsjsMzk7uncKODRRc6fJjSgpFawDUdAZwjME-3q_TWGTLBY8fCnSkEwuEniMryrT13oa0YdAxWUdOgM4A6HLWRcH8u1IHIvtQc7vRWg5WcDlNmf7RRynkhn)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(fHu358nYzFLBB0B1RyPyuc_hzEW6RwanK0aeV1J9LN2EQxblTQZ1tDdyIMTt_5CpR-c2vC43fUYZrNYb8oDi17tCc8PqVfKBSTxyy_0QpZrD1ovqGVlGLzfhBjH9yLV2)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(iAXeKbi8l1pid40En_rdxKcnyEfWVCAgJBlrSiaKevrYpVbHzTQn5evJ13DsdGgVqAFrV2LaxhTkmW-U6Aor6gAo2xdqySo-yYw2vb2f3sdOkT2cjOOugiZlSlw_elFh)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
@@ -170,7 +182,7 @@
     },
     {
       "name": "VosTv",
-      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w535844977.m3u8",
+      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w585888454.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
       "is_live": true
     },
