@@ -233,6 +233,12 @@
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       }
+    },
+    {
+      "name": "PAT",
+      "url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
+      "icon": "https://canales.asplurtv.com/logo_pat.png",
+      "is_live": true
     }
   ]
 }
