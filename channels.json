@@ -134,13 +134,13 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(2SCeyBYD2n1nsMnm0JHR4DPAiLakymTnKwj-WT-XJjSpedgKNInpqUc-qJvugRSSKIEsAhnZesLZoHJ_thDSW7J3XNpu36N7YFmNDUONsrIlKBaTPSTBTAEz0Eyo4HBT)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(I8ThZMZLemEzA7PJMsYcgC6DeguP-S-4elLaG5T6dRDjFjohr4YfLUZ7xBFafYaoyy7iCGzSAgA6wCeTJiQdQYOkjRSpt8xsV_LrZ8yQpdEws_VJB_4M6PyI6e7PhGXH)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(G0Xf2Smv_WKA6-h7hJmVMf9cy4adSfU0e8D4nZxEFyj6ebPm9WiBVstv7Asfyxs5qo48W1l7g12o7c5DSaHH1izrRErxhN3a1Loge02NF7EmBsAQ6PKvJ7wbHv2a1bkj)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(fHu358nYzFLBB0B1RyPyuc_hzEW6RwanK0aeV1J9LN2EQxblTQZ1tDdyIMTt_5CpR-c2vC43fUYZrNYb8oDi17tCc8PqVfKBSTxyy_0QpZrD1ovqGVlGLzfhBjH9yLV2)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
@@ -170,7 +170,7 @@
     },
     {
       "name": "VosTv",
-      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1237153707.m3u8",
+      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w535844977.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
       "is_live": true
     },
@@ -178,6 +178,12 @@
       "name": "Canal15 Teleor",
       "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
       "icon": "https://i.imgur.com/w8CB2On.jpeg",
+      "is_live": true
+    },
+    {
+      "name": "ANT Television",
+      "url": "http://181.188.144.141/tmp_hls/ant_tv/index.m3u8",
+      "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
       "is_live": true
     },
     {
