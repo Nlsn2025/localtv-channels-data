@@ -146,7 +146,7 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(SAt5LrnqGxR4AfbLvLVEx6M4jHhCpQTav6GTpm5wcks6m6HTe744e6OVTwWCk-zmzXEmQ8Irw383LorBR7r-z02XXW0nhREmRVt9Lnxp2W6I5GjTrSQSBZGB4erscTmX)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Jy_9kTZIUaK7W23XC6gWllyrFBKO_S46H6ZKJ0-0BOwEfzZYWQ8oqd6NC-b1-oJU2LkDoaNBo9fqNKTq1C4rogcYSoqvNDsEWHOy7y3Klt2pE16kzAV-ifeYVRKDuEna)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
@@ -263,12 +263,6 @@
       "name": "TELE 6",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_teleseis.png",
-      "is_live": true
-    },
-    {
-      "name": "Red Siglo XXI",
-      "url": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
-      "icon": "https://canales.asplurtv.com/logo_sigloxxi.png",
       "is_live": true
     },
     {
