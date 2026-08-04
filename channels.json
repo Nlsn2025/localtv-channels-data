@@ -152,7 +152,7 @@
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(iAXeKbi8l1pid40En_rdxKcnyEfWVCAgJBlrSiaKevrYpVbHzTQn5evJ13DsdGgVqAFrV2LaxhTkmW-U6Aor6gAo2xdqySo-yYw2vb2f3sdOkT2cjOOugiZlSlw_elFh)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(rGia25QSJLW-DpPKiJaTFGttYt-Epk5IjtOPwJlo_oEIc0E-DGraTfo-EDGjavzJAQuTqVCmlXnuCYxygUDWMVHdGvEmS5Z5Vr4vmQ3MMwwOf8CeNawbcz8DqQz0rajC)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
@@ -182,7 +182,7 @@
     },
     {
       "name": "VosTv",
-      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w585888454.m3u8",
+      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w428739005.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
       "is_live": true
     },
@@ -239,12 +239,78 @@
       "url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
       "icon": "https://canales.asplurtv.com/logo_pat.png",
       "is_live": true,
-      "type":"mpd"
-    },    
+      "type": "mpd"
+    },
     {
       "name": "Tele Fe HD",
       "url": "https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_telefe.png",
+      "is_live": true
+    },
+    {
+      "name": "Tele Estrella HD",
+      "url": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_teleestrella.png",
+      "is_live": true
+    },
+    {
+      "name": "FAP Televisión",
+      "url": "https://edge.enhdtv.com/faptv/index.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_faptv.png",
+      "is_live": true
+    },
+    {
+      "name": "TELE 6",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_teleseis.png",
+      "is_live": true
+    },
+    {
+      "name": "Red Siglo XXI",
+      "url": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_sigloxxi.png",
+      "is_live": true
+    },
+    {
+      "name": "Red Siglo XXI",
+      "url": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_sigloxxi.png",
+      "is_live": true
+    },
+    {
+      "name": "INEDITA FHD",
+      "icon": "https://canales.asplurtv.com/inedi_logo.png",
+      "url": "https://59d39900ebfb8.streamlock.net:443/INEDITA/INEDITA/playlist.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "FTV",
+      "icon": "https://canales.asplurtv.com/logo_ftv.png",
+      "url": "https://master.tucableip.com/ftvhd/tracks-v1a1/mono.ts.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "Latina TV",
+      "icon": "https://canales.asplurtv.com/logo_latina.png",
+      "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "CEACOM TV",
+      "icon": "https://canales.asplurtv.com/logo_ceacom.png",
+      "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "Univalle TV",
+      "icon": "https://canales.asplurtv.com/logo_univalle.png",
+      "url": "https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "RUSA UMSA LP",
+      "icon": "https://canales.asplurtv.com/logo_rusa.png",
+      "url": "https://live.enhdtv.com:8081/8054/tracks-v1a1/mono.m3u8",
       "is_live": true
     }
   ]
