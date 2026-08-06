@@ -48,7 +48,8 @@
     "url": "https://cms.redbolivision.tv.bo/api/streaming/session",
     "method": "POST",
     "body":{
-       "channel": "bolivision_santacruz"
+       "channel2": "bolivision_santacruz",
+        "channel":"bolivision_lapaz"
       },
     "additionalHeaders": {
       "Referer": "https://redbolivision.tv.bo",
