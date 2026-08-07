@@ -31,25 +31,23 @@
       "icon": "https://pbs.twimg.com/profile_images/1899192344672403456/pEz5uQ5L_400x400.jpg",
       "is_live": true,
       "requiresSession": true,
-      
-        "session": {
-          "url": "https://cms.redbolivision.tv.bo/api/streaming/session",
-          "method": "POST",
-          "body":{
-              "channel":"bolivision_lapaz"
-            },
-          "additionalHeaders": {
-            "Referer": "https://redbolivision.tv.bo",
-            "Origin": "https://redbolivision.tv.bo",
-            "User-Agent": "Mozilla/5.0"
-          },
-      
-          "response": {
-            "streamUrl": "$.data.playbackUrl",
-            "refreshAfterSeconds": "$.data.refreshAfterSeconds",
-            "expiresAtUnix": "$.data.expiresAtUnix"
-          }
+      "session": {
+        "url": "https://cms.redbolivision.tv.bo/api/streaming/session",
+        "method": "POST",
+        "body": {
+          "channel": "bolivision_lapaz"
+        },
+        "additionalHeaders": {
+          "Referer": "https://redbolivision.tv.bo",
+          "Origin": "https://redbolivision.tv.bo",
+          "User-Agent": "Mozilla/5.0"
+        },
+        "response": {
+          "streamUrl": "$.data.playbackUrl",
+          "refreshAfterSeconds": "$.data.refreshAfterSeconds",
+          "expiresAtUnix": "$.data.expiresAtUnix"
         }
+      }
     },
     {
       "name": "Bolivision Scz",
@@ -57,25 +55,23 @@
       "icon": "https://pbs.twimg.com/profile_images/1899192344672403456/pEz5uQ5L_400x400.jpg",
       "is_live": true,
       "requiresSession": true,
-      
-        "session": {
-          "url": "https://cms.redbolivision.tv.bo/api/streaming/session",
-          "method": "POST",
-          "body":{
-              "channel":"bolivision_santacruz"
-            },
-          "additionalHeaders": {
-            "Referer": "https://redbolivision.tv.bo",
-            "Origin": "https://redbolivision.tv.bo",
-            "User-Agent": "Mozilla/5.0"
-          },
-      
-          "response": {
-            "streamUrl": "$.data.playbackUrl",
-            "refreshAfterSeconds": "$.data.refreshAfterSeconds",
-            "expiresAtUnix": "$.data.expiresAtUnix"
-          }
+      "session": {
+        "url": "https://cms.redbolivision.tv.bo/api/streaming/session",
+        "method": "POST",
+        "body": {
+          "channel": "bolivision_santacruz"
+        },
+        "additionalHeaders": {
+          "Referer": "https://redbolivision.tv.bo",
+          "Origin": "https://redbolivision.tv.bo",
+          "User-Agent": "Mozilla/5.0"
+        },
+        "response": {
+          "streamUrl": "$.data.playbackUrl",
+          "refreshAfterSeconds": "$.data.refreshAfterSeconds",
+          "expiresAtUnix": "$.data.expiresAtUnix"
         }
+      }
     },
     {
       "name": "Unitel LaPaz",
@@ -186,13 +182,13 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(COup2FrRoHpHI0fetAo28tGBF8fE5LaMR8qZ1ddp2tUWV5wcBIbk5pe7fujBElIpWVR0UPqGnYeLJ8G8HVG77Xvi4Qu4Gpj-81EHkBko0jdUVmDJgMRGGZjEzU8EUBj8)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(BssN3aSsXNWfCvFTcYUCkW43tqdJ_cFoifASjinyT6NJFzn5qi_gapSB3zx4_g1ANFaqGEsaKWNYjoqyvTdRrsAfcgAbDFkPHmZ1mhSd_G69gSQ-m7TTvlZqVWq5r7Hj)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=_JTyXR9egXuZRqBubCcCn-zQ5zoSEjRSH0wdp1kRLqNRFu37_aiSGiC5g8VqEXdUYN5pc41gv1lotQeHDYylOw&dmV1st=ed47bd8b-72b9-d34b-103a-704b7fe18600&dmTs=924611",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(kxE457XL8ezPVZmeUltHyFnXd8AwImn2OoNfJOufMQEPLVHdXGzTyKVh5PsQOu-rU5902ovMvNWPinofHuqsLO4_0pMNshmHk15SiT1ke34JfYKndqWO2ugBM8nb6uF8)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true
     },
