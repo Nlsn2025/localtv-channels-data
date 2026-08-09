@@ -105,7 +105,8 @@
     {
       "name": "F10",
       "url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
-      "icon": "https://f10.tv.bo/wp-content/uploads/2024/06/NUEVO-LOGO-FHD_BLANCO-150x150.png",
+      "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLu_AgQX__7a53PCWZC-lBU1AYVESgY7bqf0XNFhb0k-h4agXQ8nzPYqP&s=10",
+      "icon2": "https://f10.tv.bo/wp-content/uploads/2024/06/NUEVO-LOGO-FHD_BLANCO-150x150.png",
       "is_live": true
     },
     {
