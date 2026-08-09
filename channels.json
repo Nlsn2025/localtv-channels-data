@@ -105,7 +105,7 @@
     {
       "name": "F10",
       "url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
-      "icon": "https://f10.tv.bo/wp-content/uploads/2024/06/NUEVO-LOGO-FHD_BLANCO-150x150.png",
+      "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLu_AgQX__7a53PCWZC-lBU1AYVESgY7bqf0XNFhb0k-h4agXQ8nzPYqP&s=10",      
       "is_live": true
     },
     {
@@ -177,7 +177,7 @@
     {
       "name": "PalenqueTv",
       "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-      "icon": "https://www.lyngsat.com/logo/tv/pp/palenque-tv-bo.png",
+      "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQveRUgGMmvCtDVpM9YLnyAsuaU000ldqxA9BELyV3CdQ&s=10",      
       "is_live": true
     },
     {
@@ -195,7 +195,7 @@
     {
       "name": "ATB",
       "url": "https://www.dailymotion.com/cdn/live/video/x84eirw.m3u8?sec=Nrqkd_V62I0FxRMBCcLm0pVVNualSQ7lxhBX5ZO_M2Er0Tj57b4t0-FfrJGBH3piKCI78qUnQaghFazixHraf_LeyMGcigD7fiNVQfQpqsfXPSXpW9pTOk4mC2UurkXL&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
-      "icon": "https://www.atb.com.bo/wp-content/uploads/2025/05/cropped-icono-atb-web.png",
+      "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTt9olIMfX4Asmp_WBSrQPYMS-ASagdkAVUkiRB09Ked2GyBUa7q3aTA&s=10",      
       "is_live": true
     },
     {
@@ -315,7 +315,7 @@
     },
     {
       "name": "FTV",
-      "icon": "https://canales.asplurtv.com/logo_ftv.png",
+      "icon": "https://i.imgur.com/YOr1Oac.png",
       "url": "https://master.tucableip.com/ftvhd/tracks-v1a1/mono.ts.m3u8",
       "is_live": true
     },
