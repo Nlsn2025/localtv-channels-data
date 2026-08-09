@@ -184,13 +184,23 @@
       "name": "BoliviaTv 7.2",
       "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(47lw3P8ht5YCFJeiksuQNKnALz0iXZ9-rbJqTQv0I_X47mgU0jRmnRBPeK7w13KIYy4CtEeHK5zMXaVlijuBDN3dERsItVq-4FDgx5wk-I6uWVUK2ycSHeYSd39iTF0L)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
-      "is_live": true
+      "is_live": true,
+      "additionalHeaders": {
+        "Referer": "https://geo.dailymotion.com",
+        "Origin": "https://geo.dailymotion.com",
+        "User-Agent": "Mozilla/5.0"
+      }
     },
     {
       "name": "BoliviaTv 7.1",
       "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(bEgM1K3mPuc_aDP93dR1URKJ8OCQoyjrOv3u22AQKOhEsz6UwAN3TAZCJp_Hk71I1xXMpXZ1WdVU7dqJFPA2AF871v4qIK8wb5Uoc7mzEcIHiUfJsgnoDePkPHTsEbDh)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
-      "is_live": true
+      "is_live": true,
+      "additionalHeaders": {
+        "Referer": "https://geo.dailymotion.com",
+        "Origin": "https://geo.dailymotion.com",
+        "User-Agent": "Mozilla/5.0"
+      }
     },
     {
       "name": "ATB",
