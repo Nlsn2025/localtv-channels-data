@@ -266,12 +266,6 @@
       }
     },
     {
-      "name": "RedAdvenir",
-      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w988196746.m3u8",
-      "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
-      "is_live": true
-    },
-    {
       "name": "SeoTv.Abya.Yala.tv",
       "url": "https://seo.tv.bo/live.php?ch=abyayala_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
@@ -287,12 +281,7 @@
       "is_live": true,
       "type": "mpd"
     },
-    {
-      "name": "Tele Fe HD",
-      "url": "https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8",
-      "icon": "https://canales.asplurtv.com/logo_telefe.png",
-      "is_live": true
-    },
+    
     {
       "name": "Tele Estrella HD",
       "url": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
@@ -351,6 +340,18 @@
       "name": "RUSA UMSA LP",
       "icon": "https://canales.asplurtv.com/logo_rusa.png",
       "url": "https://live.enhdtv.com:8081/8054/tracks-v1a1/mono.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "RedAdvenir",
+      "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w988196746.m3u8",
+      "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
+      "is_live": true
+    },
+    {
+      "name": "Tele Fe HD",
+      "url": "https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_telefe.png",
       "is_live": true
     }
   ]
