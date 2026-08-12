@@ -215,6 +215,13 @@
       "is_live": true
     },
     {
+      "name": "PAT",
+      "url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
+      "icon": "https://canales.asplurtv.com/logo_pat.png",
+      "is_live": true,
+      "type": "mpd"
+    },
+    {
       "name": "Amiltel tv 5.2",
       "url": "https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8",
       "icon": "https://www.agendaminera.com/wp-content/uploads/2024/06/agenda-minera-AMITEL-tv-logo-2024.png",
@@ -230,6 +237,18 @@
       "name": "VosTv",
       "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1252726414.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
+      "is_live": true
+    },
+    {
+      "name": "Univalle TV",
+      "icon": "https://canales.asplurtv.com/logo_univalle.png",
+      "url": "https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "RUSA UMSA LP",
+      "icon": "https://canales.asplurtv.com/logo_rusa.png",
+      "url": "https://live.enhdtv.com:8081/8054/tracks-v1a1/mono.m3u8",
       "is_live": true
     },
     {
@@ -274,14 +293,6 @@
         "Referer": "https://seo.tv.bo"
       }
     },
-    {
-      "name": "PAT",
-      "url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
-      "icon": "https://canales.asplurtv.com/logo_pat.png",
-      "is_live": true,
-      "type": "mpd"
-    },
-    
     {
       "name": "Tele Estrella HD",
       "url": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
@@ -328,18 +339,6 @@
       "name": "CEACOM TV",
       "icon": "https://canales.asplurtv.com/logo_ceacom.png",
       "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8",
-      "is_live": true
-    },
-    {
-      "name": "Univalle TV",
-      "icon": "https://canales.asplurtv.com/logo_univalle.png",
-      "url": "https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8",
-      "is_live": true
-    },
-    {
-      "name": "RUSA UMSA LP",
-      "icon": "https://canales.asplurtv.com/logo_rusa.png",
-      "url": "https://live.enhdtv.com:8081/8054/tracks-v1a1/mono.m3u8",
       "is_live": true
     },
     {
