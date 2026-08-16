@@ -194,7 +194,7 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(zkrXHwjx4fbQh_g-SCATjpa81xWclTVcoHGhXvUsl5zijrN5OSNkTLx_JHcFOuhVCosFEJ2JivJQN2saf_19OcaJ4OFqiesOKu43SyNAxxlhYyN7S6_XQo-iRZb19c0h)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(k5olgVFhbmxfEEB2TcLLfCZLh0I5p9GmdjH8i2FxgJM97LCPxKGsJ5X8BPQJJwa-VHTpdcGSzc8yz0Zchl3O74tSCP5VqRr5lkqECIE6TGMkOafgCm5sHdAkZKEZxTOg)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -205,7 +205,7 @@
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(CpqlkPyuitjdSoy7n8iKSUkHLx5ekf_-gGYP00ACPdiCdLKYjCtwZTYxf56etF7rcPPchi-RzB6irKLYCpVJI-rO0-612IxL16hZPBUc7lFEozSHFFf_OGDlv4_ByPz8)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(WpyVjCLhsWRATEnJtsF_qbEDknTlYO1Tc4cxP0LZ91y-4zexOFuvSVxl2rbegvAZ3Xc-TSPhbtogs1pDMxj0u75irBIr3WqY_2k25oyExfOK0uIY2cQPwk7SQv3f0TlO)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
