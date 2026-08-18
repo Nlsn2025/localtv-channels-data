@@ -194,7 +194,7 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(j7qGxKErvNpIKouPpid74pptfatVg5V7b2roaeunq0cYOfpgW8lmQ6CsNzQEVLBs3zq4TRLa69F-XrEJ2MF22Ne7VCFWfpUoasJshPsM2aOGcFSNNI48JCl_dBqjfDp6)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(bLIrMC_txLez-V0fXeABKE0Ra7ZOPaiXxhVm3h81mYZxmb08YOqI4demOILKUl6ERrSJoBUWBFVKnutTVXimfQVrM4Tg1227DJI1-83WrIMJqPMABKgUZsQG_haVhzT-)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -205,7 +205,7 @@
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(StNrW9MBFp_Vrgd0IBAz_yHu-nLD5RuR4Bw43JCkOKDLXY5RMRfiMF1sbfpLaDEdq4OrPKvLcTeUGBvgO2mVI2jU0l7FDeuRRkoJQMKLIzRdWQgg6w9OOAoyW34Fn4Bc)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(G_GEamAaQJ64zBAJWin6eCQDNIUp1MnE4NUk1wqurHYMLlVIBR9O3rOdjMXapJaA2EQUCEXOdxmURcBEad5-K4rv6abCyvuTUgW7MpV8anZqIqEdj-dm8Bd_RaYV8w25)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -327,6 +327,24 @@
       "name": "FTV",
       "icon": "https://i.imgur.com/YOr1Oac.png",
       "url": "https://master.tucableip.com/ftvhd/tracks-v1a1/mono.ts.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "Punto TV",
+      "icon": "https://canales.asplurtv.com/logo_puntotv.png",
+      "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "AYNI TV",
+      "icon": "https://canales.asplurtv.com/logo_aynitv.png",
+      "url": "https://59d39900ebfb8.streamlock.net:443/Aynitv/Aynitv/playlist.m3u8",
+      "is_live": true
+    },
+    {
+      "name": "Red America TV",
+      "icon": "https://canales.asplurtv.com/logo_redamerica.png",
+      "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
       "is_live": true
     },
     {
