@@ -5,7 +5,8 @@
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(FiEXFqJMgifmUxl9jpKFss0CHNUeM0wyZrmvq6TKTa5kA1lOJjPvUb6rjV2m1CATwtl3175MslrlyiXyRSvaFiezgsFfuv6XWJRazgdoPVwniVz7Zj37OHH_cgYwoqCb)/cloud/3/xa0fwio/d/live-480.m3u8",
       "url": "https://www.dailymotion.com/player/metadata/video/xa0fwio?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
       "url2": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(atHM5sJgvGANHY-KZYEgf-zuUKZJ1g3tLzDcg0_TmheVwAK_VRInSBmAt_JVUxXbQEpTkLqU9hSu7ynx3hbDgQ4hwaGc836TgUSyOe3oBfFxLcgrekwMZ5V6_94VyfDT)/cloud/3/xa0fwio/d/live-380.m3u8",
-      "icon": "https://www.clipartmax.com/png/middle/121-1214648_red-uno-bolivia-2016-red-uno-de-bolivia.png",
+      "icon2": "https://www.clipartmax.com/png/middle/121-1214648_red-uno-bolivia-2016-red-uno-de-bolivia.png",
+      "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
       "is_live": true,
       "useCustomResolver": true
     },
@@ -194,7 +195,7 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(bLIrMC_txLez-V0fXeABKE0Ra7ZOPaiXxhVm3h81mYZxmb08YOqI4demOILKUl6ERrSJoBUWBFVKnutTVXimfQVrM4Tg1227DJI1-83WrIMJqPMABKgUZsQG_haVhzT-)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(KDOtPk3yMnPzvrLeaQJktWLe7O8rVG6fRB3IJJnzNLLbc4q0RxGvQy3c3eMAAzHiG_mht1POdI6oCYsR4_Yoqay68_XPrFWVOekQ3h6whULnpYp4EUniw2Lxr19H1Y4S)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -205,7 +206,7 @@
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(G_GEamAaQJ64zBAJWin6eCQDNIUp1MnE4NUk1wqurHYMLlVIBR9O3rOdjMXapJaA2EQUCEXOdxmURcBEad5-K4rv6abCyvuTUgW7MpV8anZqIqEdj-dm8Bd_RaYV8w25)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-gk1EBjTRk80KErkC0LoCMTnovNNgy_Vvt52XGWnVLZSDwUZlNzGFR-l7zrnBrGqsh9LtELXBHMiSbsXcb_D4hJyZNo6b4zNQ-sLbw5SWm-ChkVlmjZhFF5SPpOAIfqQ)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
