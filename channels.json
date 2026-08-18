@@ -15,14 +15,16 @@
       "url": "https://www.dailymotion.com/player/metadata/video/xarufnm?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
-      "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
+      "icon2": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
+      "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
       "useCustomResolver": true,
       "is_live": true
     },
     {
       "name": "RedUno Cbba",
       "url": "https://www.dailymotion.com/player/metadata/video/xa0qka8?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
-      "icon": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
+      "icon2": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
+      "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
       "useCustomResolver": true,
       "is_live": true
     },
@@ -195,7 +197,7 @@
     },
     {
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(KDOtPk3yMnPzvrLeaQJktWLe7O8rVG6fRB3IJJnzNLLbc4q0RxGvQy3c3eMAAzHiG_mht1POdI6oCYsR4_Yoqay68_XPrFWVOekQ3h6whULnpYp4EUniw2Lxr19H1Y4S)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(VoW5-krIPEFwkIP3Gcd26JBL-UcLf-vBSa7pa2t39OWPk3YqsGZAUKdoDcbHrozMj04ktpNaInT6oePIo_2t-mzZmRNX_m0mw3tVY1G7C8wrDDvVVZv3lJ7j26-ZAePI)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -206,7 +208,7 @@
     },
     {
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-gk1EBjTRk80KErkC0LoCMTnovNNgy_Vvt52XGWnVLZSDwUZlNzGFR-l7zrnBrGqsh9LtELXBHMiSbsXcb_D4hJyZNo6b4zNQ-sLbw5SWm-ChkVlmjZhFF5SPpOAIfqQ)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(W4K6bLQ437PbuaAG19l17jy12cZqTPCZGVkjXubLQSr82wuR8E3YzPbBKH9H0K_4iIXkO4JGUv8-VhRZ5iPO1ne8YkhEnOjljVKafF-XKRhrbP3Dj8QC04I1b-LURUxa)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
