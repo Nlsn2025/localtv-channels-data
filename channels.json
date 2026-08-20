@@ -1,6 +1,7 @@
 {
   "channels": [
     {
+      "id": "redunolpz",
       "name": "RedUno Lpz",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(FiEXFqJMgifmUxl9jpKFss0CHNUeM0wyZrmvq6TKTa5kA1lOJjPvUb6rjV2m1CATwtl3175MslrlyiXyRSvaFiezgsFfuv6XWJRazgdoPVwniVz7Zj37OHH_cgYwoqCb)/cloud/3/xa0fwio/d/live-480.m3u8",
       "url": "https://www.dailymotion.com/player/metadata/video/xa0fwio?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
@@ -11,6 +12,7 @@
       "useCustomResolver": true
     },
     {
+      "id": "redunoscz",
       "name": "RedUno. Scz1",
       "url": "https://www.dailymotion.com/player/metadata/video/xarufnm?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
@@ -21,6 +23,7 @@
       "is_live": true
     },
     {
+      "id": "redunocbba",
       "name": "RedUno Cbba",
       "url": "https://www.dailymotion.com/player/metadata/video/xa0qka8?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
       "icon2": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
@@ -29,6 +32,7 @@
       "is_live": true
     },
     {
+      "id": "bolivision",
       "name": "Bolivision",
       "url": "https://cms.redbolivision.tv.bo/api/streaming/session",
       "icon": "https://pbs.twimg.com/profile_images/1899192344672403456/pEz5uQ5L_400x400.jpg",
@@ -53,6 +57,7 @@
       }
     },
     {
+      "id": "bolivisionscz",
       "name": "Bolivision Scz",
       "url": "https://cms.redbolivision.tv.bo/api/streaming/session",
       "icon": "https://pbs.twimg.com/profile_images/1899192344672403456/pEz5uQ5L_400x400.jpg",
@@ -77,6 +82,7 @@
       }
     },
     {
+      "id": "unitellpz",
       "name": "Unitel LaPaz",
       "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
       "icon": "https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg",
@@ -89,6 +95,7 @@
       }
     },
     {
+      "id": "unitelscz",
       "name": "Unitel ScZ",
       "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
       "icon": "https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg",
@@ -100,48 +107,56 @@
       "is_live": true
     },
     {
+      "id": "cvt18",
       "name": "CVT 18",
       "url": "https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8",
       "icon": "https://ctvbolivia.com/wp-content/uploads/2024/10/cropped-ctvlogomosca.png",
       "is_live": true
     },
     {
+      "id": "f10",
       "name": "F10",
       "url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLu_AgQX__7a53PCWZC-lBU1AYVESgY7bqf0XNFhb0k-h4agXQ8nzPYqP&s=10",
       "is_live": true
     },
     {
+      "id": "rtp",
       "name": "RTP",
       "url": "https://rtp.noxun.net/hls/stream.m3u8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rtpbolivia2021.png/250px-Rtpbolivia2021.png",
       "is_live": true
     },
     {
+      "id": "upeatv",
       "name": "UpeaTv",
       "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
       "icon": "https://pbs.twimg.com/profile_images/1663888160969965568/_CmnX4Vh_400x400.jpg",
       "is_live": true
     },
     {
+      "id": "tvuniversitaria",
       "name": "TvUniversitaria",
       "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
       "icon": "https://www.uajms.edu.bo/canal9tvu/wp-content/uploads/sites/70/2022/11/logonewtvu.png",
       "is_live": true
     },
     {
+      "id": "univalletv",
       "name": "Univalle TV",
       "icon": "https://canales.asplurtv.com/logo_univalle.png",
       "url": "https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8",
       "is_live": true
     },
     {
+      "id": "rusaumsalp",
       "name": "RUSA UMSA LP",
       "icon": "https://canales.asplurtv.com/logo_rusa.png",
       "url": "https://live.enhdtv.com:8081/8054/tracks-v1a1/mono.m3u8",
       "is_live": true
     },
     {
+      "id": "seotvmovies",
       "name": "SeoTv movies",
       "url": "https://seo.tv.bo/live.php?ch=pelis_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
@@ -151,6 +166,7 @@
       }
     },
     {
+      "id": "seotv.1",
       "name": "SeoTv.1",
       "url": "https://seo.tv.bo/live.php?ch=seotvx_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
@@ -160,6 +176,7 @@
       }
     },
     {
+      "id": "seotv.novelas",
       "name": "SeoTv.Novelas",
       "url": "https://seo.tv.bo/live.php?ch=novelas_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
@@ -169,6 +186,7 @@
       }
     },
     {
+      "id": "seotv.kids",
       "name": "SeoTv.Kids",
       "url": "https://seo.tv.bo/live.php?ch=kids_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
@@ -178,26 +196,30 @@
       }
     },
     {
+      "id": "gigavisionlpz",
       "name": "Gigavision Lpz",
       "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
       "icon": "https://i.pinimg.com/564x/59/39/c8/5939c868b85165d4f836eda3337c9e80.jpg",
       "is_live": true
     },
     {
+      "id": "gigavisionscz",
       "name": "Gigavision Scz",
       "url": "https://tv.bitstreaming.net:3348/multi_live/play_720.m3u8",
       "icon": "https://i.pinimg.com/564x/59/39/c8/5939c868b85165d4f836eda3337c9e80.jpg",
       "is_live": true
     },
     {
+      "id": "palenquetv",
       "name": "PalenqueTv",
       "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQveRUgGMmvCtDVpM9YLnyAsuaU000ldqxA9BELyV3CdQ&s=10",
       "is_live": true
     },
     {
+      "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(VoW5-krIPEFwkIP3Gcd26JBL-UcLf-vBSa7pa2t39OWPk3YqsGZAUKdoDcbHrozMj04ktpNaInT6oePIo_2t-mzZmRNX_m0mw3tVY1G7C8wrDDvVVZv3lJ7j26-ZAePI)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(9qPFqjDlaDLcFRl5vvBR-psS1Bdq1oiUwYigyGnz9EH7-QZjm_lBlPhD17qUkGksZ6bigw9yhR7GIBb9ExiZOYImimtCSu7jHJHXG6pGaBXvEplvm42XiH4sKZcQU5-f)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -207,8 +229,9 @@
       }
     },
     {
+      "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(W4K6bLQ437PbuaAG19l17jy12cZqTPCZGVkjXubLQSr82wuR8E3YzPbBKH9H0K_4iIXkO4JGUv8-VhRZ5iPO1ne8YkhEnOjljVKafF-XKRhrbP3Dj8QC04I1b-LURUxa)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(AnmyXzkWEOeBStmtNgF8kK_SWT3rPFNHTf6Ym-q0T3_5j_KG5ws_8zNC8y7m4tKkFCyG9G3tnziz5-7K76bnoEX4poJ2IcgsFevJ3obB2bxV-jdJDyha9FDDJ2BFqUwq)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -218,18 +241,21 @@
       }
     },
     {
+      "id": "atb",
       "name": "ATB",
       "url": "https://www.dailymotion.com/cdn/live/video/x84eirw.m3u8?sec=Nrqkd_V62I0FxRMBCcLm0pVVNualSQ7lxhBX5ZO_M2Er0Tj57b4t0-FfrJGBH3piKCI78qUnQaghFazixHraf_LeyMGcigD7fiNVQfQpqsfXPSXpW9pTOk4mC2UurkXL&dmTs=759597&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTt9olIMfX4Asmp_WBSrQPYMS-ASagdkAVUkiRB09Ked2GyBUa7q3aTA&s=10",
       "is_live": true
     },
     {
+      "id": "cadenaa",
       "name": "Cadena A",
       "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
       "icon": "https://directostv.teleame.com/wp-content/uploads/2018/05/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
       "is_live": true
     },
     {
+      "id": "pat",
       "name": "PAT",
       "url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
       "icon": "https://canales.asplurtv.com/logo_pat.png",
@@ -237,48 +263,56 @@
       "type": "mpd"
     },
     {
+      "id": "amitel",
       "name": "Amiltel tv 5.2",
       "url": "https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8",
       "icon": "https://www.agendaminera.com/wp-content/uploads/2024/06/agenda-minera-AMITEL-tv-logo-2024.png",
       "is_live": true
     },
     {
+      "id": "deltatv",
       "name": "DeltaTv",
       "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
       "icon": "https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png",
       "is_live": true
     },
     {
+      "id": "vostv",
       "name": "VosTv",
       "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1252726414.m3u8",
       "icon": "https://vostvbolivia.com/wp-content/uploads/2025/07/LOGO-VOS-TV-FHD-AMARILLO.png",
       "is_live": true
     },
     {
+      "id": "canal15teleor",
       "name": "Canal15 Teleor",
       "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
       "icon": "https://i.imgur.com/w8CB2On.jpeg",
       "is_live": true
     },
     {
+      "id": "ant",
       "name": "ANT Television",
       "url": "http://181.188.144.141/tmp_hls/ant_tv/index.m3u8",
       "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
       "is_live": true
     },
     {
+      "id": "ascontenidos",
       "name": "AsContenidos 87.7 FM",
       "url": "https://master.tucableip.com/ascontenido/mono.m3u8",
       "icon": "https://ascontenidos.com.bo/wp-content/uploads/2026/07/LOGO-BLANCO-WEB.png",
       "is_live": true
     },
     {
+      "id": "audiokiss",
       "name": "AudioKiss",
       "url": "https://master.tucableip.com/audiokisstv/tracks-v1a1/mono.ts.m3u8",
       "icon": "https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png",
       "is_live": true
     },
     {
+      "id": "seotv.musica",
       "name": "SeoTv.Musica",
       "url": "https://seo.tv.bo/live.php?ch=musica_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
@@ -288,6 +322,7 @@
       }
     },
     {
+      "id": "seotv.abyayala",
       "name": "SeoTv.Abya.Yala.tv",
       "url": "https://seo.tv.bo/live.php?ch=abyayala_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
@@ -297,78 +332,91 @@
       }
     },
     {
+      "id": "teleestrella",
       "name": "Tele Estrella HD",
       "url": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_teleestrella.png",
       "is_live": true
     },
     {
+      "id": "fap",
       "name": "FAP Televisión",
       "url": "https://edge.enhdtv.com/faptv/index.m3u8",
       "icon": "https://canales.asplurtv.com/logo_faptv.png",
       "is_live": true
     },
     {
+      "id": "tele6",
       "name": "TELE 6",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_teleseis.png",
       "is_live": true
     },
     {
+      "id": "redsigloxxi",
       "name": "Red Siglo XXI",
       "url": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_sigloxxi.png",
       "is_live": true
     },
     {
+      "id": "inedita",
       "name": "INEDITA FHD",
       "icon": "https://canales.asplurtv.com/inedi_logo.png",
       "url": "https://59d39900ebfb8.streamlock.net:443/INEDITA/INEDITA/playlist.m3u8",
       "is_live": true
     },
     {
+      "id": "ftv",
       "name": "FTV",
       "icon": "https://i.imgur.com/YOr1Oac.png",
       "url": "https://master.tucableip.com/ftvhd/tracks-v1a1/mono.ts.m3u8",
       "is_live": true
     },
     {
+      "id": "puntotv",
       "name": "Punto TV",
       "icon": "https://canales.asplurtv.com/logo_puntotv.png",
       "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
       "is_live": true
     },
     {
+      "id": "aynitv",
       "name": "AYNI TV",
       "icon": "https://canales.asplurtv.com/logo_aynitv.png",
       "url": "https://59d39900ebfb8.streamlock.net:443/Aynitv/Aynitv/playlist.m3u8",
       "is_live": true
     },
     {
+      "id": "redamericatv",
       "name": "Red America TV",
       "icon": "https://canales.asplurtv.com/logo_redamerica.png",
       "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
       "is_live": true
     },
     {
+      "id": "latinatv",
       "name": "Latina TV",
       "icon": "https://canales.asplurtv.com/logo_latina.png",
       "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
       "is_live": true
     },
     {
+      "id": "ceacomtv",
       "name": "CEACOM TV",
       "icon": "https://canales.asplurtv.com/logo_ceacom.png",
       "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8",
       "is_live": true
     },
     {
+      "id": "redadvenir",
       "name": "RedAdvenir",
       "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w988196746.m3u8",
       "icon": "https://yt3.googleusercontent.com/25xRIKXcLxBbh4xjBpXH9DlLBX_mc6ggT6s6_xjHRLlcHO-pWQuxXr_034PT7iYMlN2EMatpZ38=s900-c-k-c0x00ffffff-no-rj",
       "is_live": true
     },
     {
+      "id": "telefehd",
       "name": "Tele Fe HD",
       "url": "https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_telefe.png",
