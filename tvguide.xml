@@ -858,8 +858,116 @@
   <programme channel="deltatv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Pelicula</title>
   </programme>
-  <programme channel="f10" start="20260820080000 -0400" stop="20260820093000 -0400">
+  <programme channel="f10" start="20260817060000 -0400" stop="20260817083000 -0400">
+    <title>F10 Noticias - Primera Edición</title>
+  </programme>
+  <programme channel="f10" start="20260818060000 -0400" stop="20260818083000 -0400">
+    <title>F10 Noticias - Primera Edición</title>
+  </programme>
+  <programme channel="f10" start="20260819060000 -0400" stop="20260819083000 -0400">
+    <title>F10 Noticias - Primera Edición</title>
+  </programme>
+  <programme channel="f10" start="20260820060000 -0400" stop="20260820083000 -0400">
+    <title>F10 Noticias - Primera Edición</title>
+  </programme>
+  <programme channel="f10" start="20260821060000 -0400" stop="20260821083000 -0400">
+    <title>F10 Noticias - Primera Edición</title>
+  </programme>
+  <programme channel="f10" start="20260817083000 -0400" stop="20260817122000 -0400">
     <title>El Show de las mañanas</title>
+  </programme>
+  <programme channel="f10" start="20260818083000 -0400" stop="20260818122000 -0400">
+    <title>El Show de las mañanas</title>
+  </programme>
+  <programme channel="f10" start="20260819083000 -0400" stop="20260819122000 -0400">
+    <title>El Show de las mañanas</title>
+  </programme>
+  <programme channel="f10" start="20260820083000 -0400" stop="20260820122000 -0400">
+    <title>El Show de las mañanas</title>
+  </programme>
+  <programme channel="f10" start="20260821083000 -0400" stop="20260821122000 -0400">
+    <title>El Show de las mañanas</title>
+  </programme>
+  <programme channel="f10" start="20260817122000 -0400" stop="20260817140000 -0400">
+    <title>F10 Noticias - Segunda Edición</title>
+  </programme>
+  <programme channel="f10" start="20260818122000 -0400" stop="20260818140000 -0400">
+    <title>F10 Noticias - Segunda Edición</title>
+  </programme>
+  <programme channel="f10" start="20260819122000 -0400" stop="20260819140000 -0400">
+    <title>F10 Noticias - Segunda Edición</title>
+  </programme>
+  <programme channel="f10" start="20260820122000 -0400" stop="20260820140000 -0400">
+    <title>F10 Noticias - Segunda Edición</title>
+  </programme>
+  <programme channel="f10" start="20260821122000 -0400" stop="20260821140000 -0400">
+    <title>F10 Noticias - Segunda Edición</title>
+  </programme>
+  <programme channel="f10" start="20260817140000 -0400" stop="20260817160000 -0400">
+    <title>Así es Aquí con La Aplanadora</title>
+  </programme>
+  <programme channel="f10" start="20260818140000 -0400" stop="20260818160000 -0400">
+    <title>Así es Aquí con La Aplanadora</title>
+  </programme>
+  <programme channel="f10" start="20260819140000 -0400" stop="20260819160000 -0400">
+    <title>Así es Aquí con La Aplanadora</title>
+  </programme>
+  <programme channel="f10" start="20260820140000 -0400" stop="20260820160000 -0400">
+    <title>Así es Aquí con La Aplanadora</title>
+  </programme>
+  <programme channel="f10" start="20260821140000 -0400" stop="20260821160000 -0400">
+    <title>Así es Aquí con La Aplanadora</title>
+  </programme>
+  <programme channel="f10" start="20260817160000 -0400" stop="20260817190000 -0400">
+    <title>El Recreo F10</title>
+  </programme>
+  <programme channel="f10" start="20260818160000 -0400" stop="20260818190000 -0400">
+    <title>El Recreo F10</title>
+  </programme>
+  <programme channel="f10" start="20260819160000 -0400" stop="20260819190000 -0400">
+    <title>El Recreo F10</title>
+  </programme>
+  <programme channel="f10" start="20260820160000 -0400" stop="20260820190000 -0400">
+    <title>El Recreo F10</title>
+  </programme>
+  <programme channel="f10" start="20260821160000 -0400" stop="20260821190000 -0400">
+    <title>El Recreo F10</title>
+  </programme>
+  <programme channel="f10" start="20260817190000 -0400" stop="20260817200000 -0400">
+    <title>F10 Noticias - Edicion Central</title>
+  </programme>
+  <programme channel="f10" start="20260818190000 -0400" stop="20260818200000 -0400">
+    <title>F10 Noticias - Edicion Central</title>
+  </programme>
+  <programme channel="f10" start="20260819190000 -0400" stop="20260819200000 -0400">
+    <title>F10 Noticias - Edicion Central</title>
+  </programme>
+  <programme channel="f10" start="20260820190000 -0400" stop="20260820200000 -0400">
+    <title>F10 Noticias - Edicion Central</title>
+  </programme>
+  <programme channel="f10" start="20260821190000 -0400" stop="20260821200000 -0400">
+    <title>F10 Noticias - Edicion Central</title>
+  </programme>
+  <programme channel="f10" start="20260817200000 -0400" stop="20260817220000 -0400">
+    <title>Titanes - Reality</title>
+  </programme>
+  <programme channel="f10" start="20260818200000 -0400" stop="20260818220000 -0400">
+    <title>Titanes - Reality</title>
+  </programme>
+  <programme channel="f10" start="20260819200000 -0400" stop="20260819220000 -0400">
+    <title>Titanes - Reality</title>
+  </programme>
+  <programme channel="f10" start="20260820200000 -0400" stop="20260820220000 -0400">
+    <title>Titanes - Reality</title>
+  </programme>
+  <programme channel="f10" start="20260821200000 -0400" stop="20260821220000 -0400">
+    <title>Titanes - Reality</title>
+  </programme>
+  <programme channel="f10" start="20260822220000 -0400" stop="20260822235900 -0400">
+    <title>Nada Q'ver</title>
+  </programme>
+  <programme channel="f10" start="20260823220000 -0400" stop="20260823235900 -0400">
+    <title>Nada Q'ver</title>
   </programme>
   <programme channel="faptelevision" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>La Revista para ti</title>
