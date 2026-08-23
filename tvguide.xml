@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="unitellpz">
+    <display-name>UNITEL</display-name>
+  </channel>
   <channel id="unitelscz">
     <display-name>UNITEL</display-name>
+  </channel>
+  <channel id="redunolpz">
+    <display-name>RED UNO</display-name>
+  </channel>
+  <channel id="redunocbba">
+    <display-name>RED UNO</display-name>
   </channel>
   <channel id="redunoscz">
     <display-name>RED UNO</display-name>
@@ -1218,6 +1227,762 @@
   <programme channel="redsigloxxi" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Enfoque</title>
   </programme>
+  <programme channel="redunocbba" start="20260817000000 -0400" stop="20260817010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818000000 -0400" stop="20260818010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819000000 -0400" stop="20260819010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820000000 -0400" stop="20260820010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821000000 -0400" stop="20260821010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822000000 -0400" stop="20260822010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823000000 -0400" stop="20260823010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817010000 -0400" stop="20260817023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818010000 -0400" stop="20260818023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819010000 -0400" stop="20260819023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820010000 -0400" stop="20260820023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821010000 -0400" stop="20260821023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822010000 -0400" stop="20260822021000 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823010000 -0400" stop="20260823021000 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822021000 -0400" stop="20260822045700 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823021000 -0400" stop="20260823045700 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817023000 -0400" stop="20260817040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818023000 -0400" stop="20260818040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819023000 -0400" stop="20260819040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820023000 -0400" stop="20260820040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821023000 -0400" stop="20260821040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817040000 -0400" stop="20260817045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818040000 -0400" stop="20260818045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819040000 -0400" stop="20260819045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820040000 -0400" stop="20260820045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821040000 -0400" stop="20260821045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817045700 -0400" stop="20260817055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818045700 -0400" stop="20260818055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819045700 -0400" stop="20260819055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820045700 -0400" stop="20260820055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821045700 -0400" stop="20260821055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822045700 -0400" stop="20260822055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823045700 -0400" stop="20260823055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822055700 -0400" stop="20260822065500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823055700 -0400" stop="20260823070000 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817060000 -0400" stop="20260817092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818060000 -0400" stop="20260818092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819060000 -0400" stop="20260819092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820060000 -0400" stop="20260820092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821060000 -0400" stop="20260821092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822065500 -0400" stop="20260822075000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823070000 -0400" stop="20260823080000 -0400">
+    <title>Santa Misa</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822075000 -0400" stop="20260822090000 -0400">
+    <title>Bloque Nick:Avatar the Last Airbender</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823080000 -0400" stop="20260823081500 -0400">
+    <title>Bebe Finn</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823081500 -0400" stop="20260823084500 -0400">
+    <title>Bloque Nick: Baby Shark big show</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823084500 -0400" stop="20260823091500 -0400">
+    <title>Bloque Nick: Paw Patrol</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822090000 -0400" stop="20260822110000 -0400">
+    <title>Zone Anime: Ghost in the shell, Arise border 1 y border 2</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823091500 -0400" stop="20260823094500 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817092500 -0400" stop="20260817093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818092500 -0400" stop="20260818093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819092500 -0400" stop="20260819093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820092500 -0400" stop="20260820093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821092500 -0400" stop="20260821093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817093000 -0400" stop="20260817120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818093000 -0400" stop="20260818120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819093000 -0400" stop="20260819120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820093000 -0400" stop="20260820120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821093000 -0400" stop="20260821120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823094500 -0400" stop="20260823100000 -0400">
+    <title>Space Cops</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823100000 -0400" stop="20260823103000 -0400">
+    <title>Metal Cardbots</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823103000 -0400" stop="20260823110000 -0400">
+    <title>Bloque Nick: Bob Sponja</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822110000 -0400" stop="20260822120000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823110000 -0400" stop="20260823113000 -0400">
+    <title>Bloque Nick: The Loud house</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823113000 -0400" stop="20260823122500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817120000 -0400" stop="20260817122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818120000 -0400" stop="20260818122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819120000 -0400" stop="20260819122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820120000 -0400" stop="20260820122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821120000 -0400" stop="20260821122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822120000 -0400" stop="20260822122500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817122500 -0400" stop="20260817140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818122500 -0400" stop="20260818140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819122500 -0400" stop="20260819140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820122500 -0400" stop="20260820140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821122500 -0400" stop="20260821140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822122500 -0400" stop="20260822140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823122500 -0400" stop="20260823140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817140000 -0400" stop="20260817150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818140000 -0400" stop="20260818150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819140000 -0400" stop="20260819150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820140000 -0400" stop="20260820150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821140000 -0400" stop="20260821150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822140000 -0400" stop="20260822161000 -0400">
+    <title>Lo mejor de Destinos Separados</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823140000 -0400" stop="20260823154500 -0400">
+    <title>Uno de Película</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817150000 -0400" stop="20260817163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818150000 -0400" stop="20260818163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819150000 -0400" stop="20260819163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820150000 -0400" stop="20260820163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821150000 -0400" stop="20260821163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823154500 -0400" stop="20260823173000 -0400">
+    <title>Uno de Película</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822161000 -0400" stop="20260822180000 -0400">
+    <title>Uno de Película</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817163000 -0400" stop="20260817170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818163000 -0400" stop="20260818170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819163000 -0400" stop="20260819170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820163000 -0400" stop="20260820170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821163000 -0400" stop="20260821170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817170000 -0400" stop="20260817185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818170000 -0400" stop="20260818185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819170000 -0400" stop="20260819185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820170000 -0400" stop="20260820185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821170000 -0400" stop="20260821185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823173000 -0400" stop="20260823190000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822180000 -0400" stop="20260822190000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817185500 -0400" stop="20260817204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818185500 -0400" stop="20260818204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819185500 -0400" stop="20260819204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820185500 -0400" stop="20260820204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821185500 -0400" stop="20260821204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822190000 -0400" stop="20260822195500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823190000 -0400" stop="20260823195500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822195500 -0400" stop="20260822210000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823195500 -0400" stop="20260823210000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817204500 -0400" stop="20260817220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818204500 -0400" stop="20260818220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819204500 -0400" stop="20260819220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820204500 -0400" stop="20260820220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821204500 -0400" stop="20260821220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822210000 -0400" stop="20260822223000 -0400">
+    <title>Lo mejor de la Gran Batalla Superstars</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823210000 -0400" stop="20260823220000 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunocbba" start="20260817220000 -0400" stop="20260817235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunocbba" start="20260818220000 -0400" stop="20260818235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunocbba" start="20260819220000 -0400" stop="20260819235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunocbba" start="20260820220000 -0400" stop="20260820235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunocbba" start="20260821220000 -0400" stop="20260821235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunocbba" start="20260823220000 -0400" stop="20260823235900 -0400">
+    <title>Uno de Pelicula</title>
+  </programme>
+  <programme channel="redunocbba" start="20260822223000 -0400" stop="20260822235900 -0400">
+    <title>Uno de Pelicula</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817000000 -0400" stop="20260817010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818000000 -0400" stop="20260818010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819000000 -0400" stop="20260819010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820000000 -0400" stop="20260820010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821000000 -0400" stop="20260821010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822000000 -0400" stop="20260822010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823000000 -0400" stop="20260823010000 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817010000 -0400" stop="20260817023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818010000 -0400" stop="20260818023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819010000 -0400" stop="20260819023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820010000 -0400" stop="20260820023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821010000 -0400" stop="20260821023000 -0400">
+    <title>Notivisión (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822010000 -0400" stop="20260822021000 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823010000 -0400" stop="20260823021000 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822021000 -0400" stop="20260822045700 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823021000 -0400" stop="20260823045700 -0400">
+    <title>Uno de Pelicula (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817023000 -0400" stop="20260817040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818023000 -0400" stop="20260818040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819023000 -0400" stop="20260819040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820023000 -0400" stop="20260820040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821023000 -0400" stop="20260821040000 -0400">
+    <title>Dueños de la tarde (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817040000 -0400" stop="20260817045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818040000 -0400" stop="20260818045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819040000 -0400" stop="20260819045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820040000 -0400" stop="20260820045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821040000 -0400" stop="20260821045700 -0400">
+    <title>La Gran Batalla SuperStars (Repris)</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817045700 -0400" stop="20260817055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818045700 -0400" stop="20260818055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819045700 -0400" stop="20260819055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820045700 -0400" stop="20260820055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821045700 -0400" stop="20260821055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822045700 -0400" stop="20260822055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823045700 -0400" stop="20260823055700 -0400">
+    <title>Problemas y Soluciones</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822055700 -0400" stop="20260822065500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823055700 -0400" stop="20260823070000 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817060000 -0400" stop="20260817092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818060000 -0400" stop="20260818092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819060000 -0400" stop="20260819092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820060000 -0400" stop="20260820092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821060000 -0400" stop="20260821092500 -0400">
+    <title>El mañanero</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822065500 -0400" stop="20260822075000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823070000 -0400" stop="20260823080000 -0400">
+    <title>Santa Misa</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822075000 -0400" stop="20260822090000 -0400">
+    <title>Bloque Nick:Avatar the Last Airbender</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823080000 -0400" stop="20260823081500 -0400">
+    <title>Bebe Finn</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823081500 -0400" stop="20260823084500 -0400">
+    <title>Bloque Nick: Baby Shark big show</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823084500 -0400" stop="20260823091500 -0400">
+    <title>Bloque Nick: Paw Patrol</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822090000 -0400" stop="20260822110000 -0400">
+    <title>Zone Anime: Ghost in the shell, Arise border 1 y border 2</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823091500 -0400" stop="20260823094500 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817092500 -0400" stop="20260817093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818092500 -0400" stop="20260818093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819092500 -0400" stop="20260819093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820092500 -0400" stop="20260820093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821092500 -0400" stop="20260821093000 -0400">
+    <title>Plim Plim</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817093000 -0400" stop="20260817120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818093000 -0400" stop="20260818120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819093000 -0400" stop="20260819120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820093000 -0400" stop="20260820120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821093000 -0400" stop="20260821120000 -0400">
+    <title>Sabores Bolivianos</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823094500 -0400" stop="20260823100000 -0400">
+    <title>Space Cops</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823100000 -0400" stop="20260823103000 -0400">
+    <title>Metal Cardbots</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823103000 -0400" stop="20260823110000 -0400">
+    <title>Bloque Nick: Bob Sponja</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822110000 -0400" stop="20260822120000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823110000 -0400" stop="20260823113000 -0400">
+    <title>Bloque Nick: The Loud house</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823113000 -0400" stop="20260823122500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817120000 -0400" stop="20260817122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818120000 -0400" stop="20260818122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819120000 -0400" stop="20260819122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820120000 -0400" stop="20260820122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821120000 -0400" stop="20260821122500 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822120000 -0400" stop="20260822122500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817122500 -0400" stop="20260817140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818122500 -0400" stop="20260818140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819122500 -0400" stop="20260819140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820122500 -0400" stop="20260820140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821122500 -0400" stop="20260821140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822122500 -0400" stop="20260822140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823122500 -0400" stop="20260823140000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817140000 -0400" stop="20260817150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818140000 -0400" stop="20260818150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819140000 -0400" stop="20260819150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820140000 -0400" stop="20260820150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821140000 -0400" stop="20260821150000 -0400">
+    <title>Destinos Separados</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822140000 -0400" stop="20260822161000 -0400">
+    <title>Lo mejor de Destinos Separados</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823140000 -0400" stop="20260823154500 -0400">
+    <title>Uno de Película</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817150000 -0400" stop="20260817163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818150000 -0400" stop="20260818163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819150000 -0400" stop="20260819163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820150000 -0400" stop="20260820163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821150000 -0400" stop="20260821163000 -0400">
+    <title>Último nivel</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823154500 -0400" stop="20260823173000 -0400">
+    <title>Uno de Película</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822161000 -0400" stop="20260822180000 -0400">
+    <title>Uno de Película</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817163000 -0400" stop="20260817170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818163000 -0400" stop="20260818170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819163000 -0400" stop="20260819170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820163000 -0400" stop="20260820170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821163000 -0400" stop="20260821170000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817170000 -0400" stop="20260817185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818170000 -0400" stop="20260818185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819170000 -0400" stop="20260819185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820170000 -0400" stop="20260820185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821170000 -0400" stop="20260821185500 -0400">
+    <title>Dueños de la Tarde</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823173000 -0400" stop="20260823190000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822180000 -0400" stop="20260822190000 -0400">
+    <title>El Chavo del 8</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817185500 -0400" stop="20260817204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818185500 -0400" stop="20260818204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819185500 -0400" stop="20260819204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820185500 -0400" stop="20260820204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821185500 -0400" stop="20260821204500 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822190000 -0400" stop="20260822195500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823190000 -0400" stop="20260823195500 -0400">
+    <title>El Chapulín colorado</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822195500 -0400" stop="20260822210000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823195500 -0400" stop="20260823210000 -0400">
+    <title>Notivisión</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817204500 -0400" stop="20260817220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818204500 -0400" stop="20260818220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819204500 -0400" stop="20260819220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820204500 -0400" stop="20260820220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821204500 -0400" stop="20260821220000 -0400">
+    <title>La Gran Batalla SuperStars</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822210000 -0400" stop="20260822223000 -0400">
+    <title>Lo mejor de la Gran Batalla Superstars</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823210000 -0400" stop="20260823220000 -0400">
+    <title>Super Deportivo</title>
+  </programme>
+  <programme channel="redunolpz" start="20260817220000 -0400" stop="20260817235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunolpz" start="20260818220000 -0400" stop="20260818235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunolpz" start="20260819220000 -0400" stop="20260819235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunolpz" start="20260820220000 -0400" stop="20260820235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunolpz" start="20260821220000 -0400" stop="20260821235900 -0400">
+    <title>Que no me pierda</title>
+  </programme>
+  <programme channel="redunolpz" start="20260823220000 -0400" stop="20260823235900 -0400">
+    <title>Uno de Pelicula</title>
+  </programme>
+  <programme channel="redunolpz" start="20260822223000 -0400" stop="20260822235900 -0400">
+    <title>Uno de Pelicula</title>
+  </programme>
   <programme channel="redunoscz" start="20260817000000 -0400" stop="20260817010000 -0400">
     <title>Problemas y Soluciones</title>
   </programme>
@@ -1616,6 +2381,288 @@
   </programme>
   <programme channel="tvu" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Conexión matutina</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817000000 -0400" stop="20260817004500 -0400">
+    <title>Pare de sufrir</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818000000 -0400" stop="20260818004500 -0400">
+    <title>Pare de sufrir</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819000000 -0400" stop="20260819004500 -0400">
+    <title>Pare de sufrir</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820000000 -0400" stop="20260820004500 -0400">
+    <title>Pare de sufrir</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821000000 -0400" stop="20260821004500 -0400">
+    <title>Pare de sufrir</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822000000 -0400" stop="20260822004500 -0400">
+    <title>Pare de sufrir</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823000000 -0400" stop="20260823004500 -0400">
+    <title>Pare de sufrir</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817060000 -0400" stop="20260817090000 -0400">
+    <title>La Revista</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818060000 -0400" stop="20260818090000 -0400">
+    <title>La Revista</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819060000 -0400" stop="20260819090000 -0400">
+    <title>La Revista</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820060000 -0400" stop="20260820090000 -0400">
+    <title>La Revista</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821060000 -0400" stop="20260821090000 -0400">
+    <title>La Revista</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822060000 -0400" stop="20260822073000 -0400">
+    <title>Super Libro</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823063000 -0400" stop="20260823070000 -0400">
+    <title>Super Libro</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823070000 -0400" stop="20260823090000 -0400">
+    <title>Looney Tunes</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822073000 -0400" stop="20260822093000 -0400">
+    <title>Cine Cantinflas</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817090000 -0400" stop="20260817103000 -0400">
+    <title>La Batidora</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818090000 -0400" stop="20260818103000 -0400">
+    <title>La Batidora</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819090000 -0400" stop="20260819103000 -0400">
+    <title>La Batidora</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820090000 -0400" stop="20260820103000 -0400">
+    <title>La Batidora</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821090000 -0400" stop="20260821103000 -0400">
+    <title>La Batidora</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823090000 -0400" stop="20260823110000 -0400">
+    <title>Tom y Jerry</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822093000 -0400" stop="20260822103000 -0400">
+    <title>Looney Tunes</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817103000 -0400" stop="20260817123000 -0400">
+    <title>Los Simpsons</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818103000 -0400" stop="20260818123000 -0400">
+    <title>Los Simpsons</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819103000 -0400" stop="20260819123000 -0400">
+    <title>Los Simpsons</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820103000 -0400" stop="20260820123000 -0400">
+    <title>Los Simpsons</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821103000 -0400" stop="20260821123000 -0400">
+    <title>Los Simpsons</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822103000 -0400" stop="20260822123000 -0400">
+    <title>Tom y Jerry</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823110000 -0400" stop="20260823123000 -0400">
+    <title>Cine Magico</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817123000 -0400" stop="20260817140000 -0400">
+    <title>Telepais Meridiano</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818123000 -0400" stop="20260818140000 -0400">
+    <title>Telepais Meridiano</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819123000 -0400" stop="20260819140000 -0400">
+    <title>Telepais Meridiano</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820123000 -0400" stop="20260820140000 -0400">
+    <title>Telepais Meridiano</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821123000 -0400" stop="20260821140000 -0400">
+    <title>Telepais Meridiano</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822123000 -0400" stop="20260822140000 -0400">
+    <title>Telepais Meridiano</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823123000 -0400" stop="20260823140000 -0400">
+    <title>Telepais Meridiano</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817140000 -0400" stop="20260817150000 -0400">
+    <title>Hercai</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818140000 -0400" stop="20260818150000 -0400">
+    <title>Hercai</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819140000 -0400" stop="20260819150000 -0400">
+    <title>Hercai</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820140000 -0400" stop="20260820150000 -0400">
+    <title>Hercai</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821140000 -0400" stop="20260821150000 -0400">
+    <title>Hercai</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822140000 -0400" stop="20260822160000 -0400">
+    <title>Lo mejor de: Hercai</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823140000 -0400" stop="20260823180000 -0400">
+    <title>Los Simpsons</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817150000 -0400" stop="20260817160000 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818150000 -0400" stop="20260818160000 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819150000 -0400" stop="20260819160000 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820150000 -0400" stop="20260820160000 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821150000 -0400" stop="20260821160000 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817160000 -0400" stop="20260817170000 -0400">
+    <title>Corazon Negro (repris)</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818160000 -0400" stop="20260818170000 -0400">
+    <title>Corazon Negro (repris)</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819160000 -0400" stop="20260819170000 -0400">
+    <title>Corazon Negro (repris)</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820160000 -0400" stop="20260820170000 -0400">
+    <title>Corazon Negro (repris)</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821160000 -0400" stop="20260821170000 -0400">
+    <title>Corazon Negro (repris)</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822160000 -0400" stop="20260822180000 -0400">
+    <title>Lo mejor de: La hija del embajador</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817170000 -0400" stop="20260817180000 -0400">
+    <title>La Hija del embajador</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818170000 -0400" stop="20260818180000 -0400">
+    <title>La Hija del embajador</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819170000 -0400" stop="20260819180000 -0400">
+    <title>La Hija del embajador</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820170000 -0400" stop="20260820180000 -0400">
+    <title>La Hija del embajador</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821170000 -0400" stop="20260821180000 -0400">
+    <title>La Hija del embajador</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817180000 -0400" stop="20260817185400 -0400">
+    <title>Telepais Edicion Tarde</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818180000 -0400" stop="20260818185400 -0400">
+    <title>Telepais Edicion Tarde</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819180000 -0400" stop="20260819185400 -0400">
+    <title>Telepais Edicion Tarde</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820180000 -0400" stop="20260820185400 -0400">
+    <title>Telepais Edicion Tarde</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821180000 -0400" stop="20260821185400 -0400">
+    <title>Telepais Edicion Tarde</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822180000 -0400" stop="20260822190000 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823180000 -0400" stop="20260823200000 -0400">
+    <title>Cine Aventura</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817185400 -0400" stop="20260817210000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818185400 -0400" stop="20260818210000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819185400 -0400" stop="20260819210000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820185400 -0400" stop="20260820210000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821185400 -0400" stop="20260821210000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822190000 -0400" stop="20260822200000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822200000 -0400" stop="20260822210000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823200000 -0400" stop="20260823210000 -0400">
+    <title>Telepais Central</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817210000 -0400" stop="20260817214500 -0400">
+    <title>Corazon Negro</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818210000 -0400" stop="20260818214500 -0400">
+    <title>Corazon Negro</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819210000 -0400" stop="20260819214500 -0400">
+    <title>Corazon Negro</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820210000 -0400" stop="20260820214500 -0400">
+    <title>Corazon Negro</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821210000 -0400" stop="20260821214500 -0400">
+    <title>Corazon Negro</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822210000 -0400" stop="20260822230000 -0400">
+    <title>Señor Cine</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823210000 -0400" stop="20260823230000 -0400">
+    <title>Señor Cine Premier</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817214500 -0400" stop="20260817231500 -0400">
+    <title>Yo me llamo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818214500 -0400" stop="20260818231500 -0400">
+    <title>Yo me llamo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819214500 -0400" stop="20260819231500 -0400">
+    <title>Yo me llamo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820214500 -0400" stop="20260820231500 -0400">
+    <title>Yo me llamo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821214500 -0400" stop="20260821231500 -0400">
+    <title>Yo me llamo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260822230000 -0400" stop="20260822235900 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260823230000 -0400" stop="20260823235900 -0400">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme channel="unitellpz" start="20260817231500 -0400" stop="20260817235900 -0400">
+    <title>Enemigo Intimo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260818231500 -0400" stop="20260818235900 -0400">
+    <title>Enemigo Intimo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260819231500 -0400" stop="20260819235900 -0400">
+    <title>Enemigo Intimo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260820231500 -0400" stop="20260820235900 -0400">
+    <title>Enemigo Intimo</title>
+  </programme>
+  <programme channel="unitellpz" start="20260821231500 -0400" stop="20260821235900 -0400">
+    <title>Enemigo Intimo</title>
   </programme>
   <programme channel="unitelscz" start="20260817000000 -0400" stop="20260817004500 -0400">
     <title>Pare de sufrir</title>
