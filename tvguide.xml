@@ -84,134 +84,17 @@
   <channel id="cadenaa">
     <display-name>Cadena A</display-name>
   </channel>
-  <programme channel="amiteltv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="amiteltv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="amiteltv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="amiteltv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="amiteltv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="amiteltv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="amiteltv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="amiteltv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Agenda Matinal</title>
-  </programme>
-  <programme channel="amiteltv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ascontenidos" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ascontenidos" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ascontenidos" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ascontenidos" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ascontenidos" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ascontenidos" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ascontenidos" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="ascontenidos" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Desayuno</title>
   </programme>
-  <programme channel="ascontenidos" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="atv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="atv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="atv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="atv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="atv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="atv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="atv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="atv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>La1ra</title>
   </programme>
-  <programme channel="atv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="aynitv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="aynitv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="aynitv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="aynitv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="aynitv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="aynitv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="aynitv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="aynitv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Extra Noticias</title>
-  </programme>
-  <programme channel="aynitv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="boliviatv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="boliviatv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="boliviatv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="boliviatv" start="20260820000000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="boliviatv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="boliviatv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="boliviatv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="bolivision" start="20260818000000 -0400" stop="20260818013000 -0400">
     <title>Aquí en Vivo</title>
@@ -230,9 +113,6 @@
   </programme>
   <programme channel="bolivision" start="20260823000000 -0400" stop="20260823013000 -0400">
     <title>Hombres de Paco</title>
-  </programme>
-  <programme channel="bolivision" start="20260817000000 -0400" stop="20260817013000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="bolivision" start="20260817013000 -0400" stop="20260817023000 -0400">
     <title>Aguila Roja</title>
@@ -621,27 +501,6 @@
   <programme channel="bolivision" start="20260823230000 -0400" stop="20260823235900 -0400">
     <title>Hombres de Paco</title>
   </programme>
-  <programme channel="cadenaa" start="20260817000000 -0400" stop="20260817060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260818000000 -0400" stop="20260818060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260819000000 -0400" stop="20260819060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260820000000 -0400" stop="20260820060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260821000000 -0400" stop="20260821060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260822000000 -0400" stop="20260822123000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260823000000 -0400" stop="20260823123000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cadenaa" start="20260817060000 -0400" stop="20260817090000 -0400">
     <title>Levantate Bolivia</title>
   </programme>
@@ -656,21 +515,6 @@
   </programme>
   <programme channel="cadenaa" start="20260821060000 -0400" stop="20260821090000 -0400">
     <title>Levantate Bolivia</title>
-  </programme>
-  <programme channel="cadenaa" start="20260817090000 -0400" stop="20260817120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260818090000 -0400" stop="20260818120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260819090000 -0400" stop="20260819120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260820090000 -0400" stop="20260820120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260821090000 -0400" stop="20260821120000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cadenaa" start="20260817120000 -0400" stop="20260817140000 -0400">
     <title>Tele A Noticias Meridiano</title>
@@ -693,27 +537,6 @@
   <programme channel="cadenaa" start="20260823123000 -0400" stop="20260823133000 -0400">
     <title>Tele A Noticias</title>
   </programme>
-  <programme channel="cadenaa" start="20260822133000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260823133000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260817140000 -0400" stop="20260817185500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260818140000 -0400" stop="20260818185500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260819140000 -0400" stop="20260819185500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260820140000 -0400" stop="20260820185500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260821140000 -0400" stop="20260821185500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cadenaa" start="20260817185500 -0400" stop="20260817200000 -0400">
     <title>Tele A Noticias Central</title>
   </programme>
@@ -728,21 +551,6 @@
   </programme>
   <programme channel="cadenaa" start="20260821185500 -0400" stop="20260821200000 -0400">
     <title>Tele A Noticias Central</title>
-  </programme>
-  <programme channel="cadenaa" start="20260817200000 -0400" stop="20260817215000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260818200000 -0400" stop="20260818215000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260819200000 -0400" stop="20260819215000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260820200000 -0400" stop="20260820215000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260821200000 -0400" stop="20260821215000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cadenaa" start="20260817215000 -0400" stop="20260817223000 -0400">
     <title>Noches Sin Tregua</title>
@@ -759,47 +567,8 @@
   <programme channel="cadenaa" start="20260821215000 -0400" stop="20260821223000 -0400">
     <title>Noches Sin Tregua</title>
   </programme>
-  <programme channel="cadenaa" start="20260817223000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260818223000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260819223000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260820223000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cadenaa" start="20260821223000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="ceacomtv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Pelicula</title>
-  </programme>
-  <programme channel="ceacomtv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817000000 -0400" stop="20260817015500 -0400">
     <title>Ritmo de la noche dj – repris</title>
@@ -816,27 +585,6 @@
   <programme channel="cvt18" start="20260821000000 -0400" stop="20260821015500 -0400">
     <title>Ritmo de la noche dj – repris</title>
   </programme>
-  <programme channel="cvt18" start="20260822000000 -0400" stop="20260822063000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823000000 -0400" stop="20260823060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260817015500 -0400" stop="20260817020000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818015500 -0400" stop="20260818020000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819015500 -0400" stop="20260819020000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820015500 -0400" stop="20260820020000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821015500 -0400" stop="20260821020000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260817020000 -0400" stop="20260817055500 -0400">
     <title>Cierre de emisión</title>
   </programme>
@@ -851,21 +599,6 @@
   </programme>
   <programme channel="cvt18" start="20260821020000 -0400" stop="20260821055500 -0400">
     <title>Cierre de emisión</title>
-  </programme>
-  <programme channel="cvt18" start="20260817055500 -0400" stop="20260817060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818055500 -0400" stop="20260818060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819055500 -0400" stop="20260819060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820055500 -0400" stop="20260820060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821055500 -0400" stop="20260821060000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817060000 -0400" stop="20260817065500 -0400">
     <title>Te lo cuenta victor hugo (repris)</title>
@@ -888,27 +621,6 @@
   <programme channel="cvt18" start="20260822063000 -0400" stop="20260822065500 -0400">
     <title>Serie los años maravillosos</title>
   </programme>
-  <programme channel="cvt18" start="20260817065500 -0400" stop="20260817070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818065500 -0400" stop="20260818070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819065500 -0400" stop="20260819070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820065500 -0400" stop="20260820070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821065500 -0400" stop="20260821070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822065500 -0400" stop="20260822070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823065500 -0400" stop="20260823070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260817070000 -0400" stop="20260817092500 -0400">
     <title>Revista muy buenos días</title>
   </programme>
@@ -930,44 +642,14 @@
   <programme channel="cvt18" start="20260823070000 -0400" stop="20260823075500 -0400">
     <title>Serie los Magnificos</title>
   </programme>
-  <programme channel="cvt18" start="20260823075500 -0400" stop="20260823080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260823080000 -0400" stop="20260823085500 -0400">
     <title>Programa minería al día</title>
-  </programme>
-  <programme channel="cvt18" start="20260822085500 -0400" stop="20260822090000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823085500 -0400" stop="20260823090000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260822090000 -0400" stop="20260822092500 -0400">
     <title>Los cazafantasmas</title>
   </programme>
   <programme channel="cvt18" start="20260823090000 -0400" stop="20260823092500 -0400">
     <title>Serie Timon y Pumba</title>
-  </programme>
-  <programme channel="cvt18" start="20260817092500 -0400" stop="20260817093000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818092500 -0400" stop="20260818093000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819092500 -0400" stop="20260819093000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820092500 -0400" stop="20260820093000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821092500 -0400" stop="20260821093000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822092500 -0400" stop="20260822093000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823092500 -0400" stop="20260823093000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817093000 -0400" stop="20260817102500 -0400">
     <title>Programa Always ready tv</title>
@@ -990,35 +672,11 @@
   <programme channel="cvt18" start="20260823093000 -0400" stop="20260823095500 -0400">
     <title>Serie fabulas del verde bosque</title>
   </programme>
-  <programme channel="cvt18" start="20260822095500 -0400" stop="20260822100000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823095500 -0400" stop="20260823100000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260822100000 -0400" stop="20260822115500 -0400">
     <title>Ciclo de peliculas</title>
   </programme>
   <programme channel="cvt18" start="20260823100000 -0400" stop="20260823102500 -0400">
     <title>Serie He Man</title>
-  </programme>
-  <programme channel="cvt18" start="20260817102500 -0400" stop="20260817103000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818102500 -0400" stop="20260818103000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819102500 -0400" stop="20260819103000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820102500 -0400" stop="20260820103000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821102500 -0400" stop="20260821103000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823102500 -0400" stop="20260823103000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817103000 -0400" stop="20260817105500 -0400">
     <title>Serie tres por tres – full house</title>
@@ -1038,21 +696,6 @@
   <programme channel="cvt18" start="20260823103000 -0400" stop="20260823112500 -0400">
     <title>Santa misa trasmisión en vivo</title>
   </programme>
-  <programme channel="cvt18" start="20260817105500 -0400" stop="20260817110000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818105500 -0400" stop="20260818110000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819105500 -0400" stop="20260819110000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820105500 -0400" stop="20260820110000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821105500 -0400" stop="20260821110000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260817110000 -0400" stop="20260817115500 -0400">
     <title>Serie macgyver</title>
   </programme>
@@ -1068,32 +711,8 @@
   <programme channel="cvt18" start="20260821110000 -0400" stop="20260821115500 -0400">
     <title>Serie macgyver</title>
   </programme>
-  <programme channel="cvt18" start="20260823112500 -0400" stop="20260823113000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260823113000 -0400" stop="20260823115500 -0400">
     <title>Serie pajaro loco</title>
-  </programme>
-  <programme channel="cvt18" start="20260817115500 -0400" stop="20260817120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818115500 -0400" stop="20260818120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819115500 -0400" stop="20260819120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820115500 -0400" stop="20260820120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821115500 -0400" stop="20260821120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822115500 -0400" stop="20260822120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823115500 -0400" stop="20260823120000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817120000 -0400" stop="20260817122500 -0400">
     <title>Deportivo dxtv</title>
@@ -1116,21 +735,6 @@
   <programme channel="cvt18" start="20260823120000 -0400" stop="20260823135500 -0400">
     <title>Programa era retro</title>
   </programme>
-  <programme channel="cvt18" start="20260817122500 -0400" stop="20260817123000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818122500 -0400" stop="20260818123000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819122500 -0400" stop="20260819123000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820122500 -0400" stop="20260820123000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821122500 -0400" stop="20260821123000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260817123000 -0400" stop="20260817132500 -0400">
     <title>Ctv noticias – meridiano</title>
   </programme>
@@ -1146,26 +750,8 @@
   <programme channel="cvt18" start="20260821123000 -0400" stop="20260821132500 -0400">
     <title>Ctv noticias – meridiano</title>
   </programme>
-  <programme channel="cvt18" start="20260822125500 -0400" stop="20260822130000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260822130000 -0400" stop="20260822135500 -0400">
     <title>Serie magnum pi</title>
-  </programme>
-  <programme channel="cvt18" start="20260817132500 -0400" stop="20260817133000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818132500 -0400" stop="20260818133000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819132500 -0400" stop="20260819133000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820132500 -0400" stop="20260820133000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821132500 -0400" stop="20260821133000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817133000 -0400" stop="20260817145500 -0400">
     <title>ProgramaPprotagonistas</title>
@@ -1182,38 +768,11 @@
   <programme channel="cvt18" start="20260821133000 -0400" stop="20260821145500 -0400">
     <title>Programa protagonistas</title>
   </programme>
-  <programme channel="cvt18" start="20260822135500 -0400" stop="20260822140000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823135500 -0400" stop="20260823140000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260822140000 -0400" stop="20260822145500 -0400">
     <title>Serie miami vice</title>
   </programme>
   <programme channel="cvt18" start="20260823140000 -0400" stop="20260823145500 -0400">
     <title>Programa primera fila (repris)</title>
-  </programme>
-  <programme channel="cvt18" start="20260817145500 -0400" stop="20260817150000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818145500 -0400" stop="20260818150000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819145500 -0400" stop="20260819150000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820145500 -0400" stop="20260820150000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821145500 -0400" stop="20260821150000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822145500 -0400" stop="20260822150000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823145500 -0400" stop="20260823150000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817150000 -0400" stop="20260817165500 -0400">
     <title>Programa Pulso de la tarde</title>
@@ -1236,38 +795,11 @@
   <programme channel="cvt18" start="20260823150000 -0400" stop="20260823162500 -0400">
     <title>Ciclo de cine de pelicula</title>
   </programme>
-  <programme channel="cvt18" start="20260822152500 -0400" stop="20260822153000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260822153000 -0400" stop="20260822165500 -0400">
     <title>Ciclo de cine anime pelicula</title>
   </programme>
-  <programme channel="cvt18" start="20260823162500 -0400" stop="20260823163000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260823163000 -0400" stop="20260823165500 -0400">
     <title>Serie Alf</title>
-  </programme>
-  <programme channel="cvt18" start="20260817165500 -0400" stop="20260817170000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818165500 -0400" stop="20260818170000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819165500 -0400" stop="20260819170000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820165500 -0400" stop="20260820170000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821165500 -0400" stop="20260821170000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822165500 -0400" stop="20260822170000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823165500 -0400" stop="20260823170000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817170000 -0400" stop="20260817175500 -0400">
     <title>Serie el increible hulk</title>
@@ -1290,27 +822,6 @@
   <programme channel="cvt18" start="20260823170000 -0400" stop="20260823175500 -0400">
     <title>Serie Hercules</title>
   </programme>
-  <programme channel="cvt18" start="20260817175500 -0400" stop="20260817180000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818175500 -0400" stop="20260818180000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819175500 -0400" stop="20260819180000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820175500 -0400" stop="20260820180000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821175500 -0400" stop="20260821180000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822175500 -0400" stop="20260822180000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823175500 -0400" stop="20260823180000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260817180000 -0400" stop="20260817185500 -0400">
     <title>Serie miami vice</title>
   </programme>
@@ -1331,27 +842,6 @@
   </programme>
   <programme channel="cvt18" start="20260823180000 -0400" stop="20260823185500 -0400">
     <title>Serie Batman</title>
-  </programme>
-  <programme channel="cvt18" start="20260817185500 -0400" stop="20260817190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818185500 -0400" stop="20260818190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819185500 -0400" stop="20260819190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820185500 -0400" stop="20260820190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821185500 -0400" stop="20260821190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822185500 -0400" stop="20260822190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823185500 -0400" stop="20260823190000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817190000 -0400" stop="20260817205500 -0400">
     <title>Ctv noticias – central</title>
@@ -1374,35 +864,11 @@
   <programme channel="cvt18" start="20260823190000 -0400" stop="20260823195500 -0400">
     <title>Programa repris Te lo cuenta Victor Hugo</title>
   </programme>
-  <programme channel="cvt18" start="20260822195500 -0400" stop="20260822200000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823195500 -0400" stop="20260823200000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260822200000 -0400" stop="20260822205500 -0400">
     <title>Especial Te lo cuenta Victor Hugo</title>
   </programme>
   <programme channel="cvt18" start="20260823200000 -0400" stop="20260823215500 -0400">
     <title>Ctv cine</title>
-  </programme>
-  <programme channel="cvt18" start="20260817205500 -0400" stop="20260817210000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818205500 -0400" stop="20260818210000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819205500 -0400" stop="20260819210000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820205500 -0400" stop="20260820210000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821205500 -0400" stop="20260821210000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822205500 -0400" stop="20260822210000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817210000 -0400" stop="20260817215500 -0400">
     <title>Te lo cuenta Victor Hugo</title>
@@ -1422,24 +888,6 @@
   <programme channel="cvt18" start="20260822210000 -0400" stop="20260822225500 -0400">
     <title>Programa Ritmo de la noche DJ</title>
   </programme>
-  <programme channel="cvt18" start="20260817215500 -0400" stop="20260817220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818215500 -0400" stop="20260818220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819215500 -0400" stop="20260819220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820215500 -0400" stop="20260820220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821215500 -0400" stop="20260821220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823215500 -0400" stop="20260823220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="cvt18" start="20260817220000 -0400" stop="20260817225500 -0400">
     <title>Programa Rock de altura</title>
   </programme>
@@ -1457,24 +905,6 @@
   </programme>
   <programme channel="cvt18" start="20260823220000 -0400" stop="20260823235500 -0400">
     <title>El especial DxTV</title>
-  </programme>
-  <programme channel="cvt18" start="20260817225500 -0400" stop="20260817230000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818225500 -0400" stop="20260818230000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819225500 -0400" stop="20260819230000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820225500 -0400" stop="20260820230000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821225500 -0400" stop="20260821230000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822225500 -0400" stop="20260822230000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="cvt18" start="20260817230000 -0400" stop="20260817235500 -0400">
     <title>Deportivo dxtv</title>
@@ -1494,74 +924,8 @@
   <programme channel="cvt18" start="20260822230000 -0400" stop="20260822235500 -0400">
     <title>Serie mision imposible</title>
   </programme>
-  <programme channel="cvt18" start="20260817235500 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260818235500 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260819235500 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260820235500 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260821235500 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260822235500 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="cvt18" start="20260823235500 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="deltatv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="deltatv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="deltatv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="deltatv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="deltatv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="deltatv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="deltatv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="deltatv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Pelicula</title>
-  </programme>
-  <programme channel="deltatv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260817000000 -0400" stop="20260817060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260818000000 -0400" stop="20260818060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260819000000 -0400" stop="20260819060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260820000000 -0400" stop="20260820060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260821000000 -0400" stop="20260821060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260822000000 -0400" stop="20260822220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260823000000 -0400" stop="20260823220000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="f10" start="20260817060000 -0400" stop="20260817083000 -0400">
     <title>F10 Noticias - Primera Edición</title>
@@ -1674,101 +1038,14 @@
   <programme channel="f10" start="20260823220000 -0400" stop="20260823235900 -0400">
     <title>Nada Q'ver</title>
   </programme>
-  <programme channel="f10" start="20260817220000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260818220000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260819220000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260820220000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="f10" start="20260821220000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="faptelevision" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="faptelevision" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="faptelevision" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="faptelevision" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="faptelevision" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="faptelevision" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="faptelevision" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="faptelevision" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>La Revista para ti</title>
-  </programme>
-  <programme channel="faptelevision" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ftv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ftv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ftv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ftv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ftv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ftv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ftv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="ftv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>America Deportes Television y Radio</title>
   </programme>
-  <programme channel="ftv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="ineditafhd" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Pelicula</title>
-  </programme>
-  <programme channel="ineditafhd" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="pat" start="20260817000000 -0400" stop="20260817001500 -0400">
     <title>Facetas Deportivas</title>
@@ -1784,27 +1061,6 @@
   </programme>
   <programme channel="pat" start="20260821000000 -0400" stop="20260821001500 -0400">
     <title>Facetas Deportivas</title>
-  </programme>
-  <programme channel="pat" start="20260822000000 -0400" stop="20260822143000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260823000000 -0400" stop="20260823143000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260817001500 -0400" stop="20260817070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260818001500 -0400" stop="20260818070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260819001500 -0400" stop="20260819070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260820001500 -0400" stop="20260820070000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260821001500 -0400" stop="20260821070000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="pat" start="20260817070000 -0400" stop="20260817090000 -0400">
     <title>Hola País</title>
@@ -1836,21 +1092,6 @@
   <programme channel="pat" start="20260821090000 -0400" stop="20260821093000 -0400">
     <title>Astro Boy</title>
   </programme>
-  <programme channel="pat" start="20260817093000 -0400" stop="20260817120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260818093000 -0400" stop="20260818120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260819093000 -0400" stop="20260819120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260820093000 -0400" stop="20260820120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260821093000 -0400" stop="20260821120000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="pat" start="20260817120000 -0400" stop="20260817123000 -0400">
     <title>Facetas Deportivas</title>
   </programme>
@@ -1866,21 +1107,6 @@
   <programme channel="pat" start="20260821120000 -0400" stop="20260821123000 -0400">
     <title>Facetas Deportivas</title>
   </programme>
-  <programme channel="pat" start="20260817123000 -0400" stop="20260817130000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260818123000 -0400" stop="20260818130000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260819123000 -0400" stop="20260819130000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260820123000 -0400" stop="20260820130000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260821123000 -0400" stop="20260821130000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="pat" start="20260817130000 -0400" stop="20260817140000 -0400">
     <title>Pat Noticias - Edicion Meridiano</title>
   </programme>
@@ -1895,21 +1121,6 @@
   </programme>
   <programme channel="pat" start="20260821130000 -0400" stop="20260821140000 -0400">
     <title>Pat Noticias - Edicion Meridiano</title>
-  </programme>
-  <programme channel="pat" start="20260817140000 -0400" stop="20260817160000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260818140000 -0400" stop="20260818160000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260819140000 -0400" stop="20260819160000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260820140000 -0400" stop="20260820160000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260821140000 -0400" stop="20260821160000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="pat" start="20260822143000 -0400" stop="20260822173000 -0400">
     <title>Une Tu Promo</title>
@@ -1950,27 +1161,6 @@
   <programme channel="pat" start="20260822173000 -0400" stop="20260822183000 -0400">
     <title>Faceta Cultural</title>
   </programme>
-  <programme channel="pat" start="20260823173000 -0400" stop="20260823223000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260817180000 -0400" stop="20260817190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260818180000 -0400" stop="20260818190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260819180000 -0400" stop="20260819190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260820180000 -0400" stop="20260820190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260821180000 -0400" stop="20260821190000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260822183000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="pat" start="20260817190000 -0400" stop="20260817210000 -0400">
     <title>Pat Noticias - Edicion Central</title>
   </programme>
@@ -2004,21 +1194,6 @@
   <programme channel="pat" start="20260823223000 -0400" stop="20260823235900 -0400">
     <title>Facetas Deportivas</title>
   </programme>
-  <programme channel="pat" start="20260817230000 -0400" stop="20260817234500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260818230000 -0400" stop="20260818234500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260819230000 -0400" stop="20260819234500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260820230000 -0400" stop="20260820234500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="pat" start="20260821230000 -0400" stop="20260821234500 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="pat" start="20260817234500 -0400" stop="20260817235900 -0400">
     <title>Facetas Deportivas</title>
   </programme>
@@ -2034,86 +1209,14 @@
   <programme channel="pat" start="20260821234500 -0400" stop="20260821235900 -0400">
     <title>Facetas Deportivas</title>
   </programme>
-  <programme channel="puntotv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="puntotv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="puntotv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="puntotv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="puntotv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="puntotv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="puntotv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="puntotv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Pelicula</title>
-  </programme>
-  <programme channel="puntotv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redamirecatv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redamirecatv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redamirecatv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redamirecatv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redamirecatv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redamirecatv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redamirecatv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="redamirecatv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Wara Revista</title>
   </programme>
-  <programme channel="redamirecatv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="redsigloxxi" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Enfoque</title>
-  </programme>
-  <programme channel="redsigloxxi" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="redunoscz" start="20260817000000 -0400" stop="20260817010000 -0400">
     <title>Problemas y Soluciones</title>
@@ -2219,21 +1322,6 @@
   </programme>
   <programme channel="redunoscz" start="20260823055700 -0400" stop="20260823070000 -0400">
     <title>El Chapulín colorado</title>
-  </programme>
-  <programme channel="redunoscz" start="20260817055700 -0400" stop="20260817060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redunoscz" start="20260818055700 -0400" stop="20260818060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redunoscz" start="20260819055700 -0400" stop="20260819060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redunoscz" start="20260820055700 -0400" stop="20260820060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="redunoscz" start="20260821055700 -0400" stop="20260821060000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="redunoscz" start="20260817060000 -0400" stop="20260817092500 -0400">
     <title>El mañanero</title>
@@ -2508,173 +1596,26 @@
   <programme channel="redunoscz" start="20260822223000 -0400" stop="20260822235900 -0400">
     <title>Uno de Pelicula</title>
   </programme>
-  <programme channel="rtp" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="rtp" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="rtp" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="rtp" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="rtp" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="rtp" start="20260822000000 -0400" stop="20260822220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="rtp" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="rtp" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>La Wislla Popular</title>
-  </programme>
-  <programme channel="rtp" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="rtp" start="20260822220000 -0400" stop="20260822230000 -0400">
     <title>QD Show</title>
   </programme>
-  <programme channel="rtp" start="20260822230000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="seotvnovelas" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>La rosa de guadalupe</title>
-  </programme>
-  <programme channel="seotvnovelas" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tele6" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tele6" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tele6" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tele6" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tele6" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tele6" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tele6" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="tele6" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>La Revista Tele6</title>
   </programme>
-  <programme channel="tele6" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="teleestrella" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="teleestrella" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="teleestrella" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="teleestrella" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="teleestrella" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="teleestrella" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="teleestrella" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="teleestrella" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Danza para Cristo</title>
-  </programme>
-  <programme channel="teleestrella" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvlatina" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvlatina" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvlatina" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvlatina" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvlatina" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvlatina" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvlatina" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="tvlatina" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Musica</title>
   </programme>
-  <programme channel="tvlatina" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvu" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvu" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvu" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvu" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvu" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvu" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="tvu" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="tvu" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Conexión matutina</title>
-  </programme>
-  <programme channel="tvu" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="unitelscz" start="20260817000000 -0400" stop="20260817004500 -0400">
     <title>Pare de sufrir</title>
@@ -2696,27 +1637,6 @@
   </programme>
   <programme channel="unitelscz" start="20260823000000 -0400" stop="20260823004500 -0400">
     <title>Pare de sufrir</title>
-  </programme>
-  <programme channel="unitelscz" start="20260817004500 -0400" stop="20260817060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="unitelscz" start="20260818004500 -0400" stop="20260818060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="unitelscz" start="20260819004500 -0400" stop="20260819060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="unitelscz" start="20260820004500 -0400" stop="20260820060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="unitelscz" start="20260821004500 -0400" stop="20260821060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="unitelscz" start="20260822004500 -0400" stop="20260822060000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="unitelscz" start="20260823004500 -0400" stop="20260823063000 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="unitelscz" start="20260817060000 -0400" stop="20260817090000 -0400">
     <title>La Revista</title>
@@ -2979,61 +1899,13 @@
   <programme channel="unitelscz" start="20260821231500 -0400" stop="20260821235900 -0400">
     <title>Enemigo Intimo</title>
   </programme>
-  <programme channel="upeatv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="upeatv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="upeatv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="upeatv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="upeatv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="upeatv" start="20260822000000 -0400" stop="20260822220000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="upeatv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="upeatv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Peliculas</title>
-  </programme>
-  <programme channel="upeatv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
   <programme channel="upeatv" start="20260822220000 -0400" stop="20260822235900 -0400">
     <title>Peliculas</title>
   </programme>
-  <programme channel="vostv" start="20260817000000 -0400" stop="20260817235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="vostv" start="20260818000000 -0400" stop="20260818235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="vostv" start="20260819000000 -0400" stop="20260819235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="vostv" start="20260820000000 -0400" stop="20260820080000 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="vostv" start="20260821000000 -0400" stop="20260821235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="vostv" start="20260822000000 -0400" stop="20260822235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
-  <programme channel="vostv" start="20260823000000 -0400" stop="20260823235900 -0400">
-    <title>Programación No disponible</title>
-  </programme>
   <programme channel="vostv" start="20260820080000 -0400" stop="20260820093000 -0400">
     <title>Pelicula</title>
-  </programme>
-  <programme channel="vostv" start="20260820093000 -0400" stop="20260820235900 -0400">
-    <title>Programación No disponible</title>
   </programme>
 </tv>
