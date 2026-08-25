@@ -163,6 +163,12 @@
       "is_live": true,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
       }
     },
     {
@@ -173,6 +179,12 @@
       "is_live": true,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 10000,
+        "bufferForPlaybackAfterRebufferMs": 20000
       }
     },
     {
@@ -219,7 +231,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(how_61SeSJaXy_xVZmlaPeCg5onBW_pMGk1dj5VLpDOQmlyNUUg8s6x1YblQq3_DC7xsOL1tpZ-CL7YwVplOEx-1Z49JmMFiuiGQxGnieV67O-EaMtpn5RjBixe7qJuT)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(i9HOzYq8-mGhqocGLXmn8UOooigJGMyDwJ2_qEyR-xGPUZAUCElFPpfG7peEAg4tB4C3orGTX2Mki_b0JORkiA_Uwe_L2-GaTB7SLgYeF76oQPOjrJY5FEKlO4dk3A3R)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -231,7 +243,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(-FxUkw_o55lPe4XFq30vuB7tAuZnrBcf5vLX-2ZQLLwsOgyllYIgBJo-5Y6ZMNJz5oTZZKWxXXfs5GsJ3BidRNOmYX0jVR9XA8g2IqvvBTFtSBnzkOCundWZO-n5RFcD)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(itAoA7Vs7T7AgHr8VBKQukYLdx9OzWrydvE33hLE4lbIb3P2f-aQp3NXPcviQAsaBSMWp1KYGJbZ_jO0NssK77GgIoEJUfkx85qLX07a9mCbZGsiY2XAfeWKHT5xHSPH)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -309,7 +321,13 @@
       "name": "AudioKiss",
       "url": "https://master.tucableip.com/audiokisstv/tracks-v1a1/mono.ts.m3u8",
       "icon": "https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png",
-      "is_live": true
+      "is_live": true,
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
+      }
     },
     {
       "id": "seotv.musica",
