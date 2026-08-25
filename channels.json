@@ -195,6 +195,12 @@
       "is_live": true,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
       }
     },
     {
@@ -205,6 +211,12 @@
       "is_live": true,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
       }
     },
     {
@@ -226,12 +238,18 @@
       "name": "PalenqueTv",
       "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQveRUgGMmvCtDVpM9YLnyAsuaU000ldqxA9BELyV3CdQ&s=10",
-      "is_live": true
+      "is_live": true,
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
+      }
     },
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(i9HOzYq8-mGhqocGLXmn8UOooigJGMyDwJ2_qEyR-xGPUZAUCElFPpfG7peEAg4tB4C3orGTX2Mki_b0JORkiA_Uwe_L2-GaTB7SLgYeF76oQPOjrJY5FEKlO4dk3A3R)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(L21P7ukqwLpbO55-FRTwISZAlLvIHj9uZ2jkZ7I6jkXafaDPQN2jjfFkf6qR-0v7voE3APTX3WtBlTxxkmA3N9YHe4O30pcjTMBIZGnS5rZqbXtVoK3YYqFY-54cRCFf)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -243,7 +261,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(itAoA7Vs7T7AgHr8VBKQukYLdx9OzWrydvE33hLE4lbIb3P2f-aQp3NXPcviQAsaBSMWp1KYGJbZ_jO0NssK77GgIoEJUfkx85qLX07a9mCbZGsiY2XAfeWKHT5xHSPH)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Jch0C-T4behYOl61wO8H1GWVds3GCCMLPavauv7NMgTeWdhYwDiLcsTDfzBg_d8NhZSiX-VX05fm_xfYg3U0c6uoqHtKNqWgWG-nw7xpENrmw6fQ4JEFGJ2Y9pjTNs__)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -337,6 +355,12 @@
       "is_live": true,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
       }
     },
     {
