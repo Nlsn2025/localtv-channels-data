@@ -36,7 +36,13 @@
   <channel id="tvu">
     <display-name>TVU</display-name>
   </channel>
-  <channel id="seotvnovelas">
+  <channel id="seotvmovies">
+    <display-name>SEOTv Peliculas</display-name>
+  </channel>
+  <channel id="seotv.1">
+    <display-name>SEOTv.1</display-name>
+  </channel>
+  <channel id="seotv.novelas">
     <display-name>SEOTv Novelas</display-name>
   </channel>
   <channel id="atv">
@@ -823,7 +829,7 @@
     <title>Serie magnum pi</title>
   </programme>
   <programme channel="cvt18" start="20260824133000 -0400" stop="20260824145500 -0400">
-    <title>ProgramaPprotagonistas</title>
+    <title>Programa Protagonistas</title>
   </programme>
   <programme channel="cvt18" start="20260825133000 -0400" stop="20260825145500 -0400">
     <title>Programa Protagonistas</title>
@@ -2445,8 +2451,692 @@
   <programme channel="rtp" start="20260829220000 -0400" stop="20260829230000 -0400">
     <title>QD Show</title>
   </programme>
-  <programme channel="seotvnovelas" start="20260827080000 -0400" stop="20260827093000 -0400">
+  <programme channel="seotv.1" start="20260824000000 -0400" stop="20260824013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825000000 -0400" stop="20260825013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826000000 -0400" stop="20260826013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827000000 -0400" stop="20260827013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828000000 -0400" stop="20260828013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829000000 -0400" stop="20260829013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830000000 -0400" stop="20260830013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824013000 -0400" stop="20260824030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825013000 -0400" stop="20260825030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826013000 -0400" stop="20260826030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827013000 -0400" stop="20260827030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828013000 -0400" stop="20260828030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829013000 -0400" stop="20260829030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830013000 -0400" stop="20260830030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824030000 -0400" stop="20260824043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825030000 -0400" stop="20260825043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826030000 -0400" stop="20260826043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827030000 -0400" stop="20260827043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828030000 -0400" stop="20260828043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829030000 -0400" stop="20260829043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830030000 -0400" stop="20260830043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824043000 -0400" stop="20260824060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825043000 -0400" stop="20260825060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826043000 -0400" stop="20260826060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827043000 -0400" stop="20260827060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828043000 -0400" stop="20260828060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829043000 -0400" stop="20260829060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830043000 -0400" stop="20260830060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824060000 -0400" stop="20260824073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825060000 -0400" stop="20260825073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826060000 -0400" stop="20260826073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827060000 -0400" stop="20260827073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828060000 -0400" stop="20260828073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829060000 -0400" stop="20260829073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830060000 -0400" stop="20260830073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824073000 -0400" stop="20260824090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825073000 -0400" stop="20260825090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826073000 -0400" stop="20260826090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827073000 -0400" stop="20260827090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828073000 -0400" stop="20260828090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829073000 -0400" stop="20260829090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830073000 -0400" stop="20260830090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824090000 -0400" stop="20260824103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825090000 -0400" stop="20260825103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826090000 -0400" stop="20260826103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827090000 -0400" stop="20260827103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828090000 -0400" stop="20260828103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829090000 -0400" stop="20260829103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830090000 -0400" stop="20260830103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824103000 -0400" stop="20260824120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825103000 -0400" stop="20260825120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826103000 -0400" stop="20260826120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827103000 -0400" stop="20260827120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828103000 -0400" stop="20260828120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829103000 -0400" stop="20260829120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830103000 -0400" stop="20260830120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824120000 -0400" stop="20260824133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825120000 -0400" stop="20260825133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826120000 -0400" stop="20260826133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827120000 -0400" stop="20260827133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828120000 -0400" stop="20260828133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829120000 -0400" stop="20260829133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830120000 -0400" stop="20260830133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824133000 -0400" stop="20260824150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825133000 -0400" stop="20260825150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826133000 -0400" stop="20260826150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827133000 -0400" stop="20260827150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828133000 -0400" stop="20260828150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829133000 -0400" stop="20260829150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830133000 -0400" stop="20260830150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824150000 -0400" stop="20260824163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825150000 -0400" stop="20260825163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826150000 -0400" stop="20260826163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827150000 -0400" stop="20260827163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828150000 -0400" stop="20260828163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829150000 -0400" stop="20260829163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830150000 -0400" stop="20260830163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824163000 -0400" stop="20260824180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825163000 -0400" stop="20260825180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826163000 -0400" stop="20260826180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827163000 -0400" stop="20260827180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828163000 -0400" stop="20260828180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829163000 -0400" stop="20260829180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830163000 -0400" stop="20260830180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824180000 -0400" stop="20260824193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825180000 -0400" stop="20260825193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826180000 -0400" stop="20260826193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827180000 -0400" stop="20260827193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828180000 -0400" stop="20260828193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829180000 -0400" stop="20260829193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830180000 -0400" stop="20260830193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824193000 -0400" stop="20260824210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825193000 -0400" stop="20260825210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826193000 -0400" stop="20260826210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827193000 -0400" stop="20260827210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828193000 -0400" stop="20260828210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829193000 -0400" stop="20260829210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830193000 -0400" stop="20260830210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824210000 -0400" stop="20260824223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825210000 -0400" stop="20260825223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826210000 -0400" stop="20260826223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827210000 -0400" stop="20260827223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828210000 -0400" stop="20260828223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829210000 -0400" stop="20260829223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830210000 -0400" stop="20260830223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260824223000 -0400" stop="20260824235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260825223000 -0400" stop="20260825235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260826223000 -0400" stop="20260826235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260827223000 -0400" stop="20260827235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260828223000 -0400" stop="20260828235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260829223000 -0400" stop="20260829235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.1" start="20260830223000 -0400" stop="20260830235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotv.novelas" start="20260824080000 -0400" stop="20260824093000 -0400">
     <title>La rosa de guadalupe</title>
+  </programme>
+  <programme channel="seotv.novelas" start="20260825080000 -0400" stop="20260825093000 -0400">
+    <title>La rosa de guadalupe</title>
+  </programme>
+  <programme channel="seotv.novelas" start="20260826080000 -0400" stop="20260826093000 -0400">
+    <title>La rosa de guadalupe</title>
+  </programme>
+  <programme channel="seotv.novelas" start="20260827080000 -0400" stop="20260827093000 -0400">
+    <title>La rosa de guadalupe</title>
+  </programme>
+  <programme channel="seotv.novelas" start="20260828080000 -0400" stop="20260828093000 -0400">
+    <title>La rosa de guadalupe</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824000000 -0400" stop="20260824013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825000000 -0400" stop="20260825013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826000000 -0400" stop="20260826013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827000000 -0400" stop="20260827013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828000000 -0400" stop="20260828013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829000000 -0400" stop="20260829013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830000000 -0400" stop="20260830013000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824013000 -0400" stop="20260824030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825013000 -0400" stop="20260825030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826013000 -0400" stop="20260826030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827013000 -0400" stop="20260827030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828013000 -0400" stop="20260828030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829013000 -0400" stop="20260829030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830013000 -0400" stop="20260830030000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824030000 -0400" stop="20260824043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825030000 -0400" stop="20260825043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826030000 -0400" stop="20260826043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827030000 -0400" stop="20260827043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828030000 -0400" stop="20260828043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829030000 -0400" stop="20260829043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830030000 -0400" stop="20260830043000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824043000 -0400" stop="20260824060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825043000 -0400" stop="20260825060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826043000 -0400" stop="20260826060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827043000 -0400" stop="20260827060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828043000 -0400" stop="20260828060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829043000 -0400" stop="20260829060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830043000 -0400" stop="20260830060000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824060000 -0400" stop="20260824073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825060000 -0400" stop="20260825073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826060000 -0400" stop="20260826073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827060000 -0400" stop="20260827073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828060000 -0400" stop="20260828073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829060000 -0400" stop="20260829073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830060000 -0400" stop="20260830073000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824073000 -0400" stop="20260824090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825073000 -0400" stop="20260825090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826073000 -0400" stop="20260826090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827073000 -0400" stop="20260827090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828073000 -0400" stop="20260828090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829073000 -0400" stop="20260829090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830073000 -0400" stop="20260830090000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824090000 -0400" stop="20260824103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825090000 -0400" stop="20260825103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826090000 -0400" stop="20260826103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827090000 -0400" stop="20260827103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828090000 -0400" stop="20260828103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829090000 -0400" stop="20260829103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830090000 -0400" stop="20260830103000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824103000 -0400" stop="20260824120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825103000 -0400" stop="20260825120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826103000 -0400" stop="20260826120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827103000 -0400" stop="20260827120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828103000 -0400" stop="20260828120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829103000 -0400" stop="20260829120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830103000 -0400" stop="20260830120000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824120000 -0400" stop="20260824133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825120000 -0400" stop="20260825133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826120000 -0400" stop="20260826133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827120000 -0400" stop="20260827133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828120000 -0400" stop="20260828133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829120000 -0400" stop="20260829133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830120000 -0400" stop="20260830133000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824133000 -0400" stop="20260824150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825133000 -0400" stop="20260825150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826133000 -0400" stop="20260826150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827133000 -0400" stop="20260827150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828133000 -0400" stop="20260828150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829133000 -0400" stop="20260829150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830133000 -0400" stop="20260830150000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824150000 -0400" stop="20260824163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825150000 -0400" stop="20260825163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826150000 -0400" stop="20260826163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827150000 -0400" stop="20260827163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828150000 -0400" stop="20260828163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829150000 -0400" stop="20260829163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830150000 -0400" stop="20260830163000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824163000 -0400" stop="20260824180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825163000 -0400" stop="20260825180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826163000 -0400" stop="20260826180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827163000 -0400" stop="20260827180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828163000 -0400" stop="20260828180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829163000 -0400" stop="20260829180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830163000 -0400" stop="20260830180000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824180000 -0400" stop="20260824193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825180000 -0400" stop="20260825193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826180000 -0400" stop="20260826193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827180000 -0400" stop="20260827193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828180000 -0400" stop="20260828193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829180000 -0400" stop="20260829193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830180000 -0400" stop="20260830193000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824193000 -0400" stop="20260824210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825193000 -0400" stop="20260825210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826193000 -0400" stop="20260826210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827193000 -0400" stop="20260827210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828193000 -0400" stop="20260828210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829193000 -0400" stop="20260829210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830193000 -0400" stop="20260830210000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824210000 -0400" stop="20260824223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825210000 -0400" stop="20260825223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826210000 -0400" stop="20260826223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827210000 -0400" stop="20260827223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828210000 -0400" stop="20260828223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829210000 -0400" stop="20260829223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830210000 -0400" stop="20260830223000 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260824223000 -0400" stop="20260824235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260825223000 -0400" stop="20260825235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260826223000 -0400" stop="20260826235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260827223000 -0400" stop="20260827235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260828223000 -0400" stop="20260828235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260829223000 -0400" stop="20260829235900 -0400">
+    <title>Peliculas</title>
+  </programme>
+  <programme channel="seotvmovies" start="20260830223000 -0400" stop="20260830235900 -0400">
+    <title>Peliculas</title>
   </programme>
   <programme channel="tele6" start="20260827080000 -0400" stop="20260827093000 -0400">
     <title>La Revista Tele6</title>
