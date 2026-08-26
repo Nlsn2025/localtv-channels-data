@@ -127,10 +127,10 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rtpbolivia2021.png/250px-Rtpbolivia2021.png",
       "is_live": true,
       "recommendedBuffering": {
-        "minBufferMs": 60000,
+        "minBufferMs": 120000,
         "maxBufferMs": 120000,
-        "bufferForPlaybackMs": 5000,
-        "bufferForPlaybackAfterRebufferMs": 20000
+        "bufferForPlaybackMs": 7000,
+        "bufferForPlaybackAfterRebufferMs": 50000
       }
     },
     {
