@@ -331,7 +331,8 @@
       "name": "ANT Television",
       "url": "http://181.188.144.141/tmp_hls/ant_tv/index.m3u8",
       "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
-      "is_live": false
+      "is_live": false,
+      "requiresSession": false
     },
     {
       "id": "ascontenidos",
