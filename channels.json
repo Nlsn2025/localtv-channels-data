@@ -321,22 +321,7 @@
       "icon": "https://canales.asplurtv.com/logo_vostv.png",
       "is_live": true
     },
-    {
-      "id": "canal15teleor",
-      "name": "Canal15 Teleor",
-      "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
-      "icon": "https://i.imgur.com/w8CB2On.jpeg",
-      "is_live": false,
-      "enabled": false
-    },
-    {
-      "id": "ant",
-      "name": "ANT Television",
-      "url": "http://181.188.144.141/tmp_hls/ant_tv/index.m3u8",
-      "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
-      "is_live": false,
-      "enabled": false
-    },
+    
     {
       "id": "ascontenidos",
       "name": "AsContenidos 87.7 FM",
@@ -382,13 +367,6 @@
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       }
-    },
-    {
-      "id": "teleestrella",
-      "name": "Tele Estrella HD",
-      "url": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
-      "icon": "https://canales.asplurtv.com/logo_teleestrella.png",
-      "is_live": true
     },
     {
       "id": "fap",
@@ -461,6 +439,13 @@
       "is_live": true
     },
     {
+      "id": "teleestrella",
+      "name": "Tele Estrella HD",
+      "url": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_teleestrella.png",
+      "is_live": true
+    },
+    {
       "id": "redadvenir",
       "name": "RedAdvenir",
       "url": "https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist_w988196746.m3u8",
@@ -473,6 +458,22 @@
       "url": "https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_telefe.png",
       "is_live": true
+    },
+    {
+      "id": "canal15teleor",
+      "name": "Canal15 Teleor",
+      "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
+      "icon": "https://i.imgur.com/w8CB2On.jpeg",
+      "is_live": false,
+      "enabled": false
+    },
+    {
+      "id": "ant",
+      "name": "ANT Television",
+      "url": "http://181.188.144.141/tmp_hls/ant_tv/index.m3u8",
+      "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
+      "is_live": false,
+      "enabled": false
     }
   ]
 }
