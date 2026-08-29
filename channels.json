@@ -21,7 +21,7 @@
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
       "icon2": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
-      "useCustomResolver": false,
+      "useCustomResolver": true,
       "is_live": true,
        "additionalHeaders": {
           "Referer": "https://geo.dailymotion.com/",
