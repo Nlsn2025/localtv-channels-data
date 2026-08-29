@@ -14,7 +14,7 @@
     {
       "id": "redunoscz",
       "name": "RedUno. Scz1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(v2Re8RsqYHncl6FHXmjch5dtmPxkxenLaRclZFk-_oI5gyy54V6Ui5C3fUh46VtWZtLrKemPjWcyLPSp95RgM-su2kkusUIhEvqU_fEj9fLMWZ3v_do1dxB25lgF_v-j)/cloud/3/xb0oth2/d/live-720.m3u8",
+      "url": "https://cdndirector.dailymotion.com/cdn/live/video/xb0oth2.m3u8?sec=IczNinZaGhK64F7-I4X5cYNkJ-QuR7jwETT3iiysLd_hBmShPEiK_AP-DJj0FQk-ar09KsxYbvl7RyWQ0mHa4blnZiCYaQIhtRmI3c7EsOiQgQh7xDBTa0WOoP9YIgul",
       "urlbck": "https://www.dailymotion.com/player/metadata/video/xarufnm?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
       "url4": "https://cdndirector.dailymotion.com/cdn/live/video/xb0oth2.m3u8?sec=Rh2WZLk4MXiwdEdBFC-3ugysVszqGOihXNlzBvfc2Iogv9z1eEg-MF7_Oxy8K09KH9ESfjLlSovTKM6tGAMvW0V7YN47n0VJmfLs31c1yNibMKwJJBIc8hYNPSpa5RcW",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
@@ -22,7 +22,12 @@
       "icon2": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
       "useCustomResolver": false,
-      "is_live": true
+      "is_live": true,
+       "additionalHeaders": {
+          "Referer": "https://geo.dailymotion.com/",
+          "Origin": "https://geo.dailymotion.com",
+          "User-Agent": "Mozilla/5.0"
+        },
     },
     {
       "id": "redunocbba",
