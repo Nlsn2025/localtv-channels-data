@@ -21,6 +21,9 @@
   <channel id="bolivision">
     <display-name>BOLIVISION</display-name>
   </channel>
+  <channel id="bolivisionscz">
+    <display-name>BOLIVISION SCZ</display-name>
+  </channel>
   <channel id="ctv18">
     <display-name>CTV 18</display-name>
   </channel>
@@ -574,6 +577,411 @@
     <title>Hombres de Paco</title>
   </programme>
   <programme channel="bolivision" start="20260906230000 -0400" stop="20260906235900 -0400">
+    <title>Hombres de Paco</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901000000 -0400" stop="20260901013000 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902000000 -0400" stop="20260902013000 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903000000 -0400" stop="20260903013000 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904000000 -0400" stop="20260904013000 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905000000 -0400" stop="20260905013000 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906000000 -0400" stop="20260906013000 -0400">
+    <title>Hombres de Paco</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831013000 -0400" stop="20260831023000 -0400">
+    <title>Aguila Roja</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901013000 -0400" stop="20260901023000 -0400">
+    <title>Aguila Roja</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902013000 -0400" stop="20260902023000 -0400">
+    <title>Aguila Roja</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903013000 -0400" stop="20260903023000 -0400">
+    <title>Aguila Roja</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904013000 -0400" stop="20260904023000 -0400">
+    <title>Aguila Roja</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905013000 -0400" stop="20260905023000 -0400">
+    <title>Aguila Roja</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906013000 -0400" stop="20260906023000 -0400">
+    <title>Aguila Roja</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831023000 -0400" stop="20260831033000 -0400">
+    <title>Mar de Plastico</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901023000 -0400" stop="20260901033000 -0400">
+    <title>Mar de Plastico</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902023000 -0400" stop="20260902033000 -0400">
+    <title>Mar de Plastico</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903023000 -0400" stop="20260903033000 -0400">
+    <title>Mar de Plastico</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904023000 -0400" stop="20260904033000 -0400">
+    <title>Mar de Plastico</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905023000 -0400" stop="20260905033000 -0400">
+    <title>Mar de Plastico</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906023000 -0400" stop="20260906033000 -0400">
+    <title>Mar de Plastico</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831033000 -0400" stop="20260831060000 -0400">
+    <title>Los Misterios de Laura</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901033000 -0400" stop="20260901060000 -0400">
+    <title>Los Misterios de Laura</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902033000 -0400" stop="20260902060000 -0400">
+    <title>Los Misterios de Laura</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903033000 -0400" stop="20260903060000 -0400">
+    <title>Los Misterios de Laura</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904033000 -0400" stop="20260904060000 -0400">
+    <title>Los Misterios de Laura</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905033000 -0400" stop="20260905060000 -0400">
+    <title>Gran Hotel</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906033000 -0400" stop="20260906060000 -0400">
+    <title>Gran Hotel</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831060000 -0400" stop="20260831090000 -0400">
+    <title>Al Dia Tu Dia</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901060000 -0400" stop="20260901090000 -0400">
+    <title>Al Dia Tu Dia</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902060000 -0400" stop="20260902090000 -0400">
+    <title>Al Dia Tu Dia</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903060000 -0400" stop="20260903090000 -0400">
+    <title>Al Dia Tu Dia</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904060000 -0400" stop="20260904090000 -0400">
+    <title>Al Dia Tu Dia</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905060000 -0400" stop="20260905063000 -0400">
+    <title>Master Raindrop</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906060000 -0400" stop="20260906063000 -0400">
+    <title>Master Raindrop</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905063000 -0400" stop="20260905065000 -0400">
+    <title>Abeja Maya</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906063000 -0400" stop="20260906065000 -0400">
+    <title>Abeja Maya</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905065000 -0400" stop="20260905075000 -0400">
+    <title>Plaza Sésamo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906065000 -0400" stop="20260906075000 -0400">
+    <title>Plaza Sésamo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905075000 -0400" stop="20260905081500 -0400">
+    <title>Cabeón</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906075000 -0400" stop="20260906081500 -0400">
+    <title>Cabeón</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905081500 -0400" stop="20260905085000 -0400">
+    <title>Beyblade Burst</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906081500 -0400" stop="20260906085000 -0400">
+    <title>Beyblade Burst</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905085000 -0400" stop="20260905091500 -0400">
+    <title>Guiness World Amazing Videos</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906085000 -0400" stop="20260906091500 -0400">
+    <title>Guiness World Amazing Videos</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831090000 -0400" stop="20260831105000 -0400">
+    <title>El Reto del Sabor</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901090000 -0400" stop="20260901105000 -0400">
+    <title>El Reto del Sabor</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902090000 -0400" stop="20260902105000 -0400">
+    <title>El Reto del Sabor</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903090000 -0400" stop="20260903105000 -0400">
+    <title>El Reto del Sabor</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904090000 -0400" stop="20260904105000 -0400">
+    <title>El Reto del Sabor</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905091500 -0400" stop="20260905094000 -0400">
+    <title>Plannet Funniest's Animals</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906091500 -0400" stop="20260906094000 -0400">
+    <title>Plannet Funniest's Animals</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905094000 -0400" stop="20260905103000 -0400">
+    <title>El Conciertazo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906094000 -0400" stop="20260906103000 -0400">
+    <title>El Conciertazo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905103000 -0400" stop="20260905110000 -0400">
+    <title>Popcorn Tv</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906103000 -0400" stop="20260906110000 -0400">
+    <title>Popcorn Tv</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831105000 -0400" stop="20260831114500 -0400">
+    <title>Cuando los Angeles caen</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901105000 -0400" stop="20260901114500 -0400">
+    <title>Cuando los Angeles caen</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902105000 -0400" stop="20260902114500 -0400">
+    <title>Cuando los Angeles caen</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903105000 -0400" stop="20260903114500 -0400">
+    <title>Cuando los Angeles caen</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904105000 -0400" stop="20260904114500 -0400">
+    <title>Cuando los Angeles caen</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905110000 -0400" stop="20260905114000 -0400">
+    <title>Escape Perfecto</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906110000 -0400" stop="20260906114500 -0400">
+    <title>Escape Perfecto</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905114000 -0400" stop="20260905123000 -0400">
+    <title>Desafío Africa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831114500 -0400" stop="20260831122000 -0400">
+    <title>Perdóname</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901114500 -0400" stop="20260901122000 -0400">
+    <title>Perdóname</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902114500 -0400" stop="20260902122000 -0400">
+    <title>Perdóname</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903114500 -0400" stop="20260903122000 -0400">
+    <title>Perdóname</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904114500 -0400" stop="20260904122000 -0400">
+    <title>Perdóname</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906114500 -0400" stop="20260906123000 -0400">
+    <title>Desafío Africa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831122000 -0400" stop="20260831140000 -0400">
+    <title>Noticias bolivision Al día Segunda Edición</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901122000 -0400" stop="20260901140000 -0400">
+    <title>Noticias bolivision Al día Segunda Edición</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902122000 -0400" stop="20260902140000 -0400">
+    <title>Noticias bolivision Al día Segunda Edición</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903122000 -0400" stop="20260903140000 -0400">
+    <title>Noticias bolivision Al día Segunda Edición</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904122000 -0400" stop="20260904140000 -0400">
+    <title>Noticias bolivision Al día Segunda Edición</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905123000 -0400" stop="20260905133000 -0400">
+    <title>Noticias bolivision Al día Segunda Edición</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906123000 -0400" stop="20260906133000 -0400">
+    <title>Noticias bolivision Al día Segunda Edición</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905133000 -0400" stop="20260905143000 -0400">
+    <title>American Ninja Warrior</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906133000 -0400" stop="20260906143000 -0400">
+    <title>American Ninja Warrior</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831140000 -0400" stop="20260831144500 -0400">
+    <title>El Legado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901140000 -0400" stop="20260901144500 -0400">
+    <title>El Legado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902140000 -0400" stop="20260902144500 -0400">
+    <title>El Legado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903140000 -0400" stop="20260903144500 -0400">
+    <title>El Legado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904140000 -0400" stop="20260904144500 -0400">
+    <title>El Legado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905143000 -0400" stop="20260905163000 -0400">
+    <title>Hombre al agua</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906143000 -0400" stop="20260906163000 -0400">
+    <title>Hombre al agua</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831144500 -0400" stop="20260831153000 -0400">
+    <title>Doménica Montero</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901144500 -0400" stop="20260901153000 -0400">
+    <title>Doménica Montero</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902144500 -0400" stop="20260902153000 -0400">
+    <title>Doménica Montero</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903144500 -0400" stop="20260903153000 -0400">
+    <title>Donde está Elisa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904144500 -0400" stop="20260904153000 -0400">
+    <title>Donde está Elisa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831153000 -0400" stop="20260831163000 -0400">
+    <title>Elif</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901153000 -0400" stop="20260901163000 -0400">
+    <title>Elif</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902153000 -0400" stop="20260902163000 -0400">
+    <title>Elif</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903153000 -0400" stop="20260903163000 -0400">
+    <title>Elif</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904153000 -0400" stop="20260904163000 -0400">
+    <title>Elif</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831163000 -0400" stop="20260831170500 -0400">
+    <title>La Promesa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901163000 -0400" stop="20260901170500 -0400">
+    <title>La Promesa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902163000 -0400" stop="20260902170500 -0400">
+    <title>La Promesa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903163000 -0400" stop="20260903170500 -0400">
+    <title>La Promesa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904163000 -0400" stop="20260904170500 -0400">
+    <title>La Promesa</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905163000 -0400" stop="20260905172000 -0400">
+    <title>Policias novatos</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906163000 -0400" stop="20260906172000 -0400">
+    <title>Policias novatos</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831170500 -0400" stop="20260831184500 -0400">
+    <title>Alas Rotas</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901170500 -0400" stop="20260901184500 -0400">
+    <title>Corazón Abandonado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902170500 -0400" stop="20260902184500 -0400">
+    <title>Corazón Abandonado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903170500 -0400" stop="20260903184500 -0400">
+    <title>Corazón Abandonado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904170500 -0400" stop="20260904184500 -0400">
+    <title>Corazón Abandonado</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905172000 -0400" stop="20260905181000 -0400">
+    <title>Comisario Rex</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906172000 -0400" stop="20260906181000 -0400">
+    <title>Comisario Rex</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905181000 -0400" stop="20260905190000 -0400">
+    <title>El novato</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906181000 -0400" stop="20260906185000 -0400">
+    <title>El novato</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831184500 -0400" stop="20260831202500 -0400">
+    <title>Rosa de Guadalupe</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901184500 -0400" stop="20260901202500 -0400">
+    <title>Rosa de Guadalupe</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902184500 -0400" stop="20260902202500 -0400">
+    <title>Rosa de Guadalupe</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903184500 -0400" stop="20260903202500 -0400">
+    <title>Rosa de Guadalupe</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904184500 -0400" stop="20260904202500 -0400">
+    <title>Rosa de Guadalupe</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906185000 -0400" stop="20260906200000 -0400">
+    <title>Noticias Bolivision Segunda Edicion</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905190000 -0400" stop="20260905200000 -0400">
+    <title>Noticias Bolivision Segunda Edicion</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905200000 -0400" stop="20260905220000 -0400">
+    <title>Boliwood</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906200000 -0400" stop="20260906203000 -0400">
+    <title>La Cancha</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831202500 -0400" stop="20260831220000 -0400">
+    <title>Noticias bolivision Al día Edición Central</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901202500 -0400" stop="20260901220000 -0400">
+    <title>Noticias bolivision Al día Edición Central</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902202500 -0400" stop="20260902220000 -0400">
+    <title>Noticias bolivision Al día Edición Central</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903202500 -0400" stop="20260903220000 -0400">
+    <title>Noticias bolivision Al día Edición Central</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904202500 -0400" stop="20260904220000 -0400">
+    <title>Noticias bolivision Al día Edición Central</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906203000 -0400" stop="20260906220000 -0400">
+    <title>Vikingos</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260831220000 -0400" stop="20260831235900 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260901220000 -0400" stop="20260901235900 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260902220000 -0400" stop="20260902235900 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260903220000 -0400" stop="20260903235900 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260904220000 -0400" stop="20260904235900 -0400">
+    <title>Aquí en Vivo</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905220000 -0400" stop="20260905230000 -0400">
+    <title>Fear The Walking Dead</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906220000 -0400" stop="20260906230000 -0400">
+    <title>Fear The Walking Dead</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260905230000 -0400" stop="20260905235900 -0400">
+    <title>Hombres de Paco</title>
+  </programme>
+  <programme channel="bolivisionscz" start="20260906230000 -0400" stop="20260906235900 -0400">
     <title>Hombres de Paco</title>
   </programme>
   <programme channel="cadenaa" start="20260831060000 -0400" stop="20260831090000 -0400">
