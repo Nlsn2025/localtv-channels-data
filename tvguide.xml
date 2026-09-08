@@ -105,6 +105,9 @@
   <channel id="atb">
     <display-name>ATB</display-name>
   </channel>
+  <channel id="tvbol-cinema">
+    <display-name>TVBol Cinema</display-name>
+  </channel>
   <programme channel="amiteltv" start="20260907080000 -0400" stop="20260907100000 -0400">
     <title>Agenda Matinal</title>
   </programme>
@@ -3551,6 +3554,27 @@
   </programme>
   <programme channel="teleestrella" start="20260910080000 -0400" stop="20260910093000 -0400">
     <title>Danza para Cristo</title>
+  </programme>
+  <programme channel="tvbol-cinema" start="20260907000100 -0400" stop="20260907235900 -0400">
+    <title>Pelicula boliviana</title>
+  </programme>
+  <programme channel="tvbol-cinema" start="20260908000100 -0400" stop="20260908235900 -0400">
+    <title>Pelicula boliviana</title>
+  </programme>
+  <programme channel="tvbol-cinema" start="20260909000100 -0400" stop="20260909235900 -0400">
+    <title>Pelicula boliviana</title>
+  </programme>
+  <programme channel="tvbol-cinema" start="20260910000100 -0400" stop="20260910235900 -0400">
+    <title>Pelicula boliviana</title>
+  </programme>
+  <programme channel="tvbol-cinema" start="20260911000100 -0400" stop="20260911235900 -0400">
+    <title>Pelicula boliviana</title>
+  </programme>
+  <programme channel="tvbol-cinema" start="20260912000100 -0400" stop="20260912235900 -0400">
+    <title>Pelicula boliviana</title>
+  </programme>
+  <programme channel="tvbol-cinema" start="20260913000100 -0400" stop="20260913235900 -0400">
+    <title>Pelicula boliviana</title>
   </programme>
   <programme channel="tvlatina" start="20260910080000 -0400" stop="20260910093000 -0400">
     <title>Musica</title>
