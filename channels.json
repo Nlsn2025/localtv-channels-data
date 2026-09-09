@@ -177,6 +177,13 @@
       "is_live": true
     },
     {
+      "id": "unifranz",
+      "name": "Unifranz Streaming",
+      "url": "https://edge.enhdtv.com/8192/tracks-v1a1/mono.m3u8",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6UrhLOVbSWpdn0q9rcuDzgTI7CoBBhVQ8Su7D2yhyimsy4lzdZ81n-0&s=10",
+      "is_live": true
+    },
+    {
       "id": "seotvmovies",
       "name": "SeoTv movies",
       "url": "https://seo.tv.bo/live.php?ch=pelis_SD",
