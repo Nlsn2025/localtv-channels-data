@@ -275,6 +275,13 @@
       "is_live": true
     },
     {
+      "id": "eldeber",
+      "name": "El Deber",
+      "url": "https://master.tucableip.com/eldebertv/tracks-v1a1/mono.ts.m3u8",
+      "icon": "https://serenotv.com/wp-content/uploads/2026/08/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10-150x79.jpeg",
+      "is_live": true
+    },
+    {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
       "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(SUR6hhHtctmK-nidDLenelGMLS4XEghFnNpm20dpwBZ_jc3s1pdlqErzrvFPX-M0ieghJHT4aoqe1oXqEem0mEKEttR7L2pNnml-bTG4RS8FPXQ3_H2aVKjS1ckB9rAB)/cloud/3/x9ny70y/d/live-380.m3u8",
@@ -392,6 +399,13 @@
       "name": "FAP Televisión",
       "url": "https://edge.enhdtv.com/faptv/index.m3u8",
       "icon": "https://canales.asplurtv.com/logo_faptv.png",
+      "is_live": true
+    },
+     {
+      "id": "coraltv",
+      "name": "Coral Tv - Oruro",
+      "url": "https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHN7C-9lSTrOBWoa0p9W0y5SOsX1uh2bE5ZyM5xatZCGzDUsKGCTHK3w&s",
       "is_live": true
     },
     {
