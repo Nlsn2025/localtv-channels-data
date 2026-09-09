@@ -493,6 +493,13 @@
       "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/playlist.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3ODg5ODk4MTgsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.LkZOeG412YyAAHSEKpzlHyo1B4eABwQbHiBVcSe-iFE",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
+    },
+    {
+      "id": "contactobolivia",
+      "name": "Contacto Bolivia",
+      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/playlist.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3ODg5ODk4MTgsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.LkZOeG412YyAAHSEKpzlHyo1B4eABwQbHiBVcSe-iFE",
+      "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
+      "is_live": true
     }
 
   ]
