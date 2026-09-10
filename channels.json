@@ -520,6 +520,15 @@
       "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
       "is_live": false,
       "enabled": false
+    },
+    {
+      "id": "radiofidestv",
+      "name": "Radio Fides tv",
+      "url": "https://sae11.playlist.ttvnw.net/v1/playlist/Co0HsdcDbUP4QV12h19bA6QrGrqawSI3P_MjT7ebVj-d70V9ZPHRlgHjoxwFASaDvEdaNdmuuD_hnbM1-pStTujAfBDUiS3GmFQkkrs9VMxapkxPskQ6-5M8AONWVJmdInTrpGLFEVeKHJlTcjw3wsfhGaUyHFCXDum4klC9i6Vd7Pobg19EsQgQHRZo9zIG-dWygcsVEOo9YXdmY-u51dOhE6gewYxo5l8oRfxoaoZbfnYEV1_cfwg74KuFeUe1BqugRLV0lfSd4eJje8KhSvDWaWDK0p8urHZgtgvPMe9rQynbQ2uZBUTzMAbGSHnGwkKYDgi-sebPhzhsrCAdYabPH__6uvpVYc4WNtJk4HOH8CZkh0dvzKrGPh9j5AkO3ifOdWxKyTpUgpg1WiPY23TcZlhL_uf8JrFqMKAi7Z6l-CvVNLAV_4nzAHYO8DZe74y7-xsM3I8ePH7NnXTfg48CvDAjrhWi5TBeLRqPgY_AOospraOSY2V95nxYKkqDSBbABtGLUcVEM9EzDuTi9_RSXb1Fsib_2pTvMdb6CcgVavmiutTfeMfcnf8ulotLALvXlseARu8m6lRXW2XMFrlEq5xRT8mY6bi9qaALewR-zwyX8U5R-B7G90xquXBc5XgfFCBZDora9PvppeLyCM0RhsnCSNoFXyvU2eQ_HAqLVDVhcPnMtiYnVEkBnHq2lH8uBZ6v53RfXDhPbkKvcPTeUo9IsG46qr3jlNudU5iBOkB-TdVgTMPFevcL78FuoeFFE9Es66KcaF0j0F7HC7eDFN_gX-b1InvFQeExREg5CscNTuW3wciYZJ8_j-ekX3ZeVG9baNWqmOoxld5v7jvs4UGVAZlcKDIapfr7vszVPWOiVWvVxaOG3XBBUZoeOEA46ZS4g0D6oGT_yOTCrJTPB-tSoHcxjiWfH5Gtum7UUeel8m86s1gtbWjcqIZ8C1T0wVaWKDsKDetgqgm7WGQtRN436Gae2ibs8QJctikP3NS0nZk-3pGHpRK1pHdJCSJDuDJoSncNMAcPZnTUxZVo2tGWXNqqNLgI2OXlqA3GIw0_35z1NupaLFuPTraFCMxIDgBB5vbMeIj0CQF525TpaE6ONG5bktZfFMkiIyShBnlUIpHK02QaUESB5m5C59kEiNcgxZop7Te7F4Vtwcpy15UscvdjoFiONOFWIjLd2-6yHGoI2f0NmrrENjlaGgxkizw3To95vq4FF-QgASoJdXMtZWFzdC0yMIYQ.m3u8",
+      "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
+      "is_live": true
     }
+    
+
   ]
 }
