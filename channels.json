@@ -275,14 +275,6 @@
       }
     },
     {
-      "id": "contactobolivia",
-      "name": "Contacto Bolivia",
-      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3ODkwMDc4MzksInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.G45tRjLnuPBmRxI8HJ7-SxO3g-C9bAtLsRidkF0Bp4M",
-      "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
-      "is_live": true,
-      "enabled": false
-    },
-    {
       "id": "eldeber",
       "name": "El Deber",
       "url": "https://master.tucableip.com/eldebertv/tracks-v1a1/mono.ts.m3u8",
@@ -483,6 +475,13 @@
       "name": "CEACOM TV",
       "icon": "https://canales.asplurtv.com/logo_ceacom.png",
       "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8",
+      "is_live": true
+    },
+     {
+      "id": "contactobolivia",
+      "name": "Contacto Bolivia",
+      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3ODkwMDc4MzksInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.G45tRjLnuPBmRxI8HJ7-SxO3g-C9bAtLsRidkF0Bp4M",
+      "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
     {
