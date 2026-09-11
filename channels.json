@@ -136,6 +136,13 @@
       "is_live": true
     },
     {
+      "id": "radiofidestv",
+      "name": "Radio Fides tv",
+      "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CqgHzqJRNloRb8NYMbcs0bPcUdLEOuYfLxeuxk77MUN7QbRDyoP1f4vEZWEZYC0XjfEk-yg-TFQW_Q6BoXfrVpvo43Azc0mnoi7g4WJ0T-P7LQP8Vw32NKqmEqyBeCev4RgrsysaZN69cUzCUxjFt9Ekv4wLNyhSv9FWKmGoAeiOadoHU62uuSpuk-Z_Ie5janwmfG0E3BEv9KS41Bntlq2amJ3xyow_4XsFxk4iGBBqBMt0heWOEm1AA6LSDHWMBKFSyDTurMQs9DUQr5hccz1YVOAdcBWE5U6YtzSj3oxlKhIYi841qsW_mkdqhH-UN8Yxy-V6RiLbj5WeV7rPY7BJ1fhHHXBNgOlvppPdXu4x80qLWTFg9wHxQg_M0G7SZb4lsAon_ss_V-qXkAIIWR6yot1nCI7BhTB5KGugbwlHfVFjMJuGBUh7F3z1kLF8EmT8UhGASiomSeIg4MIYB6G6P1bjx7BAifmk7yrW7lu2Wd5140uiCiTYUmSjDqmlz9UE-cL48Iqt0Y2xDn90QDVjRnZajp7l2ro4WGHaAucSwaa2GZGBvNIhIuqA4RVtMyUCqu-Z_KYJrLemE8fPlQmp6qVJFfZpndAKGqQPIQTbjv345xjrLNDoNHYw9dTu2KmCiNkCjT-F3XAX1KQmLVO6Y62Cw1S7mt-6t6sS-IgtbgPEEzPECLDHFV1cNiHKqGwgyqN5sxhkJ9WA5ROC86vdjVdif-DZ0h0rHF77riDeYdErEp7OTgbf81Mgv6EszANVSgdeV9WdBg2ItGxVhlqJHAJq_vqhkKyAe0RWguTRkEvkJzo4YCMCcbguynONu4a62lDXk710uMqfDqDbkGMXU-0HUrbANdlnXyEPXeKCcwyRhWPKHNwx4jNzGHIxMeNat9l9kUM2Xzxi4DgMUWTHP4wEvUMnFxGRZxDitd4WPFz_RmITxi3fXjWBFYmfvrYcaul2t-3J6adTJI9pQb-PxglJK7jcGADPCQFw9oXqE0RXzGYKFOye4MguNBduI7bZXS88LKIcU5gvuwzcbj1u0Gas6bONQMuvkybmWEummamaylQTCqfcohtSx06RGw33GNC6JNdl8QKI2DEj7Jk0SEcqRQQqp4Y-VsBk4Hds1aSLa8jmJnZDPZ94UzAGigzK3W36I1dVmOCu6IDoNIqzCBf-SN5_NwRN55uJyFl5Y1ErIQz5S48Qp-oaBJyZcZSW6zwpmxs5FeyNFQdikvaHBDiHzRFGVSdTGgy1euoaB08eY1hnozIgASoJdXMtZWFzdC0yMIYQ.m3u8",
+      "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
+      "is_live": true
+    },
+    {
       "id": "rtp",
       "name": "RTP",
       "url": "https://rtp.noxun.net/hls/stream.m3u8",
@@ -520,13 +527,6 @@
       "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
       "is_live": false,
       "enabled": false
-    },
-    {
-      "id": "radiofidestv",
-      "name": "Radio Fides tv",
-      "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CqgHzqJRNloRb8NYMbcs0bPcUdLEOuYfLxeuxk77MUN7QbRDyoP1f4vEZWEZYC0XjfEk-yg-TFQW_Q6BoXfrVpvo43Azc0mnoi7g4WJ0T-P7LQP8Vw32NKqmEqyBeCev4RgrsysaZN69cUzCUxjFt9Ekv4wLNyhSv9FWKmGoAeiOadoHU62uuSpuk-Z_Ie5janwmfG0E3BEv9KS41Bntlq2amJ3xyow_4XsFxk4iGBBqBMt0heWOEm1AA6LSDHWMBKFSyDTurMQs9DUQr5hccz1YVOAdcBWE5U6YtzSj3oxlKhIYi841qsW_mkdqhH-UN8Yxy-V6RiLbj5WeV7rPY7BJ1fhHHXBNgOlvppPdXu4x80qLWTFg9wHxQg_M0G7SZb4lsAon_ss_V-qXkAIIWR6yot1nCI7BhTB5KGugbwlHfVFjMJuGBUh7F3z1kLF8EmT8UhGASiomSeIg4MIYB6G6P1bjx7BAifmk7yrW7lu2Wd5140uiCiTYUmSjDqmlz9UE-cL48Iqt0Y2xDn90QDVjRnZajp7l2ro4WGHaAucSwaa2GZGBvNIhIuqA4RVtMyUCqu-Z_KYJrLemE8fPlQmp6qVJFfZpndAKGqQPIQTbjv345xjrLNDoNHYw9dTu2KmCiNkCjT-F3XAX1KQmLVO6Y62Cw1S7mt-6t6sS-IgtbgPEEzPECLDHFV1cNiHKqGwgyqN5sxhkJ9WA5ROC86vdjVdif-DZ0h0rHF77riDeYdErEp7OTgbf81Mgv6EszANVSgdeV9WdBg2ItGxVhlqJHAJq_vqhkKyAe0RWguTRkEvkJzo4YCMCcbguynONu4a62lDXk710uMqfDqDbkGMXU-0HUrbANdlnXyEPXeKCcwyRhWPKHNwx4jNzGHIxMeNat9l9kUM2Xzxi4DgMUWTHP4wEvUMnFxGRZxDitd4WPFz_RmITxi3fXjWBFYmfvrYcaul2t-3J6adTJI9pQb-PxglJK7jcGADPCQFw9oXqE0RXzGYKFOye4MguNBduI7bZXS88LKIcU5gvuwzcbj1u0Gas6bONQMuvkybmWEummamaylQTCqfcohtSx06RGw33GNC6JNdl8QKI2DEj7Jk0SEcqRQQqp4Y-VsBk4Hds1aSLa8jmJnZDPZ94UzAGigzK3W36I1dVmOCu6IDoNIqzCBf-SN5_NwRN55uJyFl5Y1ErIQz5S48Qp-oaBJyZcZSW6zwpmxs5FeyNFQdikvaHBDiHzRFGVSdTGgy1euoaB08eY1hnozIgASoJdXMtZWFzdC0yMIYQ.m3u8",
-      "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
-      "is_live": true
-    }
+    }    
   ]
 }
