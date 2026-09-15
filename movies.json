@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "id": "movie_0",
+      "name": "Movie A",
+      "duration": 6420,
+      "file": "movie_0.mp4"
+    },
+    {
+      "id": "movie_1",
+      "name": "Movie B",
+      "duration": 7380,
+      "file": "movie_1.mp4"
+    },
+    {
+      "id": "movie_2",
+      "name": "Movie C",
+      "duration": 5520,
+      "file": "movie_2.mp4"
+    }
+  ],
+   "playlist": [
+    "movie_0",
+    "movie_1",
+    "movie_2"
+  ]
+}
