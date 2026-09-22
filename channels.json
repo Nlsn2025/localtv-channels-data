@@ -523,6 +523,12 @@
       "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
       "is_live": false,
       "enabled": false
-    }
+    },
+    {
+      "id": "tvBolCinema",
+      "name": "TvBol Cinema",
+      "url": "https://send-enterprises-coordinate-charity.trycloudflare.com/hls/channel/channel.m3u8"      
+      "is_live": true
+    }    
   ]
 }
