@@ -11,10 +11,29 @@
       "name": "Chuquiago",
       "duration": 1200,
       "file": "Chuquiago.mp4"
+    },
+     {
+      "id": "movie_2",
+      "name": "La Bicicleta de los Huanca",
+      "duration": 1200,
+      "file": "La_bicicleta_de_los_Huanca.mp4"
+    },
+     {
+      "id": "movie_3",
+      "name": "Averno",
+      "duration": 1200,
+      "file": "movie_0.mp4"
+    },
+     {
+      "id": "movie_4",
+      "name": "El dia que murió el silencio",
+      "duration": 1200,
+      "file": "El_dia_que_murio_el_silencio.mp4"
     }
   ],
    "playlist": [
-    "movie_0",
-    "movie_1"    
+    "movie_2",
+    "movie_1",
+     "movie_3"
   ]
 }
