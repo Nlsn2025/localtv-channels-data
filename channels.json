@@ -5,7 +5,7 @@
     "description": "Películas durante todo el día",
     "streamUrlUbuntu": "http://192.168.124.142:8082/hls/channel/channel.m3u8",
     "streamUrl2": "http://10.0.2.2:8080/hls/channel/channel.m3u8",
-    "streamUrl": "https://send-enterprises-coordinate-charity.trycloudflare.com/hls/channel/channel.m3u8",
+    "streamUrl": "https://exec-remote-internal-searches.trycloudflare.com/hls/channel/channel.m3u8",
     "tvGuideUrl": "https://raw.githubusercontent.com/Nlsn2025/localtv-channels-data/refs/heads/main/tvguide.xml",
     "tvGuideChannelId": "tvbol-cinema"
   },
