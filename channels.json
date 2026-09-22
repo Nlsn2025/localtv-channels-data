@@ -4,7 +4,8 @@
     "name": "TVBol Cinema",
     "description": "Películas durante todo el día",
     "streamUrlUbuntu": "http://192.168.124.142:8082/hls/channel/channel.m3u8",
-    "streamUrl": "http://10.0.2.2:8080/hls/channel/channel.m3u8",
+    "streamUrl2": "http://10.0.2.2:8080/hls/channel/channel.m3u8",
+    "streamUrl": "https://send-enterprises-coordinate-charity.trycloudflare.com/hls/channel/channel.m3u8",
     "tvGuideUrl": "https://raw.githubusercontent.com/Nlsn2025/localtv-channels-data/refs/heads/main/tvguide.xml",
     "tvGuideChannelId": "tvbol-cinema"
   },
@@ -285,7 +286,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(HQH9_T_8teNDAeN0XA3oKY8j1AVV7BNQXXuBQwyCyxxqfvScJgEZJguRj3xwquaUDeFbXIei2A7bHzTiJis1o_FMmRnVDS-9-5xffKUQdC4TnuQcW-KbH11JDvw--rFm)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(_TdIllz3tm_L8gJ3k0gQfSUF22U72LU5VqiG-ThwQfyb9u2T80Vdd7C4mZjRlJQ-hRDNQryBXHWaO6rCSn2OWMNp_b4BojlpbJd2Z_H6CpNH5E7w8z9Vxby-ZZI679y0)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -297,7 +298,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(aprmImaUb65mbFGQZP7045-mqbQCiprBPL0HcDigKGMton1db9aLYjOjjivIGl9L2iXz_7soNk4Du6R3kmx2t8rZNKgiGPsZ9kItDnBW9Pozzp1z6uBQwQ_ofC-hrgZM)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(A4YAXOBA_j18nusbhwl7xKkgFQ3ArQUN5q1WhX74AHdd5Nns8w7tUG_KoaM9guZVFBJ0xucQGJ_gHWbUTHG2SPOYkTfeDiy0HnhiL8o_PtcCR0ETsBc15XuQ-bE5xrEN)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -475,14 +476,14 @@
     {
       "id": "radiofidestv",
       "name": "Radio Fides tv",
-      "url": "https://sae11.playlist.ttvnw.net/v1/playlist/CqgHssdjPnOjSpyXGPu4U9og4H3ZzhUK-23OK8YJn_e98Fw-DlHbIB1qDsOANfyG1fYyBKVLXKM-AUsrxtQH2lGzcGEDv8AO_g8s6krNF2afo1LBkKqB9LasLdF8jAu1zHCSDNIFdllPRCMLvYHrMgnK0ZQVfuaQmyVEMlaF3Tg8gZNgQXBw9hOX-S_p_eaJk0b_RFzSoUBX9grGZj-QuMyjZFdRJJtP9_uBfuTFYhwjfKIui1dNfNzcDmcy2lT86Hnnl2yA-ykdV3Mz3KxcFB0FsYNqFX8VDU0W9WeGmMe0SHS5KCB85PA47xVsjpN2x_N04iiFhtpBIifcm1VZAMMsOeobysZFtR77hKLw1dWmwxgEv6XkqbxwdEN5oFTE0Lc0OvRn9FbLFuH47zWEwgLRzmEQL6WlIGMPd3P8EoqZSx7HFdHehKRxrhzQK8As44dXBsVqoXLo0AEtS4byQu7S7MLqSTDR4x5jyOzBnMJz3bxMdPqVM24Wz70CZjObAw5z4aLeHiNMrs5ZRE2soxKXsG7xia1i88SLdFbGrkKmnrYzfBscPyb_Xn6jQ6n-JtCROO02azdqi98x6U0g_VQljAaPe61SZF1tFMyxEOXJ34XgnT4447dgM9DyM9Wmdx56HT0Yp_yVfvuncfOrkqd0wPwYnVUKHlG23yvQqyCDzpry6Aoul1TjHgKMVclB_J1Z2QywjmiDvQ6O2y9nNZREupRw7cceOrCN8pdaQGqVt2Ym4arCe5Yi6uFcc2k5wl6wxEl74c9r4U5zAynCFzNqfKtapVY0Bttmz41hEj4YOU7VEq-AnvRELde1dr57tRTzHbYVBUETNk2M24SXD5-CKtZAllvM9UGDNf1S8yFaVVEb-vE3BL30CnjLu16z_28O1zVnSOUv5FvOm6nIWqK5WWTqj1etd9LD3Gv9hu8r7W0lHD8p-3BCqiiPVKHOClwh9ZY3ZWx2gOGROpjyN1-7HeBngz3VP9yfgwrn23VSWF6ugSg05VHzyTxKF_k-O097MUmc388yWW9rSHu-L71xJ98wZM6_MS5BFJC76nmdgbkVQMjhKKKyRgqtUNdCfIlc726hfPjL3v_57U6FcpDhhoAxZdgYzusgRqKZkMcSxzgcAgOttEgk8VKur9ih9dgGLBL_iwMQmVYTa_GYJPqi313cZKLU9Y1QLTqTmmKY1b57ypBQQFL7LM_DiVKh9cCcVDVXbeFvsqdKQrvnENTlIObEuU56_tEMGgxMw43lIu6MvzxBhvogASoJdXMtZWFzdC0yMJEQ.m3u8",
+      "url": "https://usher.ttvnw.net/api/v2/channel/hls/radiofidesbolivia.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMDdmYjE5NDQtNTNjOC00OTdjLWExMjYtNTQwZGNhNmNhMDgzIiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3d3dy50d2l0Y2gudHYvcmFkaW9maWRlc2JvbGl2aWEifQ%3D%3D&allow_source=true&browser_family=chrome&browser_version=149.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&lang=en&os_name=Linux&os_version=undefined&p=4388033&platform=web&play_session_id=351231b71ec04158b86617c75874b394&player_backend=mediaplayer&player_version=1.57.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=730fc4b233bca4a69131169f3cc3cc73175f2d5e&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22radiofidesbolivia%22%2C%22channel_id%22%3A1110475038%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22edd737909e2a4a6c9dcf0efd4fc65c38%22%2C%22expires%22%3A1790065164%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2220.161.70.163%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1",
       "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
       "is_live": true
     },
     {
       "id": "contactobolivia",
       "name": "Contacto Bolivia",
-      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTAwMzkwMDksInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.NE9WaMoW32yuwStS_VhBZQ-ph6eYfg1mURjoT4kWDRs",
+      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTAwNzQ3NDcsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.i0WoOLBCaybVo9XdLgQVgg_JEEQLwdl1EF_mkAXxTQE",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
@@ -522,6 +523,12 @@
       "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
       "is_live": false,
       "enabled": false
+    },
+    {
+      "id": "tvBolCinema",
+      "name": "TvBol Cinema",
+      "url": "https://send-enterprises-coordinate-charity.trycloudflare.com/hls/channel/channel.m3u8",
+      "is_live": true
     }
   ]
 }
