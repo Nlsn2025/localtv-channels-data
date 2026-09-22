@@ -8,20 +8,13 @@
     },
     {
       "id": "movie_1",
-      "name": "Movie B",
-      "duration": 7380,
-      "file": "movie_1.mp4"
-    },
-    {
-      "id": "movie_2",
-      "name": "Movie C",
-      "duration": 5520,
-      "file": "movie_2.mp4"
+      "name": "Chuquiago",
+      "duration": 1200,
+      "file": "Chuquiago.mp4"
     }
   ],
    "playlist": [
     "movie_0",
-    "movie_1",
-    "movie_2"
+    "movie_1"    
   ]
 }
