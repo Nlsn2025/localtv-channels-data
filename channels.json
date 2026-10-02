@@ -24,7 +24,7 @@
     {
       "id": "redunoscz",
       "name": "RedUno. Scz1",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(2zUAosXMZtrV31oba4NGPNSuNqYVoCDW3vn5oFLI3jeh-J0o9qiase_rV5p1bI-8AeV7oVNzh5k0FVDQx8X6iZ5Yt_IUTtIJry8n3oOQiXgwaqhNdnkjGrwBckh6xykjHFQhUE3g3f-uSU81DyAdXAKoBRrb60XOLHPk4jrcqkKz4dQ3IMtM2ic0ltq3DSAK)/cloud/4/xb0oth2/live-aac-64.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(vUqZ7imFgqbju0tu8k46m0unO7rmVJiVJnwPSzuS6PEvPTLm6D9o3AOUR8bMVIUK-0qUoa8vWqXYmm6VyDqsZ2RgTJoGjRWbcrxe211LnC_M5Z6vWMM4QUGWm_9PmSOtnLBf2New-KhTpSh8ciAStCcuJviBugunaBSosXVq-hXBSuD5xSsu9LvhQEwNW2Bs)/cloud/4/xb0oth2/live-aac-64.m3u8",
       "urlbck": "https://www.dailymotion.com/player/metadata/video/xarufnm?embedder=https%3A%2F%2Fwww.reduno.com.bo%2F&geo=1&player-id=default&syndicationKey=278713&locale=en-US&dmV1st=fe964999-2e6d-4901-813a-f4d35e584606&dmTs=759597&is_native_app=0&dmViewId=1jjtuir8773545b71e4&parallelCalls=1",
       "url4": "https://cdndirector.dailymotion.com/cdn/live/video/xb0oth2.m3u8?sec=Rh2WZLk4MXiwdEdBFC-3ugysVszqGOihXNlzBvfc2Iogv9z1eEg-MF7_Oxy8K09KH9ESfjLlSovTKM6tGAMvW0V7YN47n0VJmfLs31c1yNibMKwJJBIc8hYNPSpa5RcW",
       "url3": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-SKHcQPOCsS7SFKLeI-3w1JIzyIOplKBEZ-mB3rXI9imAojpPVP5TeCblsCNQ5hv-AuaiavBQ-nGKqRqh1mnh5A92Wh9y2HSS5_Wq0ZAkrRQzNDumspGGnM0yV2mj--w)/cloud/3/xarufnm/d/live-380.m3u8",
@@ -286,7 +286,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vB1Qf-NTOoynExGcWZ_LEzmiJzsYKm7zc8aN0Mw_4gj__8b65ydzhO4TMMeWTAqLyJfTuaOqOoMTCYy8hXVXK21yH-RrYS2aO7yrs_m9XeVDiHgPqXFRdr3a8PwTbxB-)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(QvZQ0FudVZfr2LKfs5eqejeMTvKlel_g41-tEz6pXQBRD1rGiYUO_pP5GjYAQURSyUES6As_7qXW1opM17nJvRvjWnJ9aek3SWRsRQVwyqGASpmf5mzJD7G0UKZ-igHT)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -298,7 +298,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(E0MzXvxUHPwn-LqobB3bDAoQ2RoWgaQC65YpVJmNoeDwVt8dxoUblTSNd7HqwzyFI7swU6oRIDy0pHw3Ob2-KO_q7k5eq2o0c08W2c_WdsiNZ0apZqVqxYBtZOj8jQdr)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(2LWokm82WKOYXuPWYTLKULd7aagNWKUN6W8Orvf7giE2uf4Ja4AHJZf2-bN3KzNxR_NQ5ObWk3tmQKe_AlJdyI60QpHsYazkbeit2NwxBVhzusi0zNIUEw-VmeHtJB_J)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -476,14 +476,14 @@
     {
       "id": "radiofidestv",
       "name": "Radio Fides tv",
-      "url": "https://use15.playlist.ttvnw.net/v1/playlist/CrwHNJ6lGUus6OKQYPuwBPEa83maI90J9Rd5UsYK4dIfAfV_wYN9rw77W7lBJYcrQh2S-Wxq14uQ9rIh9AdgdxZINZDB0GQRsLTZ6SGUG8hdB4cgChTlr6oQPgsFd6djSWGhOx3ZuxT6hTeT9kh2sN3Jve09hIaRftLA3sZv8Rt6whT0Ni2aXKGUW5gkjVJc5vy2Bia95xJ6SxI3Em1ARFCHt4JVZAWRPeXrcG69ZdRBHxt3iKUklcBVct9VSZokY_aWkFB-BI8S_EBoxDI0PhKBEASmZL_Df1VZdmXlyipVBWYjnEsRZZEpF3GNM13Ea-VPTFmG-Guily8FVyZXlCap5MDyRN0pHbL5s5alJR2TnyhJxP0qyCkfJOF8xM98sgyz8JXT9gds1Q5RfpIHx_WTs8j3LFfX0rdQFkPeG7BJ7rNBRxiFHEUfbVpEgANaVzfZS20FEyfWZb0AqI2QV6LSYWw7Sd1I7MiCWLD69dQmLvmqRfPR46zRmqNWt5gKgtLBP3bHllDjH_YeEEpyH_Z5TdB0AK_CnnlVDWkhLv0OpafE3seDKmYWac1BL4L3PWiwFddlY92J0x6lKn8AWAIFA1KthN1JtVn0XQgKcWiPFtm7Yw8q77FGG_uiGZt9r9qU5xwbP3iKbRsU08hj4FK83pSf4mHhiCX8IJQgmYBjE5ytY9Oi60XnblKh6P1BNY9p3DkEdBgNtfKUsj4ezx-TGJzPZo4bzCL8Q1fuPQbo794RbYUogkOWW35-xgVahqAvlZEbpvnss3Bowwle0dpdqTdZkLXozxSCdBuCz7K6fnvV4GKrn3V7E8vSyhAUZomidPN2_KBbgYMeZ3AovsGgjhskuQUt4Wgk9XkHxlYE542fUbJ3SkNr5WJBO5PvikYjrmGf4D4tOcIKd_m3D5L27fkJszo_MSPr7sIrsi_q2vpb9_w7tPLNUnqsDzcWb-ymsS10Y3ssEICGx08etOTOxZLVaT3WZQQUnunW0ZpMi0u4dejrifFsJa3eQ6lbx6Qgo-DPbrkKnlPlB7CbAzBuGShF14bfT7G6UgXfthdc7-KxEIW_YH0P6qMg0gJEzqv3pUiH9dX_TnyJfGaVNLvmAyZBdJnDVh6NsacQeCio8wPtIm_7Jbi5dDNKfR2C-U6YAaNbtSVLU_FXZ8i3O1FGCuVmkrTbmp1l10c6JQTirk8foKih0imD9LDdrXP6gNP1lrjwwI0FWYkXcC9Gd9itbBG3AEhXXgDEVKF8Hj7iNs7I1fYqYjonMTnVLwAaDHx33dydP5F2IJTdEiABKgl1cy1lYXN0LTIwmxA.m3u8",
+      "url": "https://use21.playlist.ttvnw.net/v1/playlist/CrsHtoH2wxkTHRRvfb8yaxCsBty7H2NUlCuImXgubcGTg1RYipsHkp6cbpT2Bxxts-ZMGm8XXYDW0gBODzrj4d9f-1whaCSv5Z7uIsVcviDageVkP_gzqbAwjbwCW6Tz3r4rW-GQwoMyJFgKak6f9VMddrIPYYSzlNg5ngBkzCKg_gWz3SUiZgBhLVFK_JuKC1_femwjRbSXtTCdQCyRben6HA0TBKadvqHJfiruMIAF1CV8d8uybxrjpVVLysK_owm7pOafHrg9e0G04m9mjFWE5b0lXXKJsHN598oWVWFfbMM6g0Ja5XQS1UlCppKa9DsG0ZaqPAneZH3b9W2FWTOwuTJhGdrKeHCH7bwrE6bJPp2-XiOwxjsSNwwGYwVc96a5SXDTJvx7ItdTA9e264EP0WTp8hOT868PIHMrOGLXnTJUELa2g4-mf20itXi7MK87-M-9IkkdcECOE1tnGhUh7ep1k4A5UUXx7AWEN_seJlGuLcuZT6AzAZNSG7fK5pg9KkZkFOOlLEOGD93ojFAYQmqZEJtOew2IvKZCZbByLpuQHwKDxqEjiASds3U-AWhvv6uN_Mt8bDPIVS2dmXeCYztJSG_eXX14lXqaXHrnzor11aORpkNl235B0Hm86hvyv_HF8E4HEf0zH417y30S3FaPhxGSmqsDZrYpAekSBaczBh54PVDZI0LaiM94maC_rlSbBqG1GHgFYlI4h2l0WAVndcdRoXRx6l2eNh_r_2Lan4NhuquG0fns_7nyj_Aikgixcv2_6o1wwJHS8GoCD2o-YViaS75PwYanPRgjJOZtp-X6mjOVwtwP8DEr_kRswQ-xA4LyrzIiEpThi169rouS_FJc3BmoJM2L9rV1KX8CkaxVll254Yoko7IvMYFN6Y1uSWfAGm-vcjZI8QFqj2gQatF4m4NDj4pFwT8GCPHhOs33H1jgPUvYFa1ZlzvppThoC2pG13a-YkHYDQw9t_VNrtQGSbEZ_Zt1tdPOzu5-GrwVEODYuFsWUtang_HHFamMWEWfmeFd5Rm2Pamo9WyB8-9Udpa0DYzra2OR2wB3-zPIbRfOFWOei2D27lip7QmYAcaNeAz9ZVM5bV4sOQs3aAoS-FA6udq7vXUVL1Z7EwvM8tKsBcONtz3vjiNOTQVMo4wCYMRX6PobhxzRUn3cAalAJBBEcKb6ZyGSznFSFkcVu3fvF-SbdsPD2atyCLSbL_uvuHBQHDtYB_PPkjzNlYLO1wJcwi54OwX4Zg6uoP2zJJf4EW6lMxoMAPfLzObDxdA09eX4IAEqCXVzLWVhc3QtMjCbEA.m3u8",
       "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
       "is_live": true
     },
     {
       "id": "contactobolivia",
       "name": "Contacto Bolivia",
-      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTA5NTE5NjYsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.p9e0vzcwFtF5v5gx845PqZv1qtVihlvd5ktAQ9T637U",
+      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTA5Njc2MjYsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.4CMmBr5Ww6dES0i-1Xxl4miQd01l09B-lPP6EXbcXbg",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
