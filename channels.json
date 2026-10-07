@@ -526,7 +526,8 @@
       "id": "tvBolCinema",
       "name": "TvBol Cinema",
       "url": "https://hardware-marathon-strong-twisted.trycloudflare.com/hls/channel/channel.m3u8",
-      "is_live": true
+      "is_live": true,
+      "enabled": false
     }
   ]
 }
