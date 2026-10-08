@@ -342,6 +342,13 @@
       "is_live": true
     },
     {
+      "id": "redsigloxxi",
+      "name": "Red Siglo XXI",
+      "url": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_sigloxxi.png",
+      "is_live": true
+    },
+    {
       "id": "amitel",
       "name": "Amiltel tv 5.2",
       "url": "https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8",
@@ -427,13 +434,6 @@
       "name": "TELE 6",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_teleseis.png",
-      "is_live": true
-    },
-    {
-      "id": "redsigloxxi",
-      "name": "Red Siglo XXI",
-      "url": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
-      "icon": "https://canales.asplurtv.com/logo_sigloxxi.png",
       "is_live": true
     },
     {
