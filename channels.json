@@ -472,13 +472,7 @@
       "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
       "is_live": true
     },
-    {
-      "id": "latinatv",
-      "name": "Latina TV",
-      "icon": "https://canales.asplurtv.com/logo_latina.png",
-      "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
-      "is_live": true
-    },
+   
     {
       "id": "ceacomtv",
       "name": "CEACOM TV",
@@ -506,6 +500,13 @@
       "url": "https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_telefe.png",
       "is_live": true
+    },
+     {
+      "id": "latinatv",
+      "name": "Latina TV",
+      "icon": "https://canales.asplurtv.com/logo_latina.png",
+      "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
+      "is_live": false
     },
     {
       "id": "canal15teleor",
