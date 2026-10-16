@@ -506,7 +506,8 @@
       "name": "Latina TV",
       "icon": "https://canales.asplurtv.com/logo_latina.png",
       "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
-      "is_live": false
+      "is_live": false,
+      "enabled": false
     },
     {
       "id": "canal15teleor",
