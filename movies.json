@@ -1,4 +1,8 @@
-{
+{ "schedule": {
+    "startAt": "21:00",
+    "timeZone": "GMT-4",
+    "message": "La transmision empezara en"
+  },
   "movies": [
     {
       "id": "movie_0",
@@ -29,11 +33,23 @@
       "name": "El dia que murió el silencio",
       "duration": 1200,
       "file": "El_dia_que_murio_el_silencio.mp4"
-    }
+    },
+     {
+      "id": "movie_5",
+      "name": "Ajayu",
+      "duration": 26,
+      "file": "Ajayu_1996.mp4"
+    },
+     {
+      "id": "movie_6",
+      "name": "Los Andes no creen en Dios",
+      "duration": 105,
+      "file": "Los_Andes_no_creen_en_Dios.mp4"
+    }    
   ],
    "playlist": [
-    "movie_2",
-    "movie_1",
-     "movie_3"
+    "movie_5",
+    "movie_6",
+     "movie_5"
   ]
 }
