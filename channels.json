@@ -326,7 +326,8 @@
     {
       "id": "pat",
       "name": "PAT",
-      "url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
+      "url": "https://www.redpat.tv:8000/play/12/index.m3u8",      
+      "url2": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
       "icon": "https://canales.asplurtv.com/logo_pat.png",
       "is_live": true,
       "type": "mpd"
