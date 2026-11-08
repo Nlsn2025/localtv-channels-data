@@ -187,6 +187,7 @@
       "url": "https://seo.tv.bo/live.php?ch=pelis_hd",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
       "is_live": true,
+      "enabled": false,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       },
@@ -203,6 +204,7 @@
       "url": "https://seo.tv.bo/live.php?ch=seotv_SD",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
       "is_live": true,
+      "enabled": false,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       },
@@ -219,6 +221,7 @@
       "url": "https://seo.tv.bo/live.php?ch=novelas_sd",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
       "is_live": true,
+      "enabled": false,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       },
@@ -235,6 +238,7 @@
       "url": "https://seo.tv.bo/live.php?ch=kids_sd",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
       "is_live": true,
+      "enabled": false,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       },
@@ -417,6 +421,7 @@
       "url": "https://seo.tv.bo/live.php?ch=abyayala_sd",
       "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
       "is_live": true,
+      "enabled": false,
       "additionalHeaders": {
         "Referer": "https://seo.tv.bo"
       }
