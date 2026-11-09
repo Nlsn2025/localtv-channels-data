@@ -292,7 +292,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(R5djvnQPAtCM35BhVjImmhRFTWLSIkP0EMGSgn1MBGaWEwVdMmWrdaN8Z8vytfWD4X_PzdvNzaqxNjDNVAEM2cCwlGqx8kYUXLVfHQbYbgwPoOUHIBsa7nbq6EQ6WhAk)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(J8y-7_L-DZZaESxmZ1FelxK8jNAU3SyDOPOz0WA6XmA3KWXAoq7f6qe4C06SJdSXxLPP9i7IE0a-6NfX9bzxvr61c40tkmqtj1Jd6V8SC_aoRd0m-BkX_mGg8k0aAIAU)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -304,7 +304,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(QFn6fy4OcpmLxKYnNDvZwMa4tkFDzNTdQJKX0mrpKZOPUZ-SP7TsfdN6sYUG1X4iLE6liBWUqPbS7XFUbd2wczB_AV4iVN-n69793rZzGMNCLUsxtAHkFjuOdW7N0WEJ)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(NWT8xACqBDIpeInVPLljYB911rQuXf5v9l3XoP9Sx83BmLgrLAoBX5tmOIxlWJBrO4Y80Gl-UNBZAlwXebGY3JTwcoUZMvPX64WMtHHNQ4MuIsPqPVoPVd6sn9W6jwpx)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -339,14 +339,14 @@
     {
       "id": "radiofidestv",
       "name": "Radio Fides tv",
-      "url": "https://usher.ttvnw.net/api/v2/channel/hls/radiofidesbolivia.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMDRiYzJjZjktY2ZjZi00ZTMzLTk0YjctODE4MGUzYTNhOTNmIiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3d3dy50d2l0Y2gudHYvcmFkaW9maWRlc2JvbGl2aWEifQ%3D%3D&allow_source=true&browser_family=chrome&browser_version=149.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&lang=en&os_name=Linux&os_version=undefined&p=6856812&platform=web&play_session_id=c80263e46c524525b87691de9b8feaf9&player_backend=mediaplayer&player_version=1.58.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=ecaa73054f220cb6d4aef3743016371d13f0d417&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22radiofidesbolivia%22%2C%22channel_id%22%3A1110475038%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2249e75e2c06794cc6b90f257fad9c4102%22%2C%22expires%22%3A1794194275%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2220.127.247.146%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1",
+      "url": "https://usw24.playlist.ttvnw.net/v1/playlist/CtcHdJqyK2SMbfexAtk7IoaKJmIO2zq1G7XdZm2Z2JooCC08n9OvG8VFHxEO_PbaBCWNXZnyca5vYEX6v6MrJ54AzhjsX8j-lDtwfVPlOMry2dDhDeaaACNmdnhBZv3B6WroJPzx3hX3WECL469fIP2gaooQCKt_vbdZ6PN0ONTwYHqUpCDvk6WkgA_Rupdk1tMke2oF9_0IHzONE49DzN-luhb_uvx52XSQu8_-1RIQUxEiB3NU_VndUneE443bRXX6JkFiuzWUaFRzEs_IyYN61ny04ZOw5uJhsOgxkOPPmFRqgldn7PwrE1FWaCz4jxbKUaG_xbMuFot8GzhQzkiXPKKpKPGyZVl7eyZGtnSmXShVgSkzW04jX4rPXSM02Be7TwATFql4e0rEHLaNixwrlhMIl1jZHBR-skiUYykluHpsd6vU5V0u5Di1Hc4gp-5uLqzAS1tmj9a4hq6m8L0ZPqfqZrg6GZwBrYfwbmZGQYkFiykf9Weg9S_xeGdNqLIs7SgmtgRoSWiNfrkHfFluaD2dGpwfMOISnylrPLADusu3Ov2z9YRUUCZ4PR80tCcWXRq642yNKbNifiDjE27dgWribni-hhkNDf7Z-A3XfkpBuCtpje_GQROgfnS9WsaaFkCXRMgfpx8hs5nUZFmnJMeDEQJRzmIVsP0WaErBKmB3e-fpBYG0eokeAb1gnJzIzAHsNI1TChtcdQHRsLD1g1I9bZ99hXnBKAppkh7L6WlxQHnxncWpLCIG_lPiYr_feasiVB4asfo390zfmkLbF1XvFDDWAkeLJII4ck0WyRsFitZ_-ChiUXR8kP-svcvKxHJaqN9lIeP2X5yeEba7tJ-xDNxxAbM42EkoDeEmvBK1xbHxb6vXfQSBCz8nyedfKLotGpEbHIHZ2LQrHOmU9kLc8jF0rkFdTg51HNo0C25Cu-hFZxrLQPlxePbM3pPIuTdwE93qFq6nU1HVrVGgWFlWHk3VI2bMuv9v3A6e__w7MdC_D59VSVqDKWe8YxmXLmBEEU0OaJNR2tNtWbRj1EvlgnK_oie-KF7v2K1qJV8kgDEIiCQkiXchmAbnDTv-_0a2z_N2FwSX5kUpeGRSh2EkVbj7iYOemr63mPUcwIRQT3FUoI6rjJ86tZdC_O8Qa0dvb0DP2D7xQn37-HsMeEEuDGFJeA_tbWBV9f7ny-DhqWnonDPDi-kUP5DCXLgbHRhB3eTt_LA9lg5jQHJcuwrRu_r0nXyZdQ82uwuaMl5vkSoMc-XceLqqyr63mDkgB6eYxdVx7EqMy_jzGDvv-nQvqCavIFcaDHcCGHpWRA9zLNH0XyABKgl1cy13ZXN0LTIwwhA.m3u8",
       "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
       "is_live": true
     },
     {
       "id": "contactobolivia",
       "name": "Contacto Bolivia",
-      "url": "https://cf.streann.tech/loadbalancer/services/web-players/channels-reseller-secure/5b8f018e2cdc0352b8e21aee/c402111a-0fe6-487a-ae26-f7e9c537610c/9iuq9iasfh18bhbfa4sdpqtesj/5b8ed7702cdc0352b8e21acb/playlist.m3u8?date=1794193057864&arg1=d3d3LmNvbnRhY3RvYm9saXZpYS5jb20uYm8=&device-type=web&device-name=web&device-os=web&device-id=4QE4c3UbTW1tiEgWPS5FyB7e77FqJfkE02INbZmfumEuXvx2XF&country_code=US&doNotUseRedirect=true",
+      "url": "https://cf.streann.tech/loadbalancer/services/web-players/channels-reseller-secure/5b8f018e2cdc0352b8e21aee/c402111a-0fe6-487a-ae26-f7e9c537610c/mv7v4v1svicidb6k9166c94kp3/5b8ed7702cdc0352b8e21acb/playlist.m3u8?date=1794225904954&arg1=d3d3LmNvbnRhY3RvYm9saXZpYS5jb20uYm8=&device-type=web&device-name=web&device-os=web&device-id=Ovghni9CQHEet8GFGs8U8Xi4UWQ4xypPxG2uUv2nUtN1RbZbg5&country_code=US&doNotUseRedirect=true",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
