@@ -12,7 +12,7 @@
     "additionalHeaders": {
         "Referer": "https://ahayou.bo/"
       },
-    "visible": true
+    "visible": false
   },
   "channels": [
     {
