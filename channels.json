@@ -9,7 +9,7 @@
     "streamUrl": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/2f20e338-fb67-4aed-ae32-1eeb17d29029/playlist.m3u8",
     "tvGuideUrl": "https://raw.githubusercontent.com/Nlsn2025/localtv-channels-data/refs/heads/main/tvguide.xml",
     "tvGuideChannelId": "tvbol-cinema",
-    "liveType": "ON DEMAND",    
+    "liveType": "EN VIVO",    
     "additionalHeaders": {
         "Referer": "https://ahayou.bo/"
       },
