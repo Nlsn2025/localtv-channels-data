@@ -406,6 +406,14 @@
         "bufferForPlaybackAfterRebufferMs": 50000
       }
     },
+     {
+      "id": "teleestrella",
+      "name": "Tele Estrella HD",
+      "url2": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
+      "url": "https://edge.enhdtv.com/teleestrella/tracks-v1a1/mono.m3u8",
+      "icon": "https://canales.asplurtv.com/logo_teleestrella.png",
+      "is_live": true
+    },
     {
       "id": "seotv.musica",
       "name": "SeoTv.Musica",
@@ -496,14 +504,6 @@
       "name": "CEACOM TV",
       "icon": "https://canales.asplurtv.com/logo_ceacom.png",
       "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8",
-      "is_live": true
-    },
-    {
-      "id": "teleestrella",
-      "name": "Tele Estrella HD",
-      "url2": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
-      "url": "https://edge.enhdtv.com/teleestrella/tracks-v1a1/mono.m3u8",
-      "icon": "https://canales.asplurtv.com/logo_teleestrella.png",
       "is_live": true
     },
     {
