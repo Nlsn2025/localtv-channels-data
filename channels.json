@@ -359,7 +359,8 @@
     {
       "id": "redsigloxxi",
       "name": "Red Siglo XXI",
-      "url": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
+      "url2": "https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8",
+      "url": "https://edge.enhdtv.com/sigloxxi/tracks-v1a1/mono.m3u8",
       "icon": "https://canales.asplurtv.com/logo_sigloxxi.png",
       "is_live": true
     },
@@ -380,7 +381,8 @@
     {
       "id": "vostv",
       "name": "VosTv",
-      "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1252726414.m3u8",
+      "url2": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1252726414.m3u8",
+      "url": "https://edge.enhdtv.com/vostv/tracks-v1a1/mono.m3u8",
       "icon": "https://canales.asplurtv.com/logo_vostv.png",
       "is_live": true
     },
@@ -478,7 +480,8 @@
       "id": "aynitv",
       "name": "AYNI TV",
       "icon": "https://canales.asplurtv.com/logo_aynitv.png",
-      "url": "https://59d39900ebfb8.streamlock.net:443/Aynitv/Aynitv/playlist.m3u8",
+      "url2": "https://59d39900ebfb8.streamlock.net:443/Aynitv/Aynitv/playlist.m3u8",
+      "url": "https://edge.enhdtv.com/aynitv/tracks-v1a1/mono.m3u8",
       "is_live": true
     },
     {
@@ -498,7 +501,8 @@
     {
       "id": "teleestrella",
       "name": "Tele Estrella HD",
-      "url": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
+      "url2": "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
+      "url": "https://edge.enhdtv.com/teleestrella/tracks-v1a1/mono.m3u8",
       "icon": "https://canales.asplurtv.com/logo_teleestrella.png",
       "is_live": true
     },
