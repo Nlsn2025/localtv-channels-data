@@ -529,6 +529,13 @@
       "is_live": true
     },
     {
+      "id": "ptv",
+      "name": "PTV HD",
+      "url": "https://tv3.bitstreaming.net/live/ptv-bolivia.m3u8?hls_ctx=k73613bo",
+      "icon": "https://canales.asplurtv.com/logo_ptv.png",
+      "is_live": true
+    },
+    {
       "id": "latinatv",
       "name": "Latina TV",
       "icon": "https://canales.asplurtv.com/logo_latina.png",
