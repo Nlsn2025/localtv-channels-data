@@ -521,6 +521,21 @@
       "is_live": true
     },
     {
+      "id": "tvoff",
+      "name": "Tv Off",
+      "url": "https://edge.enhdtv.com/tvoff/index.mpd",
+      "icon": "https://canales.asplurtv.com/logo_tvoff.png",
+      "is_live": true
+    },    
+    {
+      "id": "ant",
+      "name": "ANT Television",
+      "url2": "http://181.188.144.141/tmp_hls/ant_tv/index.m3u8",
+      "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/1b51011e-63d4-4995-a18e-a4df270973e3/playlist.m3u8",
+      "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
+      "is_live": false
+    },    
+    {
       "id": "latinatv",
       "name": "Latina TV",
       "icon": "https://canales.asplurtv.com/logo_latina.png",
@@ -533,15 +548,6 @@
       "name": "Canal15 Teleor",
       "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
       "icon": "https://i.imgur.com/w8CB2On.jpeg",
-      "is_live": false,
-      "enabled": false
-    },
-    {
-      "id": "ant",
-      "name": "ANT Television",
-      "url": "http://181.188.144.141/tmp_hls/ant_tv/index.m3u8",
-      "url2": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/1b51011e-63d4-4995-a18e-a4df270973e3/playlist.m3u8",
-      "icon": "https://antbolivia.com.bo/wp-content/uploads/2020/09/cropped-logo-ANT-TARIJA-LOW-1.png",
       "is_live": false,
       "enabled": false
     }
