@@ -525,6 +525,7 @@
       "name": "Tv Off",
       "url": "https://edge.enhdtv.com/tvoff/index.mpd",
       "icon": "https://canales.asplurtv.com/logo_tvoff.png",
+      "type": "mpd",
       "is_live": true
     },
     {
