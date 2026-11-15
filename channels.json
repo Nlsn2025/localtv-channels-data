@@ -297,7 +297,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(RLOTTrIOgGHFVroEgKy7OELWXoLAMskh6ehpf9ODL49H5eRYJVN2eT0QWHz5Z4rjYqiPK6SIF1IOi5ycaOTug7ZbbXyTPX5YHGaDyRsKyiy9saDVLUTHy9NppJAVYSzx)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(j2vuDOrrs-axQRbsKt1EzmVGu4XzNj_U9nZrd9f81VvMtJNZmlOkPp8Eepv-RFYord-9akQhvtuHmLRRkxpC1oEQI0WjWgepIYiqeR1g4lRBbpC_JriCPZOqGsnFIvP6)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -309,7 +309,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(nZjvKpP9tr0v48XAXHLyG3eayO7SdnSX-5LwCnrTwLNApdTYzXh4RO_HfQaKn3JdhMzTBCA6zz_2VTWQQwIN05fkVJtdQ0cifyqPxMTzX0FH7ON4IcWB-5w6R5k3WzfM)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(iQvcOqWXLtVjSazcG0ORdCNOvYctdX3BUFZT4fAVLU6Iu3DN0Z_Ex418bEbB9RoSDjfUSIw95cEtxyALLKQo0I0uV5IBc3EZXMOMvRAPNZEeQNNRn9jvzfjKW_mp1alj)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -352,7 +352,7 @@
     {
       "id": "contactobolivia",
       "name": "Contacto Bolivia",
-      "url": "https://cf.streann.tech/loadbalancer/services/web-players/channels-reseller-secure/5b8f018e2cdc0352b8e21aee/c402111a-0fe6-487a-ae26-f7e9c537610c/9lgfdnugkcrrhl037flcquh92k/5b8ed7702cdc0352b8e21acb/playlist.m3u8?date=1794754833588&arg1=d3d3LmNvbnRhY3RvYm9saXZpYS5jb20uYm8=&device-type=web&device-name=web&device-os=web&device-id=23SqkWpiC3gq9o2dNPDx2tcSgMez6ICwutTSrkBzKfxvZdAUMG&country_code=US&doNotUseRedirect=true",
+      "url": "https://cf.streann.tech/loadbalancer/services/web-players/channels-reseller-secure/5b8f018e2cdc0352b8e21aee/c402111a-0fe6-487a-ae26-f7e9c537610c/rqri7e9k2vp1sff446b46h3t5l/5b8ed7702cdc0352b8e21acb/playlist.m3u8?date=1794777628060&arg1=d3d3LmNvbnRhY3RvYm9saXZpYS5jb20uYm8=&device-type=web&device-name=web&device-os=web&device-id=o95FuIpzE7nZIN0kRO7ac5aD6UXTCwgDV5GlxO87WrR4opyI78&country_code=US&doNotUseRedirect=true",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
