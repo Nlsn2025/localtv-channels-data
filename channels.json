@@ -16,6 +16,8 @@
     "visible": false
   },
   "tvbolcinema": {
+    "id": "tvbol-cinema",
+    "name": "TVBol Cinema",
     "movies": [
       {
         "name": "Hospital Obrero",
@@ -29,7 +31,8 @@
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/2f20e338-fb67-4aed-ae32-1eeb17d29029/playlist.m3u8",
         "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png"
       },
-    ]
+    ],
+    "visible": false
   },
   "channels": [
     {
