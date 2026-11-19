@@ -26,31 +26,31 @@
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/2f20e338-fb67-4aed-ae32-1eeb17d29029/playlist.m3u8",
         "icon": "https://ahayou.bo/uploads/movies/20260616210216image_1080x720_movie_152.png"
       },
-       {
+      {
         "name": "Viva la Patria - Capítulo uno",
         "description": "Charcas se agita por la prisión del rey español. Los patriotas ven una oportunidad para alcanzar la independencia. Los hermanos Zudañez encabezan la revolución. Tras años de lucha, Ayacucho es la batalla definitiva y la patria se impone contra todo. El Mariscal Sucre instala una asamblea que decide fundar una nueva nacion: Bolivia.",
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/5648af34-3271-40fa-93b3-04c9a7964278/playlist.m3u8",
         "icon": "https://ahayou.bo/images/20261110204222_original__movie_397.jpeg"
-      },      
-       {
+      },
+      {
         "name": "Mestizos - Capitulo dos",
         "description": "Andrés de Santa Curz y Manuel Isidoro Belzú, dos presidentes Mestizos, que fueron fundamentales en la construcción temprana de Bolivia, sus aportes legislativos y decisiones políticas fueron de vital importancia para lograr el reconocimiento de un pueblo y conseguir el desarrollo de un país más justo.",
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/e529d182-00d5-424e-9b99-674919ecf4c3/playlist.m3u8",
         "icon": "https://ahayou.bo/images/20261110204555_original__movie_321.jpg"
-      },      
-       {
+      },
+      {
         "name": "Warisata - Capitulo tres",
         "description": "Una escuela, un pueblo, una revolución nacida del conocimiento. Dirigida por Paolo Agazzi, llega el tercer capítulo de Historias de Libertad. Una historia que demuestra  que la educación también puede cambiar el destino de una nación.",
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/1f10bcf5-c04d-46bc-895b-8a169b55586b/playlist.m3u8",
         "icon": "https://ahayou.bo/images/20261110204827_original__movie_163.jpg"
-      },      
-       {
+      },
+      {
         "name": "Huelga - Capitulo cuatro",
         "description": "El silencio que desafió a una dictadura de 1970. HUELGA, el nuevo capítulo de Historias de Libertad, la voz de un país nace del hambre, del coraje y de mujeres que decidieron no rendirse. Un relato donde cada gesto pesa, cada mirada duele y cada decisión tiene la fuerza de cambiar un anación.",
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/644d9f89-847c-4204-9271-2e96d25d4fdc/playlist.m3u8",
         "icon": "https://ahayou.bo/images/20261110205037_original__movie_34.jpg"
       },
-       {
+      {
         "name": "Caminos de Lucha  - Capitulo cinco",
         "description": "Cada imagen guarda un paso, una decisión, una historia por contar. Así se construye Caminos de lucha, el capítulo final que revive la gran caminata de los indígenas de la amazonía boliviana en loa años 90.",
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/1b51011e-63d4-4995-a18e-a4df270973e3/playlist.m3u8",
@@ -341,7 +341,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(73i1geM5I6l4nwofMt4ABVk1AuOinAlZncju_j-S5rEI0eOdggMqZQkq-YUs6MlY_B1FyJDYbVSK-CS7VarKDsCjej-U28taftZ0uKLnPwvgiEZ5Tl8fx45SYndO1zYY)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hM_EIEoKEyjPtblEZmXj4EhYe1lcHXuIIOiwbKdB90QjErVwkDm0CPBUM9xgLuKSHgB4caa6NovWBYobvbQzBmxE1m_vGdCROuPW9SNkZFu2yojPyzUPn1pqP7WqBpIm)/cloud/3/x9ny70y/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -353,7 +353,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(OQHRXihWbiYQk03KH3L9FGBJU9_kb8aVHzP02Tg1SGevyxqL15IhRhHFwigb_jhp8xHccP2k-a9e5uJf3qgEn25c1K84CFWKx4msGLFT5IbeG4708-dLRaqUqgIMEqIx)/cloud/3/x9nzqpo/d/live-380.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(q7iw-QSSiHlnQ8F78YF2Mcwgrdhw2J9cjwtArSzPzkX6DLZo9sHlTmDjYP4YguUwgxNtVj2HC4fI45HhMJcAr5ylAx7ov6lwgYqcvdNRZ_dXxsJHbJh_c8rihFeg5010)/cloud/3/x9nzqpo/d/live-380.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -389,14 +389,14 @@
     {
       "id": "radiofidestv",
       "name": "Radio Fides tv",
-      "url": "https://use21.playlist.ttvnw.net/v1/playlist/CtcHv6Jdr-uLqwBmOWNaMWga2wUB8ykKauIwFBVx5VC8b-3kWCrWxrgtLyaDQfchbLuN_y9NFPRaUptM4w847kwdIsqHcKik6Wm9xj_DHGEe8Lhu3ORstvnlA_9B_lg9WiUt0QvEWF3lF9hwTpVkBbD1YfM_P0SLTv2WZDx9QIKHrbhZqWmrU1EFNYToSwaXRtKTL_bhqzVrn0GqmQgS8-hlSx9fTvQdT6thkp7X5zCRs8LGP92REkrXYYfqTEsbkPxPZITRbmy8sVzXBKmitS-mZbiDCWWkT3OiZ6Gn7aAlUrVk8Q91DALjcM5CqkeCvPqBBsnBzTYxMXz6jghFGmAuyaTF9xb-t-5MUExTOIbkUjqdTMl1JEwFG3uHAfEQAZ7ZR-IZeezvVZj4gij_rJNKJs5Sbs9IcOmlv1T5Q5Eo8StJqIT1VWOpaB12JpdCywZeyxe0RcMSO66YM6yyxF6QfaEl5RfIpzuYOtc4oCn84XkpsZ4FoKDGxy6uRF7l3o1qz0RRWSrSuE6Igiwix15VylBBFr-1i2LkSc-dlO6R7H8xuzkyRE6aEsNK-DooykKWsAAnR4chL8zrK_NTYTsZ0uJG4bUVlkSeOT6x-WCwS1gfM1MjpXZ1-yY421i-wU3-a0TlmFR310vB9pgCsLOl4YzqFW7y1eGmHfPuE_sj1OTBQ4EQZowas6jdAdtc5vrJTjPMr1F4rZoAOqjVrI-PPPcuj3qBzK6zgUr-uPD4qdMuo4wMnp-02FSbWSSXaBpzdu5wPJq4SAk2OhkmW71Lofe0GHw_lVMO7LPjqeCyOSNW5MuLAIRAJcWpqhPqK25SUa6sSBbEiDb-wna3L51za-4XvwBh03T7jLyfejj5yj-yPmhWTzgFUhlNSe2eXA6Md4wKiLzB0AqhZEqUWVAfy6guRuR8a_VLlcHs3mUJBB-NcYNyMKZIrxhwhlZ7NnlZE0JrYrFtpj33JbZVujlJsmV9kXjPr4nFkcwuVUYCq2h_5_QjLt8dBamQxg0sZRXcXo8L-xx5DgLzh9Lf6xaN68Gn9vME8NcUCxlcE0cRdoe0ejHBTN3PTDaYOqJRlYcmQuwWfrPF-26e6Z2SPVNiOEtxGXlpyIIhDxBihQv39_IvWzPrfSYAJKsbVS5UBWgZBFu54Oj2K3YecqZjWuB4KvAYPZUJz14D47i-W0506mY-zMW2osJZmqnuISp9We8LVsGGOFfQfcddK_MY1jn1iOurnI9m9jGyfq3p_I9NF3GHsG9kemoUeNlQE2LNmDlZeUXIPIHRDzkqhf1YRzAzWcHDiGd8NeYaDOdoDWp_9EnFoo3J5yABKgl1cy1lYXN0LTIwyxA.m3u8",
+      "url": "https://use23.playlist.ttvnw.net/v1/playlist/CtYHHcgWqGIoKvafWD0Bz96DtRcmziQdYf0QSnY8OjNg7d4lhI1qmBzll9z-g5GsMDMpoG8iLuXIe4K4PekYKwKmTkg2lZLAvScDFQUy1ZgXiii7VCSWxI55jdUYMJBVtLmDnhBAjb-LMjMc3JJ9E4DNzAlhJDeqdvJi4aauwJYkolYTc04BCH0Hv08sHdeEZJ2CtQ6ScFkK0m7N7_tQGZheYkEzm0piF13BBGI4qw6StQm77a_-_w1Z8x2GZqGuK_RMZpZrc8I1GiEB_I44BLGwXGaiAj8xQZ_wKpRIDx3-nM70BlZCZsEohqeJavSXRP9QrQlQUxP8z92yEzMEJBeIhCpJv5OxC2ppf1VUVxgimQsurkt7cspYVpZcxEyCiJsdZLhlFq3WYZwAcCjjKjyJ-s8HhxIDFKxVNxJMW5aauU3w6G-2GUTSiCuMvkJIvqs-iW-c3segKSSccjumGECzZaaUXT7jKTaB57PZs7IbNBL_WRvl6Cycj1zvqa__V2lvSOa8rO0N7MficM1jSTv8J4FymiVPotrmTBgJg1q48BtlgrIO1Zl4e8T5FD15N_euGS_W6Sp1n6hKwVXYKv2_MawUKyAkkB6Zdl6EEXIEczKs34PE3QZtTlUdPAa7lIXlYBoKORxaTgYQ5J7AB5lZ1LPoWGWSaKtVjXXJ96z4jX8hnMX-TVHA9wzBoqDixsAqSeqvnsfwi4i46jFdEyEdfNM155N_6Qsa6mELtYRToNEbop3pJJGNeim3mOI2-wvBBnQqiTvuqV0d2naimjT82zCTlsmk3n1rHZbt3k9CZtcbyMkM7d3FbtuoOhjN1Y4H36fy5ojJfx9vo3JYYRQjXKYqOsRaLyZoRypuoNpOL0RuORtArrynzhAjOhI0sXEOP40iqbxw_ZQf7Vp-wJ-lPvcAsHcyX8GjakFjHElw6d7BI8VeYmop8QXisOIY497y0da_sEB2itrVM2DTED6BTyqY2V0IaS3fY6ZHCQmFx1fIBocFr6NIkAqP7uBg_NUwMnWW3zCJz1wcvMHUrtO68xzO4icC8IIql0Hq18GtssHhEOltep1DYrtILxC7_nhRfc7QW7g4LtJAhwwoVYrcy4rLia1DqnvkugEpbjqjGP7ql5wFqDMspRweiNTKMDSOCwBQ-pU3AYRaVNZnalbics0AWSnu6iKZGD1B6inNEQkqw7I64F8l9_k7Zl6FHmvt0Vs1YNR8_Y_CAVzUJ-8FSrQxoscKHvKZvS1Lbi2PSgkCO3ml6Om4pzubnirEf2PGcXasvVht1V_oqo5FDgvXalogmwu2MBoMf3oH8Vvpw9ghTpD9IAEqCXVzLWVhc3QtMjDMEA.m3u8",
       "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
       "is_live": true
     },
     {
       "id": "contactobolivia",
       "name": "Contacto Bolivia",
-      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTUxMDEzMTQsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.32Ec5oULBsOIUR-I81q3_J1BzYjx_7IRu5Y8piJH-2s",
+      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTUxMzI5MDEsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.CmJPrMq32LweSA-7tzenh5kOPMjwRUniJkLHedHNEnw",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
