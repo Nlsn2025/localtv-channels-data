@@ -24,15 +24,39 @@
         "name": "Hospital Obrero",
         "description": "This movie is an example description blblblblblasd",
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/2f20e338-fb67-4aed-ae32-1eeb17d29029/playlist.m3u8",
-        "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png"
+        "icon": "https://ahayou.bo/uploads/movies/20260616210216image_1080x720_movie_152.png"
       },
        {
-        "name": "Hospital Obrero 2",
-        "description": "This movie is an example description blblblblblasd",
-        "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/2f20e338-fb67-4aed-ae32-1eeb17d29029/playlist.m3u8",
-        "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png"
+        "name": "Viva la Patria 1er capitulo",
+        "description": "Charcas se agita por la prisión del rey español. Los patriotas ven una oportunidad para alcanzar la independencia. Los hermanos Zudañez encabezan la revolución. Tras años de lucha, Ayacucho es la batalla definitiva y la patria se impone contra todo. El Mariscal Sucre instala una asamblea que decide fundar una nueva nacion: Bolivia.",
+        "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/5648af34-3271-40fa-93b3-04c9a7964278/playlist.m3u8",
+        "icon": "https://ahayou.bo/images/20261110204222_original__movie_397.jpeg"
+      },      
+       {
+        "name": "Mestizos - Capitulo dos",
+        "description": "Andrés de Santa Curz y Manuel Isidoro Belzú, dos presidentes Mestizos, que fueron fundamentales en la construcción temprana de Bolivia, sus aportes legislativos y decisiones políticas fueron de vital importancia para lograr el reconocimiento de un pueblo y conseguir el desarrollo de un país más justo.",
+        "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/e529d182-00d5-424e-9b99-674919ecf4c3/playlist.m3u8",
+        "icon": "https://ahayou.bo/images/20261110204555_original__movie_321.jpg"
+      },      
+       {
+        "name": "Warisata - Capitulo tres",
+        "description": "Una escuela, un pueblo, una revolución nacida del conocimiento. Dirigida por Paolo Agazzi, llega el tercer capítulo de Historias de Libertad. Una historia que demuestra  que la educación también puede cambiar el destino de una nación.",
+        "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/1f10bcf5-c04d-46bc-895b-8a169b55586b/playlist.m3u8",
+        "icon": "https://ahayou.bo/images/20261110204827_original__movie_163.jpg"
+      },      
+       {
+        "name": "Huelga - Capitulo cuatro",
+        "description": "El silencio que desafió a una dictadura de 1970. HUELGA, el nuevo capítulo de Historias de Libertad, la voz de un país nace del hambre, del coraje y de mujeres que decidieron no rendirse. Un relato donde cada gesto pesa, cada mirada duele y cada decisión tiene la fuerza de cambiar un anación.",
+        "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/644d9f89-847c-4204-9271-2e96d25d4fdc/playlist.m3u8",
+        "icon": "https://ahayou.bo/images/20261110205037_original__movie_34.jpg"
       },
-    ],
+       {
+        "name": "Caminos de Lucha  - Capitulo cinco",
+        "description": "Cada imagen guarda un paso, una decisión, una historia por contar. Así se construye Caminos de lucha, el capítulo final que revive la gran caminata de los indígenas de la amazonía boliviana en loa años 90.",
+        "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/1b51011e-63d4-4995-a18e-a4df270973e3/playlist.m3u8",
+        "icon": "https://ahayou.bo/images/20261110205223_original__movie_467.jpg"
+      }
+    ]
     "visible": false
   },
   "channels": [
