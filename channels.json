@@ -231,74 +231,6 @@
       "is_live": true
     },
     {
-      "id": "seotvmovies",
-      "name": "SeoTv movies",
-      "url": "https://seo.tv.bo/live.php?ch=pelis_hd",
-      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-      "is_live": true,
-      "enabled": false,
-      "additionalHeaders": {
-        "Referer": "https://seo.tv.bo"
-      },
-      "recommendedBuffering": {
-        "minBufferMs": 60000,
-        "maxBufferMs": 120000,
-        "bufferForPlaybackMs": 5000,
-        "bufferForPlaybackAfterRebufferMs": 20000
-      }
-    },
-    {
-      "id": "seotv.1",
-      "name": "SeoTv.1",
-      "url": "https://seo.tv.bo/live.php?ch=seotv_SD",
-      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-      "is_live": true,
-      "enabled": false,
-      "additionalHeaders": {
-        "Referer": "https://seo.tv.bo"
-      },
-      "recommendedBuffering": {
-        "minBufferMs": 60000,
-        "maxBufferMs": 120000,
-        "bufferForPlaybackMs": 10000,
-        "bufferForPlaybackAfterRebufferMs": 20000
-      }
-    },
-    {
-      "id": "seotv.novelas",
-      "name": "SeoTv.Novelas",
-      "url": "https://seo.tv.bo/live.php?ch=novelas_sd",
-      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-      "is_live": true,
-      "enabled": false,
-      "additionalHeaders": {
-        "Referer": "https://seo.tv.bo"
-      },
-      "recommendedBuffering": {
-        "minBufferMs": 60000,
-        "maxBufferMs": 120000,
-        "bufferForPlaybackMs": 5000,
-        "bufferForPlaybackAfterRebufferMs": 20000
-      }
-    },
-    {
-      "id": "seotv.kids",
-      "name": "SeoTv.Kids",
-      "url": "https://seo.tv.bo/live.php?ch=kids_sd",
-      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-      "is_live": true,
-      "enabled": false,
-      "additionalHeaders": {
-        "Referer": "https://seo.tv.bo"
-      },
-      "recommendedBuffering": {
-        "minBufferMs": 60000,
-        "maxBufferMs": 120000,
-        "bufferForPlaybackMs": 5000,
-        "bufferForPlaybackAfterRebufferMs": 20000
-      }
-    },
-    {
       "id": "gigavisionlpz",
       "name": "Gigavision Lpz",
       "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
@@ -451,34 +383,6 @@
       }
     },
     {
-      "id": "seotv.musica",
-      "name": "SeoTv.Musica",
-      "url": "https://seo.tv.bo/live.php?ch=musica_SD",
-      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-      "is_live": false,
-      "enabled": false,
-      "additionalHeaders": {
-        "Referer": "https://seo.tv.bo"
-      },
-      "recommendedBuffering": {
-        "minBufferMs": 60000,
-        "maxBufferMs": 120000,
-        "bufferForPlaybackMs": 5000,
-        "bufferForPlaybackAfterRebufferMs": 20000
-      }
-    },
-    {
-      "id": "seotv.abyayala",
-      "name": "SeoTv.Abya.Yala.tv",
-      "url": "https://seo.tv.bo/live.php?ch=abyayala_sd",
-      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
-      "is_live": true,
-      "enabled": false,
-      "additionalHeaders": {
-        "Referer": "https://seo.tv.bo"
-      }
-    },
-    {
       "id": "fap",
       "name": "FAP Televisión",
       "url": "https://edge.enhdtv.com/faptv/index.m3u8",
@@ -578,6 +482,102 @@
       "url": "https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8",
       "icon": "https://canales.asplurtv.com/logo_telefe.png",
       "is_live": true
+    },
+    {
+      "id": "seotvmovies",
+      "name": "SeoTv movies",
+      "url": "https://seo.tv.bo/live.php?ch=pelis_hd",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": true,
+      "enabled": false,
+      "additionalHeaders": {
+        "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
+      }
+    },
+    {
+      "id": "seotv.1",
+      "name": "SeoTv.1",
+      "url": "https://seo.tv.bo/live.php?ch=seotv_SD",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": true,
+      "enabled": false,
+      "additionalHeaders": {
+        "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 10000,
+        "bufferForPlaybackAfterRebufferMs": 20000
+      }
+    },
+    {
+      "id": "seotv.novelas",
+      "name": "SeoTv.Novelas",
+      "url": "https://seo.tv.bo/live.php?ch=novelas_sd",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": true,
+      "enabled": false,
+      "additionalHeaders": {
+        "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
+      }
+    },
+    {
+      "id": "seotv.kids",
+      "name": "SeoTv.Kids",
+      "url": "https://seo.tv.bo/live.php?ch=kids_sd",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": true,
+      "enabled": false,
+      "additionalHeaders": {
+        "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
+      }
+    },
+    {
+      "id": "seotv.musica",
+      "name": "SeoTv.Musica",
+      "url": "https://seo.tv.bo/live.php?ch=musica_SD",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": false,
+      "enabled": false,
+      "additionalHeaders": {
+        "Referer": "https://seo.tv.bo"
+      },
+      "recommendedBuffering": {
+        "minBufferMs": 60000,
+        "maxBufferMs": 120000,
+        "bufferForPlaybackMs": 5000,
+        "bufferForPlaybackAfterRebufferMs": 20000
+      }
+    },
+    {
+      "id": "seotv.abyayala",
+      "name": "SeoTv.Abya.Yala.tv",
+      "url": "https://seo.tv.bo/live.php?ch=abyayala_sd",
+      "icon": "https://i.ytimg.com/vi/TdXBUCNMzWk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgPihCMA8=&rs=AOn4CLAloq4x5uC0UYigAk_2a_vEagLsLQ",
+      "is_live": true,
+      "enabled": false,
+      "additionalHeaders": {
+        "Referer": "https://seo.tv.bo"
+      }
     },
     {
       "id": "latinatv",
