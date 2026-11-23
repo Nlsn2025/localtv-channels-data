@@ -55,7 +55,13 @@
         "description": "Cada imagen guarda un paso, una decisión, una historia por contar. Así se construye Caminos de lucha, el capítulo final que revive la gran caminata de los indígenas de la amazonía boliviana en loa años 90.",
         "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/1b51011e-63d4-4995-a18e-a4df270973e3/playlist.m3u8",
         "icon": "https://ahayou.bo/images/20261110205223_original__movie_467.jpg"
-      }
+      },
+      {
+        "name": "Interno - Cortometraje",
+        "description": "",
+        "url": "https://wv-cdn-00-00.wowza.com/808ca3c9-4498-4562-98e4-e82659d1bf8b/cmaf/8ddbebf2-1858-41e2-99c6-cc7f5a8dfe39/playlist.m3u8",
+        "icon": "https://ahayou.bo/uploads/movies/20261029133925image_1080x720_movie_498.png"
+      }      
     ],
     "visible": false
   },
