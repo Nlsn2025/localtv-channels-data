@@ -284,9 +284,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url2": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(0gjiVC-ZCJH5bDCNneL5SSxo221y6OrZnVjQuAWCafbaNYFsCHSzfVkXdnC-KF9Gp0CVU9aIC6eGTraog8aDjisV-7A_wpd3H7jb6COun4ctnOkurMDWemRym06xVfHDwtL8mhR5BM-0LFCc8zcUjf7WUXCH-kQ-w2yf-QOOpRdm0ai7RcFh7Cgcki_4f9IO)/cloud/3/x9ny70y/d/live-aac-128.m3u8",
-      "url":"https://cdndirector.dailymotion.com/cdn/live/video/x9ny70y.m3u8?sec=VQNAGylMd5I5iT4x4X7eo7gIDZm-HSiMm5PyZzy-X4URxrXVPeAp0cla-qK1wqxGbaW6Dh017pxhAx1tiTYrvIwwpWlFuYrGA0_CfxglfhLc_W50GtRmlM4olNs0XbZJ",
-      "url3": "https://geo.dailymotion.com/videos/x9ny70y",
+      "url":"https://geo.dailymotion.com/videos/x9ny70y",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "useCustomResolver": true,
@@ -300,8 +298,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(eY5Ke8FsW6XHn8iRvS9N0v9eLgIFt8VbMuhJUDpNW9iBmn_yYrpdd_O0B7dg-18FgAp2BmgcvhpHtQ2H56YBwY40eAwU7Go245l4LOggwaWwZd71NhhfUxH-ZTHkJg93YIzCprumlfvDZMgKc88C_v7lDy0qacy_UkhjSknUbhs6sPMIdpP2p1JiRsn5qzwP)/cloud/3/x9nzqpo/d/live-aac-128.m3u8",
-      "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=d0O0IyTS0YGcRoGp09daB44_l2DUKdtmcV1QLLHDoyUQAwNyfbiOtiHGizs0OlUwCdGUWVqkDQL_q2hFuqW8uS7J1iNlg1LxGSQUIA1W-UVAj15dloVgfpAfManlfzRQ",
+      "url": "https://geo.dailymotion.com/videos/x9nzqpo",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "useCustomResolver": true,
