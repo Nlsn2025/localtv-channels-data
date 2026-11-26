@@ -282,7 +282,7 @@
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
       "url2": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(0gjiVC-ZCJH5bDCNneL5SSxo221y6OrZnVjQuAWCafbaNYFsCHSzfVkXdnC-KF9Gp0CVU9aIC6eGTraog8aDjisV-7A_wpd3H7jb6COun4ctnOkurMDWemRym06xVfHDwtL8mhR5BM-0LFCc8zcUjf7WUXCH-kQ-w2yf-QOOpRdm0ai7RcFh7Cgcki_4f9IO)/cloud/3/x9ny70y/d/live-aac-128.m3u8",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(Wv7pqx8JNUhKC4U5kDkt8uPH-ltkrVMnQWTuDPg5mKJCt5YQifJmbwEz_V0urS8CR_wQ6AJFnpsL7E8mD-BD3nsxA7zeRJgiZ2zDgzqI4Ka-B9rmelyj1y_qN6PvnRP_Je-IMc52RyfdbiqWgNgjKagFvqiefMsbMemcgxhqgpLCwlHoELviJUUbtLM3-J1s)/cloud/3/x9ny70y/d/live-h264-720.m3u8#cell=lcf2-eu-north-1b",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(uV6yIMs-cnLX_v5-NmHSBIgw5k06qyq38ZYYZ5sXh1hRF5QOQLhl77-DeeFs-_IxSCVZbz9PXCfAQ9l5JGEX8cxkWeYk62rqWmOJy7eQFdO7zWaUIvhJWVXOA0lwG7EeuuFaX6_MgZG6ea4Mzzwm7h3rGLAy3qDfNx-odazidrgJ9BhlwQNGg3yHFZN_2l68)/cloud/3/x9ny70y/d/live-h264-480.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -295,7 +295,7 @@
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(eY5Ke8FsW6XHn8iRvS9N0v9eLgIFt8VbMuhJUDpNW9iBmn_yYrpdd_O0B7dg-18FgAp2BmgcvhpHtQ2H56YBwY40eAwU7Go245l4LOggwaWwZd71NhhfUxH-ZTHkJg93YIzCprumlfvDZMgKc88C_v7lDy0qacy_UkhjSknUbhs6sPMIdpP2p1JiRsn5qzwP)/cloud/3/x9nzqpo/d/live-aac-128.m3u8",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(JR89RKXXyldLG8CXgujw7sFoUGH5XfJ6HNcNkGdWmzvmSPPOXMEi8DzK7ve2AmNJcQqyJf75ZOjN1_w21QUzpMtVC5PgSQarcuqLK7ENiJ2qu6XczryH9mp7Sk-CrKITLSyiGAq0CtRwv4skphYG1iBKZmwBnRbNuXJAkYeiFywrdk3U6zkodWcMjHAB7Szn)/cloud/3/x9nzqpo/d/live-h264-720.m3u8#cell=lcf2-eu-north-1a",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(OvFyooNJwbL7_2W7hL2HrOJJYdRl3fxfV6o0x5WsjC-V8a-oM_7bMEiSEnvg7zUIePaKvuB-tayyZi-6foLmbeRSomfY_8f0sJW7Le3P--HVTAiSvsjVYswu666by8HVgnOzk2kdFluuwwsnf65ePAXwWgdR_87r8wl5fhHRxwaPr-KQduEQGHUBwdPAT7CN)/cloud/3/x9nzqpo/d/live-aac-64.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -331,14 +331,14 @@
     {
       "id": "radiofidestv",
       "name": "Radio Fides tv",
-      "url": "https://usw22.playlist.ttvnw.net/v1/playlist/CvMHFMQLWXJm_SxjDzuvnEZnjAEoisAlAFhigILnqi11b_x3VAyRjkVCp8hy_zxZ6J4TozSbKbiDnysKCm_ejRnYCntr-2JwyqrWp6CGuMdJBFTpXUsYEGkkLakxB3JlLpDFbpGSV9TtShisGx6cD0TIIeU5ho5UVF9yQQSN81Q0I0TgKAipHGSJhIONQ8LfjxKl3YM85akEL6vkCp4MK3p7bU5tAmiSlJJcflNShu7K-dsqF8v_1DW6ZhkaQUkP2dwTeDzMasvne2xqQNQGe8WtboYQduH37UhXFC1WeggOVElI3OaJLnza5RHcYSbIE7K2FjjTqS1yyB__r8VM464rH3NBZJswjN_SjHTRRnZF5Ts1u-MtrgHWP4ee46v0rpGfaJk19hnnRaA5EBAp2XV1Ul7oQPAhKzxZRFBHnNrorVx2ddncpd4YXqS1SDhvK307_6wE9N1O96yALSnV6q04smP94EVkj0UWntZmPz-MR9fr3edTBzOoovEe8xFj0mxpYVS0p7j3nILhJFNWKC-TW4-CtG5BEUXxeekZYdTKlJjQccvW43pqolMY92qNaxWRWLTFgxP1Vpnb2C7PN9JnyYfFLaS-ER1PBF3wB6HQMA6V1S4wpVFvBYp64sAw6UiPyFg1hlOLp1MMpZ0c42bVjoGoPTy_f0Swx6M0bXtcv-4qWZR0-0v9Ip74Nc8609egi-DRiSvEoxMUozz0pEMUokfTvFZuks9G8MM-tuMUJ-2tviFvy533r1YzXCPlTz6nVA1mO56eEGzYkUvHvJ5q-TeCk-6xbk1dEFZ9lY2GJr2tni8tQfQ76WpDR9TkPsaVsIx7hS487Dw6uacgNSIexeCok2F3bBb_AU2dXMS3B0ziWUkKJiOVK6jOF6NbdMhGM_KFnbUWRlOdTJp_Fz0qTsOR151JpTcW7atfg55m2CpoDbKY59qjKW-h9Ueyd3wMAO5IGAiweeCVHsjjeR-ri1OV-o0Cfd3X6L0iaqdGG5LLHvc42qM3baY-Z17NlMuPxyn419Nx67uQd3BN0USqu8y3DVrEoKFruQ07hNu5XWZoQ9NWL-jql0eG5joitiijox6g_lVHsYkvaFQCEY7yGapwqf0bQh9vP2ZXHh4Otd3SgE4ZxHTkJpPgYfpAJUPHoXQomrS66j-0DVygXzNhLk9zslWBt5VMcO9Ut3X59A3r8fVHo0b8yb9yo4-jy5yZnpbLphA6x06QxUy723d0aesGud3Y_Zq3X-DVGNw-SrSaOOuxf3UI7GIBDTaoMPoqUQY-BI3KrRbLRv7CKj-wIPybzTkS1DXiF950VQaA1X5DUFPBy0kuSKzSTpkNgCxd6X_7GgxFRD7azL8O8o3QRlMgASoJdXMtd2VzdC0yMNMQ.m3u8",
+      "url": "https://use22.playlist.ttvnw.net/v1/playlist/CtgHEsaeb1aOaM0NzE_9biyucJoMprWYJLFSV87KYZbYsz2A5yP4v4xMS6UqKFkK1PGOjKue2AC2zPWWqtZQPdc9_4qYcPMUXt_yobQ81h9tBQsoa9PKAm4nt5GS9mhzPR6PWLdTqP1LIdQc3drqDp73zHtjp6gGGwzY9zOZqcys8hLJXp4RyCOJEpFwMgYLufHnNbO5pIDQJtbWCEM63jsXomCrsqUZFBbk21zkYovt7PZKSVQB59UrvGyvkTTdLwpNhB0j8mXAswrdOhvbsFvt5A4oycvDFtaqztX6UXUEEsu76TZCUXB8Q9CAtz1HlDNvpENCdQCPDga6abMn-6BIpZQsVMxfAqZnlaV1k4_d9-6KelRJlYi8NuOVQvFmnyE3LOrQds5JJU56GuBSkeVem-cKbSzxk29CfYiyzh2ZvGp-mrH24DpJKWSNP18xbvu-VIKLp-3E4NWxh7qjsqB9lum4UxB8rC-8l8c9YvCrOsTVWKC3ppKIfq92rDcVkriAYBIHk2mk7_wdETMbV1bF8W57sgwNqhqH_NuJIWNvt8aG2Pr8kutHfXTK3X1YDo-yeTJHiLNu9RUBWe0EU97_jfDz8IJPy3fkqsDEfyI-GeORnNZe_-GAPsD8C1myOMilawzylSMfwVvunZ2gJT8YzPXbGvwmEkR2ewI93Jh0_I3VxmtTGD-Msp2smC0t0c2NE7PVtSwz4zS49z0D5GUBNj4tvfJ0Sl5B381bLHMtGVWXXEiLEfmIG1KyFDmHFcGUUpaBFFd-LdKULlsxwtrc6QjfB6GR_17MQEMQM_4IvcxIfarnpyl-eBuU6OGvnrPa125MqRPgMmwTapPUvcnilEXQMZcDKqXn8VFensklhS_ykSAo8Gjdx2VFBl4Bj6rNURA2b7S9DEaxYqZbPOCN0dKfw9Gna1VZtMIjEJEs-KA7b8FWW0p7-7Xo74XWYUl6g2W5Hs326TlFE737PNUOv__c_0DQcmJ9F23VhY-N1aOYfbyL4m5XklgMlFoB57LkSyt0W93ZJKBp_2MHjY-SoS4hoLTnti_6IUq93rLTquT6k8NduQ5cOKUR3qzI_jQs9Ytw8E2XnPikNebRe1wpKsstI_JHbhdSm-XYS3eD5_Wxvw6zg2a52-IxX9u4b86HK55uoiTNjJ5Ytw2jla3uXuPwPpyUPT91GDXsxO41oaLK0KHr6D_Yf_tQxwLRPdyZIxTEpBrY4haDkqJWH4QTVn73pnqYEeCpdaJYqHn4Lv76IC06ZJetdxcRp7wgMl_xlPxMqMrl8VK0MlLnhAqz5bABcb_1AWrFGgyaLl6qsPxQrwgzhysgASoJdXMtZWFzdC0yMNIQ.m3u8",
       "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
       "is_live": true
     },
     {
       "id": "contactobolivia",
       "name": "Contacto Bolivia",
-      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTU3MDcxMDQsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.mW3L5YoS587jNDfn5K-Dqr0hZ9LAKvwWZMoCzjONz34",
+      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTU3MTY5NzIsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.vy4s4VGMs7xGmMB2s0heeQ7FZ29qcQIejEyEgsqKVOg",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
