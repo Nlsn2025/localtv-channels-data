@@ -286,7 +286,6 @@
       "url3": "https://geo.dailymotion.com/videos/x9ny70y",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,    
-      "useCustomResolver": true,
       "additionalHeaders": {
         "Referer": "https://geo.dailymotion.com",
         "Origin": "https://geo.dailymotion.com",
