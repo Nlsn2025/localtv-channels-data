@@ -281,7 +281,7 @@
     {
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(mZKxKbLhuOye2PI7WdqNsudokdJrJ_ALvu-xJ8xIMj9pZlAm-15DGfjm4iKC3-zD7vwyMKxSeTYf_FPOIUJTRkG4DX9-1cIbhL5ytl-T6U9_RVYRsRE8m6nf2oB4PQMAwvPiVvIw9LajDb-0APD0BxZDQQt1BWDk772RkHTUOe-C_gOTP5sBPHeZkQoxZg0s)/cloud/3/x9ny70y/d/live-aac-64.m3u8",
+      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(0gjiVC-ZCJH5bDCNneL5SSxo221y6OrZnVjQuAWCafbaNYFsCHSzfVkXdnC-KF9Gp0CVU9aIC6eGTraog8aDjisV-7A_wpd3H7jb6COun4ctnOkurMDWemRym06xVfHDwtL8mhR5BM-0LFCc8zcUjf7WUXCH-kQ-w2yf-QOOpRdm0ai7RcFh7Cgcki_4f9IO)/cloud/3/x9ny70y/d/live-aac-64.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -293,7 +293,7 @@
     {
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(tpVrydqnJP1SFL2udzBG6tb_ruAucagCBuy2TDrBRvZ41HZabO0OQYhjp3XngJmElqHZb4w4qLyiz7O3WxXDN2Y6xNDBDLcV-RA5ySfOV3AkOZr9WrpDxsywRMU25D7GoQXQepeLk9pGS6Cixp8KbKB8S_IJIkpWbnWxF-cbKfWxIqsKWQ-M3NH-vetQVrVp)/cloud/3/x9nzqpo/d/live-aac-64.m3u8",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(eY5Ke8FsW6XHn8iRvS9N0v9eLgIFt8VbMuhJUDpNW9iBmn_yYrpdd_O0B7dg-18FgAp2BmgcvhpHtQ2H56YBwY40eAwU7Go245l4LOggwaWwZd71NhhfUxH-ZTHkJg93YIzCprumlfvDZMgKc88C_v7lDy0qacy_UkhjSknUbhs6sPMIdpP2p1JiRsn5qzwP)/cloud/3/x9nzqpo/d/live-aac-64.m3u8",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
       "additionalHeaders": {
@@ -329,14 +329,14 @@
     {
       "id": "radiofidestv",
       "name": "Radio Fides tv",
-      "url": "https://usher.ttvnw.net/api/v2/channel/hls/radiofidesbolivia.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiZGIzMzM0ZGMtMjI0MS00YzE5LTg2MWMtMjgxMTAyYTdlMTkyIiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3d3dy50d2l0Y2gudHYvcmFkaW9maWRlc2JvbGl2aWEifQ%3D%3D&allow_source=true&browser_family=chrome&browser_version=149.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&lang=en&os_name=Linux&os_version=undefined&p=721199&platform=web&play_session_id=01403b49fafc4f559912a333974355fd&player_backend=mediaplayer&player_version=1.59.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=02ef7caf927ad392e1299ea396be9753c606294e&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22radiofidesbolivia%22%2C%22channel_id%22%3A1110475038%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a2e314850e1d42e2b5ea17f27375b924%22%2C%22expires%22%3A1795684740%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2220.169.114.32%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1",
+      "url": "https://usw22.playlist.ttvnw.net/v1/playlist/CvMHFMQLWXJm_SxjDzuvnEZnjAEoisAlAFhigILnqi11b_x3VAyRjkVCp8hy_zxZ6J4TozSbKbiDnysKCm_ejRnYCntr-2JwyqrWp6CGuMdJBFTpXUsYEGkkLakxB3JlLpDFbpGSV9TtShisGx6cD0TIIeU5ho5UVF9yQQSN81Q0I0TgKAipHGSJhIONQ8LfjxKl3YM85akEL6vkCp4MK3p7bU5tAmiSlJJcflNShu7K-dsqF8v_1DW6ZhkaQUkP2dwTeDzMasvne2xqQNQGe8WtboYQduH37UhXFC1WeggOVElI3OaJLnza5RHcYSbIE7K2FjjTqS1yyB__r8VM464rH3NBZJswjN_SjHTRRnZF5Ts1u-MtrgHWP4ee46v0rpGfaJk19hnnRaA5EBAp2XV1Ul7oQPAhKzxZRFBHnNrorVx2ddncpd4YXqS1SDhvK307_6wE9N1O96yALSnV6q04smP94EVkj0UWntZmPz-MR9fr3edTBzOoovEe8xFj0mxpYVS0p7j3nILhJFNWKC-TW4-CtG5BEUXxeekZYdTKlJjQccvW43pqolMY92qNaxWRWLTFgxP1Vpnb2C7PN9JnyYfFLaS-ER1PBF3wB6HQMA6V1S4wpVFvBYp64sAw6UiPyFg1hlOLp1MMpZ0c42bVjoGoPTy_f0Swx6M0bXtcv-4qWZR0-0v9Ip74Nc8609egi-DRiSvEoxMUozz0pEMUokfTvFZuks9G8MM-tuMUJ-2tviFvy533r1YzXCPlTz6nVA1mO56eEGzYkUvHvJ5q-TeCk-6xbk1dEFZ9lY2GJr2tni8tQfQ76WpDR9TkPsaVsIx7hS487Dw6uacgNSIexeCok2F3bBb_AU2dXMS3B0ziWUkKJiOVK6jOF6NbdMhGM_KFnbUWRlOdTJp_Fz0qTsOR151JpTcW7atfg55m2CpoDbKY59qjKW-h9Ueyd3wMAO5IGAiweeCVHsjjeR-ri1OV-o0Cfd3X6L0iaqdGG5LLHvc42qM3baY-Z17NlMuPxyn419Nx67uQd3BN0USqu8y3DVrEoKFruQ07hNu5XWZoQ9NWL-jql0eG5joitiijox6g_lVHsYkvaFQCEY7yGapwqf0bQh9vP2ZXHh4Otd3SgE4ZxHTkJpPgYfpAJUPHoXQomrS66j-0DVygXzNhLk9zslWBt5VMcO9Ut3X59A3r8fVHo0b8yb9yo4-jy5yZnpbLphA6x06QxUy723d0aesGud3Y_Zq3X-DVGNw-SrSaOOuxf3UI7GIBDTaoMPoqUQY-BI3KrRbLRv7CKj-wIPybzTkS1DXiF950VQaA1X5DUFPBy0kuSKzSTpkNgCxd6X_7GgxFRD7azL8O8o3QRlMgASoJdXMtd2VzdC0yMNMQ.m3u8",
       "icon": "https://cdn.radoxo.com/images/bolivia/radio-fides-oruro.webp?v=1788346802",
       "is_live": true
     },
     {
       "id": "contactobolivia",
       "name": "Contacto Bolivia",
-      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTU2OTQzMjEsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.b3ilFP5p6Sl_WDlqaASyT-_UpRKtyYM7CahJqEpU5TU",
+      "url": "https://live-sa.streann.tech/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTU3MDcxMDQsInJpZCI6IjViOGVkNzcwMmNkYzAzNTJiOGUyMWFjYiIsImtleSI6ImtleTEiLCJjaWQiOiI1YjhmMDE4ZTJjZGMwMzUyYjhlMjFhZWUifQ.mW3L5YoS587jNDfn5K-Dqr0hZ9LAKvwWZMoCzjONz34",
       "icon": "https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",
       "is_live": true
     },
