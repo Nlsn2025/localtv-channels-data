@@ -289,7 +289,7 @@
       "additionalHeaders": {
         "Referer": "https://geo.dailymotion.com",
         "Origin": "https://geo.dailymotion.com",
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
       }
     },
     {
