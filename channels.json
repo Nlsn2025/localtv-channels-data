@@ -289,7 +289,23 @@
       "url3": "https://geo.dailymotion.com/videos/x9ny70y",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
-      "customResolveUrlPath": "$.stream.url",
+      "session": {
+        "url": "https://geo.dailymotion.com/videos/x9ny70y",
+        "method": "GET",
+        "body": {
+          "channel": "bolivia_tv"
+        },
+        "additionalHeaders": {
+          "Referer": "https://geo.dailymotion.com",
+          "Origin": "https://geo.dailymotion.com",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
+        },
+        "response": {
+          "streamUrl": "$.stream.url",
+          "refreshAfterSeconds": "120",
+          "expiresAtUnix": "120"
+        }
+      },
       "additionalHeaders": {
         "Referer": "https://geo.dailymotion.com",
         "Origin": "https://geo.dailymotion.com",
