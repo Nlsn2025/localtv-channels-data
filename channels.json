@@ -77,7 +77,8 @@
       "icon2": "https://www.clipartmax.com/png/middle/121-1214648_red-uno-bolivia-2016-red-uno-de-bolivia.png",
       "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
       "is_live": true,
-      "useCustomResolver": true
+      "useCustomResolver": true,
+      "customResolveUrlPath": "$.qualities.auto[0].url"
     },
     {
       "id": "redunoscz",
@@ -94,7 +95,8 @@
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hTsCRuXyP32UVex3RnqCEHULlYnMsQ4RCh-EQRzc4w7rfdjDOfTJDXSrVa3lE6fCsYAUKjspkx7DjEYFZfA8NucyM95OjMCJYT6_Zrm4CqhB8A4cVY4RStMIXJsv94F_)/cloud/3/xarufnm/d/live-380.m3u8",
       "icon2": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
-      "useCustomResolver": true,
+      "useCustomResolver": true,      
+      "customResolveUrlPath": "$.qualities.auto[0].url",
       "is_live": true
     },
     {
@@ -105,6 +107,7 @@
       "icon2": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
       "icon": "https://hd.reduno.com.bo/assets/images/captura-de-pantalla-2025-05-21.png",
       "useCustomResolver": true,
+      "customResolveUrlPath": "$.qualities.auto[0].url",
       "is_live": true
     },
     {
@@ -285,7 +288,8 @@
       "url":"https://cdndirector.dailymotion.com/cdn/live/video/x9ny70y.m3u8?sec=VQNAGylMd5I5iT4x4X7eo7gIDZm-HSiMm5PyZzy-X4URxrXVPeAp0cla-qK1wqxGbaW6Dh017pxhAx1tiTYrvIwwpWlFuYrGA0_CfxglfhLc_W50GtRmlM4olNs0XbZJ",
       "url3": "https://geo.dailymotion.com/videos/x9ny70y",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
-      "is_live": true,    
+      "is_live": true,
+      "customResolveUrlPath": "$.stream.url",
       "additionalHeaders": {
         "Referer": "https://geo.dailymotion.com",
         "Origin": "https://geo.dailymotion.com",
@@ -299,6 +303,7 @@
       "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=d0O0IyTS0YGcRoGp09daB44_l2DUKdtmcV1QLLHDoyUQAwNyfbiOtiHGizs0OlUwCdGUWVqkDQL_q2hFuqW8uS7J1iNlg1LxGSQUIA1W-UVAj15dloVgfpAfManlfzRQ",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
+      "customResolveUrlPath": "$.stream.url",
      "additionalHeaders": {
         "Referer": "https://geo.dailymotion.com",
         "Origin": "https://geo.dailymotion.com",
