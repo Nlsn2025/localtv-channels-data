@@ -297,7 +297,7 @@
       "id": "boliviatv71",
       "name": "BoliviaTv 7.1",
       "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(eY5Ke8FsW6XHn8iRvS9N0v9eLgIFt8VbMuhJUDpNW9iBmn_yYrpdd_O0B7dg-18FgAp2BmgcvhpHtQ2H56YBwY40eAwU7Go245l4LOggwaWwZd71NhhfUxH-ZTHkJg93YIzCprumlfvDZMgKc88C_v7lDy0qacy_UkhjSknUbhs6sPMIdpP2p1JiRsn5qzwP)/cloud/3/x9nzqpo/d/live-aac-128.m3u8",
-      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(JR89RKXXyldLG8CXgujw7sFoUGH5XfJ6HNcNkGdWmzvmSPPOXMEi8DzK7ve2AmNJcQqyJf75ZOjN1_w21QUzpMtVC5PgSQarcuqLK7ENiJ2qu6XczryH9mp7Sk-CrKITLSyiGAq0CtRwv4skphYG1iBKZmwBnRbNuXJAkYeiFywrdk3U6zkodWcMjHAB7Szn)/cloud/3/x9nzqpo/d/live-h264-720.m3u8#cell=lcf2-eu-north-1a",
+      "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=d0O0IyTS0YGcRoGp09daB44_l2DUKdtmcV1QLLHDoyUQAwNyfbiOtiHGizs0OlUwCdGUWVqkDQL_q2hFuqW8uS7J1iNlg1LxGSQUIA1W-UVAj15dloVgfpAfManlfzRQ",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
      "additionalHeaders": {
