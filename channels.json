@@ -282,9 +282,10 @@
       "id": "boliviatv72",
       "name": "BoliviaTv 7.2",
       "url2": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(0gjiVC-ZCJH5bDCNneL5SSxo221y6OrZnVjQuAWCafbaNYFsCHSzfVkXdnC-KF9Gp0CVU9aIC6eGTraog8aDjisV-7A_wpd3H7jb6COun4ctnOkurMDWemRym06xVfHDwtL8mhR5BM-0LFCc8zcUjf7WUXCH-kQ-w2yf-QOOpRdm0ai7RcFh7Cgcki_4f9IO)/cloud/3/x9ny70y/d/live-aac-128.m3u8",
-      "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(uV6yIMs-cnLX_v5-NmHSBIgw5k06qyq38ZYYZ5sXh1hRF5QOQLhl77-DeeFs-_IxSCVZbz9PXCfAQ9l5JGEX8cxkWeYk62rqWmOJy7eQFdO7zWaUIvhJWVXOA0lwG7EeuuFaX6_MgZG6ea4Mzzwm7h3rGLAy3qDfNx-odazidrgJ9BhlwQNGg3yHFZN_2l68)/cloud/3/x9ny70y/d/live-h264-480.m3u8",
+      "url": "https://geo.dailymotion.com/videos/x9ny70y",
       "icon": "https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg",
       "is_live": true,
+       "useCustomResolver": true,
       "additionalHeaders": {
         "Referer": "https://geo.dailymotion.com",
         "Origin": "https://geo.dailymotion.com",
