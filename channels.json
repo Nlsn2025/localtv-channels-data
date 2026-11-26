@@ -1,7 +1,7 @@
 {
   "tvbolstreaming": {
     "id": "tvbol-streaming",
-    "name": "TVBol StreaminG",
+    "name": "TVBol Streaming",
     "description": "Películas durante todo el día",
     "streamUrlUbuntu": "http://192.168.124.142:8082/hls/channel/channel.m3u8",
     "streamUrl2": "http://10.0.2.2:8080/hls/channel/channel.m3u8",
