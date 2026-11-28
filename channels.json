@@ -303,8 +303,8 @@
         },
         "response": {
           "streamUrl": "$.stream.url",
-          "refreshAfterSeconds": "120",
-          "expiresAtUnix": "120"
+          "refreshAfterSeconds": "3600",
+          "expiresAtUnix": "3600"
         }
       },
       "additionalHeaders": {
@@ -334,8 +334,8 @@
         },
         "response": {
           "streamUrl": "$.stream.url",
-          "refreshAfterSeconds": "120",
-          "expiresAtUnix": "120"
+          "refreshAfterSeconds": "3600",
+          "expiresAtUnix": "3600"
         }
       },
       "additionalHeaders": {
